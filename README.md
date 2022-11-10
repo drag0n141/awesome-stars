@@ -559,6 +559,7 @@
 
 ## Python 
 
+- [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [thammi/plex_token](https://github.com/thammi/plex_token) - Plex authentication token request script
 - [atnpgo/Plex-Cinema-Experience-Preroll](https://github.com/atnpgo/Plex-Cinema-Experience-Preroll) - A set of scripts for downloading upcoming trailers from Apple and preparing a Plex pre-roll that replicates most of what the Cinema Experience Kodi plugin used to do.
