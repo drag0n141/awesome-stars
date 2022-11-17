@@ -82,6 +82,7 @@
 
 ## C# # 
 
+- [jasongdove/ErsatzTV](https://github.com/jasongdove/ErsatzTV) - Stream custom live channels using your own media
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
@@ -197,6 +198,7 @@
 
 ## Go 
 
+- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [kyledwilson/plex-init](https://github.com/kyledwilson/plex-init) - Claim a plex server token and store it as a kubernetes secret
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -468,6 +470,8 @@
 
 ## Others 
 
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - A setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [Brettdah/crowdsec-with-traefik-bouncer](https://github.com/Brettdah/crowdsec-with-traefik-bouncer) - Crowdsec docker compose  configuration with fbonalair traefik bouncer
 - [4maself/traefik-crowdsec](https://github.com/4maself/traefik-crowdsec) - A template to deploy a Traefik proxy protected by crowdsec
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -774,7 +778,7 @@
 - [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox
 - [Artiume/docker](https://github.com/Artiume/docker) - 
 - [WolfeCub/home-ops](https://github.com/WolfeCub/home-ops) - A k8s cluster (for home) built with k3s, flux v2 & renovate
-- [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - Container for the deprecated WildFly distribution of Keycloak. See https://www.keycloak.org/server/containers for details on the new Quarkus based distribution.
+- [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [kaysond/trafficjam](https://github.com/kaysond/trafficjam) - A Docker firewall for your reverse proxy network
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
@@ -839,7 +843,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
