@@ -70,6 +70,7 @@
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
+- [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jquery](#jquery)
@@ -821,9 +822,14 @@
 ## java 
 
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
+- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Controller software for the PCPanel (getpcpanel.com) devices.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [rolandosborne/IndiView](https://github.com/rolandosborne/IndiView) - Take back control of your data with IndiView, an app for self-hosted digital identities on CoreDB nodes. Designed for Android and iOS, supports messaging and personalized content feeds.
+
+## javafx 
+
+- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Controller software for the PCPanel (getpcpanel.com) devices.
 
 ## javascript 
 
@@ -1061,7 +1067,6 @@
 - [jasongdove/ErsatzTV](https://github.com/jasongdove/ErsatzTV) - Stream custom live channels using your own media
 - [Apollon77/ioBroker.tuya](https://github.com/Apollon77/ioBroker.tuya) - ioBroker adapter to connect to several small and cheap Wifi devices that care connected to the Tuya Cloud and mostly use the Smartlife App/Alexa-Skill
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
-- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Controller software for the PCPanel (getpcpanel.com) devices.
 - [Brettdah/crowdsec-with-traefik-bouncer](https://github.com/Brettdah/crowdsec-with-traefik-bouncer) - Crowdsec docker compose  configuration with fbonalair traefik bouncer
 - [4maself/traefik-crowdsec](https://github.com/4maself/traefik-crowdsec) - A template to deploy a Traefik proxy protected by crowdsec
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
