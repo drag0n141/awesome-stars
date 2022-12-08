@@ -220,6 +220,7 @@
 - [omegion/ssh-manager](https://github.com/omegion/ssh-manager) - SSH Key Manager for 1Password, Bitwarden and AWS S3.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [hrfee/jfa-go](https://github.com/hrfee/jfa-go) - a better way to manage your Jellyfin users, now in go
 - [l3uddz/missarr](https://github.com/l3uddz/missarr) - Search for missing content in Sonarr/Radarr in a controlled fashion
@@ -471,6 +472,7 @@
 
 ## Others 
 
+- [the-via/releases](https://github.com/the-via/releases) - 
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [Brettdah/crowdsec-with-traefik-bouncer](https://github.com/Brettdah/crowdsec-with-traefik-bouncer) - Crowdsec docker compose  configuration with fbonalair traefik bouncer
@@ -572,7 +574,7 @@
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [thammi/plex_token](https://github.com/thammi/plex_token) - Plex authentication token request script
 - [atnpgo/Plex-Cinema-Experience-Preroll](https://github.com/atnpgo/Plex-Cinema-Experience-Preroll) - A set of scripts for downloading upcoming trailers from Apple and preparing a Plex pre-roll that replicates most of what the Cinema Experience Kodi plugin used to do.
-- [walkxcode/Dashboard-Icons](https://github.com/walkxcode/Dashboard-Icons) - ❤️ The best icons for your personal dashboard.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [Inboxen/Inboxen](https://github.com/Inboxen/Inboxen) - Main repo for Inboxen.org
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -828,7 +830,6 @@
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
 - [n-thumann/IPTV-ReStream](https://github.com/n-thumann/IPTV-ReStream) - An app to forward source specific multicast streams via HTTP
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
