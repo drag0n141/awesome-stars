@@ -386,7 +386,7 @@
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and SniProxy
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [walkxcode/Dashboard-Icons](https://github.com/walkxcode/Dashboard-Icons) - ❤️ The best icons for your personal dashboard.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
 - [capnspacehook/whalewall](https://github.com/capnspacehook/whalewall) - Automate management of firewall rules for Docker containers
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - A self-hosted alternative to proprietary connectivity solutions.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -1063,6 +1063,7 @@
 
 ## others 
 
+- [the-via/releases](https://github.com/the-via/releases) - 
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 - [Ealenn/AdGuard-Home-List](https://github.com/Ealenn/AdGuard-Home-List) - Varied and carefully selected filter lists and consolidates for use in AdGuard Home.
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c
