@@ -73,6 +73,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -855,6 +856,10 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 
 ## jekyll 
+
+- [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
+
+## jekyll-theme 
 
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
 
