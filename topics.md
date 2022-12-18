@@ -1076,6 +1076,7 @@
 
 ## others 
 
+- [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Scan your library files for corrupt media and replace the files via sonarr and radarr
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [the-via/releases](https://github.com/the-via/releases) - 
@@ -1709,6 +1710,7 @@
 
 ## ubuntu 
 
+- [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 
 ## vue 
