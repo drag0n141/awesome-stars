@@ -116,10 +116,11 @@
 - [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - The best cross-platform Plex media downloader there is! In active development and feedback is very welcome!
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
-- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [M2Team/NanaRun](https://github.com/M2Team/NanaRun) - Application runtime environment customization utility
@@ -154,6 +155,7 @@
 
 - [tronyx/plpp](https://github.com/tronyx/plpp) - PHP Library Presenter for PLEX
 - [jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css) - Custom stylesheet for filebrowser that adds colors and changes icons
+- [Hasnayeen/larks](https://github.com/Hasnayeen/larks) - https://github.com/Hasnayeen/goodwork
 - [menushka/cards](https://github.com/menushka/cards) - A simple start page with cards based on shrek-gabe-itch/StartPage
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
@@ -720,7 +722,6 @@
 - [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [Hasnayeen/larks](https://github.com/Hasnayeen/larks) - https://github.com/Hasnayeen/goodwork
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [jmgilman/vaultssh](https://github.com/jmgilman/vaultssh) - A small CLI wrapper for authenticating with SSH keys from Hashicorp Vault
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
