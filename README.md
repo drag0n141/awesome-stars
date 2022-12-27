@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [kyledwilson/plex-init](https://github.com/kyledwilson/plex-init) - Claim a plex server token and store it as a kubernetes secret
@@ -488,7 +489,6 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [repo-sync/repo-sync](https://github.com/repo-sync/repo-sync) - 🔄 Keep a pair of GitHub repos in sync
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-- [rustyshackleford36/locatarr](https://github.com/rustyshackleford36/locatarr) - My intent is to locate all the *arr apps that are out there in the world, like Sonarr, Radarr, etc. Thus, locatarr
 - [a-pichard/traefik-seedbox](https://github.com/a-pichard/traefik-seedbox) - Plex media server and rtorrent-flood with traefik in docker and docker-compose
 - [classicjazz/plex-client-profiles](https://github.com/classicjazz/plex-client-profiles) - Custom client profiles for Plex
 - [ambroisemaupate/plex-profiles](https://github.com/ambroisemaupate/plex-profiles) - Personal profiles for Plex Media Server
@@ -584,6 +584,7 @@
 
 ## Python 
 
+- [HamletDuFromage/switch-cheats-db](https://github.com/HamletDuFromage/switch-cheats-db) - A database of cheats for the Nintendo Switch
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [thammi/plex_token](https://github.com/thammi/plex_token) - Plex authentication token request script
