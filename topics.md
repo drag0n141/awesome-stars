@@ -620,7 +620,7 @@
 ## go 
 
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
-- [kyledwilson/plex-init](https://github.com/kyledwilson/plex-init) - Claim a plex server token and store it as a kubernetes secret
+- [kdwils/plex-init](https://github.com/kdwils/plex-init) - Claim a plex server token and store it as a kubernetes secret
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
@@ -890,7 +890,7 @@
 
 ## kubernetes 
 
-- [kyledwilson/plex-init](https://github.com/kyledwilson/plex-init) - Claim a plex server token and store it as a kubernetes secret
+- [kdwils/plex-init](https://github.com/kdwils/plex-init) - Claim a plex server token and store it as a kubernetes secret
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
@@ -1288,7 +1288,7 @@
 - [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
 - [jedisct1/whatsmyresolver](https://github.com/jedisct1/whatsmyresolver) - A tiny DNS server that returns the client (resolver) IP
 - [daneren2005/Subsonic](https://github.com/daneren2005/Subsonic) - Home of the DSub Android client fork
-- [keithieopia/linux-guides](https://github.com/keithieopia/linux-guides) - tweak, optimize, and secure linux
+- [beyondmeh/linux-guides](https://github.com/beyondmeh/linux-guides) - tweak, optimize, and secure linux
 - [radssh/radssh](https://github.com/radssh/radssh) - RadSSH is a Python utility/toolkit that facilitates multiple concurrent SSH interactive command execution shells, as well as many other parallel execution tricks.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 - [stcz/initramfs-tools-network-hook](https://github.com/stcz/initramfs-tools-network-hook) - Some hooks to get vlan and bond interfaces to work with initramfs
