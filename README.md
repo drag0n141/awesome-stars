@@ -207,7 +207,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
-- [kyledwilson/plex-init](https://github.com/kyledwilson/plex-init) - Claim a plex server token and store it as a kubernetes secret
+- [kdwils/plex-init](https://github.com/kdwils/plex-init) - Claim a plex server token and store it as a kubernetes secret
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [capnspacehook/whalewall](https://github.com/capnspacehook/whalewall) - Automate management of firewall rules for Docker containers
 - [AdguardTeam/AdGuardDNS](https://github.com/AdguardTeam/AdGuardDNS) - Public DNS resolver that protects you from ad trackers
@@ -514,7 +514,7 @@
 - [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
 - [pekare/hetzner-proxmox-pfsense](https://github.com/pekare/hetzner-proxmox-pfsense) - 
 - [mtoohey31/headscale-config](https://github.com/mtoohey31/headscale-config) - My WIP config for headscale.
-- [keithieopia/linux-guides](https://github.com/keithieopia/linux-guides) - tweak, optimize, and secure linux
+- [beyondmeh/linux-guides](https://github.com/beyondmeh/linux-guides) - tweak, optimize, and secure linux
 - [alphacodinghub/homelab-traefikv2](https://github.com/alphacodinghub/homelab-traefikv2) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2, and LetsEncrypt
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
