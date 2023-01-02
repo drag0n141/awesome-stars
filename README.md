@@ -62,6 +62,7 @@
 
 ## C 
 
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -175,6 +176,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) - 
 - [shawly/docker-nut](https://github.com/shawly/docker-nut) - Docker container for https://github.com/blawar/NUT. "latest" & "v3" tags use stable release v3.3. "edge" tag uses latest master source code.
 - [mikenye/docker-plex_dupefinder](https://github.com/mikenye/docker-plex_dupefinder) - Multi-arch docker image for l3uddz/plex_dupefinder (amd64, arm/v7, arm64)
 - [linuxserver/docker-doublecommander](https://github.com/linuxserver/docker-doublecommander) - 
