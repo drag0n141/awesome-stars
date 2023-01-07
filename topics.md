@@ -222,7 +222,6 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -233,7 +232,6 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -326,7 +324,7 @@
 - [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 - [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## css 
 
@@ -508,7 +506,6 @@
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 🚚 Dashboard Icons has moved to another home!
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -537,7 +534,7 @@
 - [whyvra/tunnel](https://github.com/whyvra/tunnel) - The secure manager for your WireGuard clients
 - [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
 - [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## electron 
 
@@ -699,7 +696,7 @@
 
 ## good-first-issue 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## google 
 
@@ -779,7 +776,6 @@
 - [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -791,7 +787,6 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
@@ -1100,6 +1095,7 @@
 
 ## others 
 
+- [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) - 
 - [HamletDuFromage/switch-cheats-db](https://github.com/HamletDuFromage/switch-cheats-db) - A database of cheats for the Nintendo Switch
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
@@ -1284,6 +1280,7 @@
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 - [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
+- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more
 - [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
@@ -1790,6 +1787,7 @@
 
 ## windows 
 
+- [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - 🖱 Cursor movement customization between multiple Displays  🖥  (and soon between multiple Computers)
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -1814,7 +1812,7 @@
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Open source ambient lighting implementation for television sets based on the video and audio streams analysis for Windows, macOS and Linux (x86 and Raspberry Pi). Includes real-time HDR tone mapping a
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
