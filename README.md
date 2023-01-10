@@ -747,6 +747,7 @@
 
 ## Shell 
 
+- [razzius/fish-functions](https://github.com/razzius/fish-functions) - Useful fish functions
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
