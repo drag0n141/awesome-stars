@@ -1095,6 +1095,7 @@
 
 ## others 
 
+- [razzius/fish-functions](https://github.com/razzius/fish-functions) - Useful fish functions
 - [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [linuxserver/docker-duplicati](https://github.com/linuxserver/docker-duplicati) - 
 - [HamletDuFromage/switch-cheats-db](https://github.com/HamletDuFromage/switch-cheats-db) - A database of cheats for the Nintendo Switch
