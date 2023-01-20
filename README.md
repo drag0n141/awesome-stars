@@ -558,7 +558,6 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
-- [jams246/mira](https://github.com/jams246/mira) - A lightweight WebUI alternative to top/htop for GNU/Linux.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
 - [awesometic/docker-h5ai](https://github.com/awesometic/docker-h5ai) - Lightweight h5ai 0.30.0 container with Nginx 1.21 & PHP 8 based on Alpine Linux.
