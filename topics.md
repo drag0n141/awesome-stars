@@ -1349,7 +1349,6 @@
 - [hashicorp/docker-vault](https://github.com/hashicorp/docker-vault) - Official Docker images for Vault
 - [jmgilman/vaultssh](https://github.com/jmgilman/vaultssh) - A small CLI wrapper for authenticating with SSH keys from Hashicorp Vault
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
-- [jams246/mira](https://github.com/jams246/mira) - A lightweight WebUI alternative to top/htop for GNU/Linux.
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
 - [saltydk/SARotate](https://github.com/saltydk/SARotate) - 
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
