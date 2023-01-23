@@ -1100,6 +1100,7 @@
 
 ## others 
 
+- [BWLR/SMX-HLDR](https://github.com/BWLR/SMX-HLDR) - Mechanical keyboard switch holder, display, and tester
 - [ellite/plex-scripts](https://github.com/ellite/plex-scripts) - Collection of Plex Scripts
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [TekWizely/run](https://github.com/TekWizely/run) - Task runner that helps you easily manage and invoke small scripts and wrappers
