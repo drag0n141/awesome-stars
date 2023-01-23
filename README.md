@@ -15,6 +15,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [G-code](#g-code)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -207,6 +208,10 @@
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
+
+## G-code 
+
+- [BWLR/SMX-HLDR](https://github.com/BWLR/SMX-HLDR) - Mechanical keyboard switch holder, display, and tester
 
 ## Go 
 
