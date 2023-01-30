@@ -174,6 +174,7 @@
 
 ## Dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Android application to use ReVanced
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
@@ -597,6 +598,7 @@
 
 ## Python 
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [ItsCinnabar/ArrQueue](https://github.com/ItsCinnabar/ArrQueue) - Posts on discord when there is a stuck file in the radarr or sonarr queue
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [ellite/plex-scripts](https://github.com/ellite/plex-scripts) - Collection of Plex Scripts
@@ -760,6 +762,7 @@
 
 ## Shell 
 
+- [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [DerDanilo/proxmox-stuff](https://github.com/DerDanilo/proxmox-stuff) - This is a collection of stuff that I wrote for Proxmox.
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [razzius/fish-functions](https://github.com/razzius/fish-functions) - Useful fish functions
