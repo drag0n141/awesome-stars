@@ -1113,6 +1113,8 @@
 
 ## others 
 
+- [deajan/backup-bench](https://github.com/deajan/backup-bench) - Quick and dirty backup tool benchmark with reproducible results
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [DerDanilo/proxmox-stuff](https://github.com/DerDanilo/proxmox-stuff) - This is a collection of stuff that I wrote for Proxmox.
 - [ItsCinnabar/ArrQueue](https://github.com/ItsCinnabar/ArrQueue) - Posts on discord when there is a stuck file in the radarr or sonarr queue
