@@ -343,7 +343,6 @@
 
 ## HTML 
 
-- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
@@ -389,6 +388,7 @@
 ## JavaScript 
 
 - [TheUltimateC0der/alternatrr](https://github.com/TheUltimateC0der/alternatrr) - alternatrr lets you add alternative titles to your sonarr instance with a simple WebUI
+- [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [Makeshift/generate-dependabot-glob-action](https://github.com/Makeshift/generate-dependabot-glob-action) - Generates a `dependabot.yml` and PRs it against your repo if it needs updating to include a new directory or package-ecosystem, with globs/wildcards
 - [Apollon77/ioBroker.tuya](https://github.com/Apollon77/ioBroker.tuya) - ioBroker adapter to connect to several small and cheap Wifi devices that care connected to the Tuya Cloud and mostly use the Smartlife App/Alexa-Skill
@@ -407,6 +407,7 @@
 - [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
@@ -414,7 +415,7 @@
 - [jauderho/cf-warp](https://github.com/jauderho/cf-warp) - 
 - [andyt10/html-js-authenticator](https://github.com/andyt10/html-js-authenticator) - HTML based implementation of RFC6238 TOTP
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
-- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is basically an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
+- [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [jfarseneau/antennas](https://github.com/jfarseneau/antennas) - 📡HDHomeRun emulator for Plex DVR to connect to Tvheadend.
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
 - [trossr32/sonarr-radarr-lidarr-autosearch-browser-extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - An extension for Chromium and Firefox browsers that automates searching on Sonarr, Radarr and Lidarr instances based on a modified URL, and adds context menus for direct searching from any selected te
@@ -722,7 +723,6 @@
 
 - [metikular/coupon-store](https://github.com/metikular/coupon-store) - A home for all your coupons and loyalty cards. https://coupon.metikular.ch
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
 - [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Ruby gem to perform actions when files are changed. No config files. Pure Ruby implementation and minimalistic Ruby API.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [evait-security/envizon](https://github.com/evait-security/envizon) - network visualization & pentest reporting
