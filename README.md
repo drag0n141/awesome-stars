@@ -219,6 +219,8 @@
 
 ## Go 
 
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
+- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [TekWizely/run](https://github.com/TekWizely/run) - Task runner that helps you easily manage and invoke small scripts and wrappers
@@ -604,6 +606,7 @@
 
 ## Python 
 
+- [ekutner/kopia-mon](https://github.com/ekutner/kopia-mon) - 
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) - Streamlink Twitch plugin modified to work with the TTV.LOL API
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [ItsCinnabar/ArrQueue](https://github.com/ItsCinnabar/ArrQueue) - Posts on discord when there is a stuck file in the radarr or sonarr queue
@@ -876,6 +879,7 @@
 
 ## TypeScript 
 
+- [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - An automatic livestream recorder
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [Ealenn/AdGuard-Home-List](https://github.com/Ealenn/AdGuard-Home-List) - Varied and carefully selected filter lists and consolidates for use in AdGuard Home.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
