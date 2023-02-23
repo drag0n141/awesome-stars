@@ -347,6 +347,7 @@
 
 ## HTML 
 
+- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
