@@ -81,6 +81,7 @@
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [latex](#latex)
@@ -419,6 +420,7 @@
 
 ## docker 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [terrasim/coredns-traefik](https://github.com/terrasim/coredns-traefik) - 📚 A CoreDNS plugin to discover domains by docker hosted traefik instances
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
@@ -883,14 +885,14 @@
 ## java 
 
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
-- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Controller software for the PCPanel (getpcpanel.com) devices.
+- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Thirs party/community managed controller software for the PCPanel (getpcpanel.com) devices.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [rolandosborne/IndiView](https://github.com/rolandosborne/IndiView) - Take back control of your data with IndiView, an app for self-hosted digital identities on CoreDB nodes. Designed for Android and iOS, supports messaging and personalized content feeds.
 
 ## javafx 
 
-- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Controller software for the PCPanel (getpcpanel.com) devices.
+- [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Thirs party/community managed controller software for the PCPanel (getpcpanel.com) devices.
 
 ## javascript 
 
@@ -936,6 +938,10 @@
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
+
+## kotlin 
+
+- [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 
 ## kubernetes 
 
