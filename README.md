@@ -619,6 +619,7 @@
 
 ## Python 
 
+- [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
 - [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder platform that uses push to send notifications to your device. Set the reminder and forget about it!
 - [ekutner/kopia-mon](https://github.com/ekutner/kopia-mon) - 
 - [2bc4/streamlink-ttvlol](https://github.com/2bc4/streamlink-ttvlol) - Streamlink Twitch plugin modified to work with the TTV.LOL API
@@ -748,6 +749,7 @@
 
 ## Rust 
 
+- [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Avoid Twitch ads by grabbing video playlists from Russia
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
