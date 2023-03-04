@@ -138,7 +138,6 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [web-assembly](#web-assembly)
 - [webapp](#webapp)
@@ -1855,14 +1854,6 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - The best cross-platform Plex media downloader there is! In active development and feedback is very welcome!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-
-## vuejs 
-
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
 ## web 
 
