@@ -749,6 +749,7 @@
 
 ## Rust 
 
+- [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 - [AlyoshaVasilieva/luminous-ttv](https://github.com/AlyoshaVasilieva/luminous-ttv) - Avoid Twitch ads by grabbing video playlists from Russia
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
