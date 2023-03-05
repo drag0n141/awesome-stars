@@ -86,6 +86,7 @@
 - [laravel](#laravel)
 - [latex](#latex)
 - [linux](#linux)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1023,6 +1024,12 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
+## mac 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
 ## machine-learning 
 
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -1708,6 +1715,7 @@
 
 ## security 
 
+- [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
