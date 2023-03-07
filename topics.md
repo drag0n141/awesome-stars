@@ -66,6 +66,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
@@ -848,6 +849,10 @@
 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 
+## home-assistant 
+
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+
 ## homebrew 
 
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
@@ -1237,7 +1242,6 @@
 - [johnknott/proxmox-hetzner-autoconfigure](https://github.com/johnknott/proxmox-hetzner-autoconfigure) - A dialog based script to help configure a Proxmox host node after first boot. It takes over where the Hetzner installimage finishes to configure things like networking, TLS certificates and storage.
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [ariadata/proxmox-hetzner](https://github.com/ariadata/proxmox-hetzner) - Install Basic Proxmox on Debian in Hetzner Dedicated
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 - [SCP002/xTeVe](https://github.com/SCP002/xTeVe) - M3U Proxy and EPG aggregator for Plex DVR and Emby Live TV
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [amidaware/community-scripts](https://github.com/amidaware/community-scripts) - A curated list of powershell, python, and batch scripts for use in TacticalRMM or anywhere!
@@ -1253,7 +1257,7 @@
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [inoda/ontrack](https://github.com/inoda/ontrack) - :money_with_wings: A simple self-hosted budgeting app
 - [jyggen/intro-detection-info](https://github.com/jyggen/intro-detection-info) - CLI tool to show information related to Plex's intro detection feature.
-- [danrahn/IntroEditorForPlex](https://github.com/danrahn/IntroEditorForPlex) - View, edit, add, and delete intro markers for TV episodes in Plex.
+- [danrahn/IntroEditorForPlex](https://github.com/danrahn/IntroEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
 - [FlagBrew/Sharkive](https://github.com/FlagBrew/Sharkive) - Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
@@ -1513,6 +1517,7 @@
 - [dezem/SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [meisnate12/Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
