@@ -211,6 +211,7 @@
 
 ## automation 
 
+- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -851,6 +852,7 @@
 
 ## home-assistant 
 
+- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
 
 ## homebrew 
@@ -1175,6 +1177,7 @@
 
 ## others 
 
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
 - [MysticFoxDE/WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
