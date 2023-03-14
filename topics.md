@@ -787,7 +787,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [pacoorozco/ssham](https://github.com/pacoorozco/ssham) - SSH Access Manager
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) - A Github Action to tag a repo on merge.
@@ -967,7 +967,7 @@
 - [kdwils/plex-init](https://github.com/kdwils/plex-init) - Claim a plex server token and store it as a kubernetes secret
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
@@ -1695,7 +1695,7 @@
 
 ## ruby 
 
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 
 ## rust 
 
@@ -1739,7 +1739,7 @@
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [pacoorozco/ssham](https://github.com/pacoorozco/ssham) - SSH Access Manager
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   A dead-simple application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
