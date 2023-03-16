@@ -212,6 +212,7 @@
 
 ## automation 
 
+- [autobrr/autobrr](https://github.com/autobrr/autobrr) - Automation for downloads.
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
@@ -426,6 +427,7 @@
 
 ## docker 
 
+- [autobrr/autobrr](https://github.com/autobrr/autobrr) - Automation for downloads.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [terrasim/coredns-traefik](https://github.com/terrasim/coredns-traefik) - 📚 A CoreDNS plugin to discover domains by docker hosted traefik instances
@@ -1301,7 +1303,7 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [speijnik/plex-watched-sync](https://github.com/speijnik/plex-watched-sync) - Simple tool to synchronize the watched status from one Plex server to another
 - [Fmstrat/plex-db-sync](https://github.com/Fmstrat/plex-db-sync) - Synchronizes the database watched status between two Plex servers. This includes watched times, and works for all users on the system without the need for tokens.
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [MarkDoggen/borg-rclone](https://github.com/MarkDoggen/borg-rclone) - 
 - [jnsgruk/wireguard-over-wss](https://github.com/jnsgruk/wireguard-over-wss) - Resources to tunnel Wireguard over Websockets
