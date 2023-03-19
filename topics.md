@@ -72,6 +72,7 @@
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -891,6 +892,10 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+## image-processing 
+
+- [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
+
 ## ios 
 
 - [rolandosborne/IndiView](https://github.com/rolandosborne/IndiView) - Take back control of your data with IndiView, an app for self-hosted digital identities on CoreDB nodes. Designed for Android and iOS, supports messaging and personalized content feeds.
@@ -1182,6 +1187,7 @@
 
 ## others 
 
+- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sonarr, Radarr or Lidarr
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
@@ -1564,6 +1570,7 @@
 
 ## php 
 
+- [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 - [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
