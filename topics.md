@@ -1302,7 +1302,7 @@
 - [M2Team/NanaGet](https://github.com/M2Team/NanaGet) - Lightweight file transfer utility based on aria2 and XAML Islands
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
-- [jamjnsn/cartridge](https://github.com/jamjnsn/cartridge) - Self-hosted game library.
+- [jamjnsn/cartridge-legacy](https://github.com/jamjnsn/cartridge-legacy) - Self-hosted game library.
 - [mikenye/docker-plex_dupefinder](https://github.com/mikenye/docker-plex_dupefinder) - Multi-arch docker image for l3uddz/plex_dupefinder (amd64, arm/v7, arm64)
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
