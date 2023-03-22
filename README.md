@@ -521,6 +521,7 @@
 
 ## Others 
 
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - 🖱 Cursor movement customization between multiple Displays  🖥  (and soon between multiple Computers)
 - [the-via/releases](https://github.com/the-via/releases) - 
@@ -793,6 +794,7 @@
 
 ## Shell 
 
+- [zilexa/Homeserver](https://github.com/zilexa/Homeserver) - Lightweight home server based on microservices, usable as desktop workstation
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [sepich/ceph-swarm](https://github.com/sepich/ceph-swarm) - CephFS as Swarm stack
@@ -906,6 +908,7 @@
 
 ## TypeScript 
 
+- [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management platform.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
