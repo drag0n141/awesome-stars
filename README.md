@@ -630,7 +630,7 @@
 
 ## Python 
 
-- [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
+- [zurdi15/romm](https://github.com/zurdi15/romm) - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB.
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
 - [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder platform that uses push to send notifications to your device. Set the reminder and forget about it!
@@ -799,6 +799,7 @@
 
 ## Shell 
 
+- [jefflessard/plex-alpine](https://github.com/jefflessard/plex-alpine) - plex-alpine
 - [RandomNinjaAtk/docker-sonarr-extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A script that will install nginx proxy manager as well as configure authelia automatically.
 - [zilexa/Homeserver](https://github.com/zilexa/Homeserver) - Lightweight home server based on microservices, usable as desktop workstation
