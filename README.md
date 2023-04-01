@@ -179,6 +179,7 @@
 
 ## Dart 
 
+- [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - Privacy and Security Gateway :llama::shield:
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [revanced/revanced-manager](https://github.com/revanced/revanced-manager) - 💊 Application to use ReVanced on Android
@@ -660,7 +661,7 @@
 - [JensKuehnel/fail2ban-check-mk](https://github.com/JensKuehnel/fail2ban-check-mk) - check_mk package for fail2ban
 - [mrfret/gdsa_maker](https://github.com/mrfret/gdsa_maker) - Manage Google Drive Service Accounts, Team Drives, Sharing and Groups
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [FlagBrew/Sharkive](https://github.com/FlagBrew/Sharkive) - Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+
