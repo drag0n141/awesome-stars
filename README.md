@@ -226,6 +226,7 @@
 
 ## Go 
 
+- [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight cross-platform desktop client for Subsonic music servers
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Automation for downloads.
@@ -360,6 +361,7 @@
 
 ## HTML 
 
+- [KaiStarkk/powarr](https://github.com/KaiStarkk/powarr) - 
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
