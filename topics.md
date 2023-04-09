@@ -33,6 +33,7 @@
 - [dart](#dart)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [deno](#deno)
 - [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [devops](#devops)
@@ -386,6 +387,10 @@
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+
+## deno 
+
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 
 ## dependency-management 
 
