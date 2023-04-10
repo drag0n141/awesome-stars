@@ -573,6 +573,7 @@
 - [asatrya/keycloak-traefik-tutorial](https://github.com/asatrya/keycloak-traefik-tutorial) - Tutorial how to use Keycloak for authentication and Traefik for API gateway in Microservices architecture
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [ibnux/switch-cheat](https://github.com/ibnux/switch-cheat) - Nintendo Switch cheat database
+- [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
 - [dezem/SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
 - [Rishabh04-02/setting-up-master-slave-replication-in-postgresql-using-dockers-and-external-volumes](https://github.com/Rishabh04-02/setting-up-master-slave-replication-in-postgresql-using-dockers-and-external-volumes) - Postgresql 12 Master - Slave Replication using Dockers and external volumes.
@@ -805,6 +806,7 @@
 
 ## Shell 
 
+- [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.
 - [jefflessard/plex-alpine](https://github.com/jefflessard/plex-alpine) - plex-alpine
 - [RandomNinjaAtk/docker-sonarr-extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A script that will install nginx proxy manager as well as configure authelia automatically.
@@ -894,7 +896,6 @@
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
-- [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [TheRealAlexV/proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
