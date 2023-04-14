@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
@@ -834,7 +835,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE 7
 - [ariadata/proxmox-hetzner](https://github.com/ariadata/proxmox-hetzner) - Install Basic Proxmox on Debian in Hetzner Dedicated
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [SBorg2014/WLAN-Wetterstation](https://github.com/SBorg2014/WLAN-Wetterstation) - schafft eine Verbindung von einer WLAN-Wetterstation zum ioBroker
 - [ibuetler/docker-keycloak-traefik-workshop](https://github.com/ibuetler/docker-keycloak-traefik-workshop) - Docker with Keycloak and Traefik Workshop
