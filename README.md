@@ -472,7 +472,6 @@
 - [MrDemonWolf/share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files,images, and text with moderation tools for admins. Can be used for friends and family or just for you.  Built with integration, like ShareX 
 - [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
@@ -522,6 +521,7 @@
 ## Lua 
 
 - [ign-gg/Pterodactyl-Eggs](https://github.com/ign-gg/Pterodactyl-Eggs) - Service eggs for the pterodactyl panel
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
 ## Makefile 
 
@@ -535,6 +535,7 @@
 
 ## Others 
 
+- [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -664,7 +665,7 @@
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [thammi/plex_token](https://github.com/thammi/plex_token) - Plex authentication token request script
 - [atnpgo/Plex-Cinema-Experience-Preroll](https://github.com/atnpgo/Plex-Cinema-Experience-Preroll) - A set of scripts for downloading upcoming trailers from Apple and preparing a Plex pre-roll that replicates most of what the Cinema Experience Kodi plugin used to do.
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [Inboxen/Inboxen](https://github.com/Inboxen/Inboxen) - Main repo for Inboxen.org
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
