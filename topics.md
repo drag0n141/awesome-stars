@@ -855,7 +855,6 @@
 - [Wingysam/Christmas-Community](https://github.com/Wingysam/Christmas-Community) - Christmas lists for families
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [JagandeepBrar/LunaSea](https://github.com/JagandeepBrar/LunaSea) - Self-hosted software controller built using Flutter
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [vmorganp/Lazytainer](https://github.com/vmorganp/Lazytainer) - Docker container lazy loading
