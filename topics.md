@@ -31,6 +31,7 @@
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data-analysis](#data-analysis)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deno](#deno)
@@ -110,6 +111,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -377,6 +379,10 @@
 ## dart 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+
+## data-analysis 
+
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## data-visualization 
 
@@ -1629,6 +1635,10 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
+## parsing 
+
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
 ## php 
 
 - [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
@@ -1708,6 +1718,7 @@
 
 ## python3 
 
+- [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [theneedyguy/streamslurp](https://github.com/theneedyguy/streamslurp) - A docker container for auto-downloading twitch vods.
 - [weimingqing/Email2Gotify](https://github.com/weimingqing/Email2Gotify) - The script to push messages to a Gotify Server from email.
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
