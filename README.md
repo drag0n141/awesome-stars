@@ -455,7 +455,6 @@
 - [RestyaPlatform/board](https://github.com/RestyaPlatform/board) - Trello like kanban board. Based on Restya platform.
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source ticket management & help desk solution. A freshdesk alternative
 - [petersem/monocker](https://github.com/petersem/monocker) - 
-- [Kinqdos/Plex-Collection-Agent](https://github.com/Kinqdos/Plex-Collection-Agent) - 
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
