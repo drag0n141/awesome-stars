@@ -201,6 +201,7 @@
 
 ## api 
 
+- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -224,6 +225,7 @@
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [Casvt/Plex-scripts](https://github.com/Casvt/Plex-scripts) - Plex, the arr's and tautulli scripts coming from user requests
 - [RandomNinjaAtk/docker-amtd](https://github.com/RandomNinjaAtk/docker-amtd) - AMTD is a Radarr companion script to automatically download movie trailers and extras for use in other video applications (plex/kodi/jellyfin/emby)
@@ -1649,6 +1651,7 @@
 
 ## php 
 
+- [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar.
 - [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 - [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
