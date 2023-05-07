@@ -651,6 +651,7 @@
 
 ## Python 
 
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 400+ 1-click Portainer app templates
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
 - [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
@@ -945,6 +946,7 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
