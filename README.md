@@ -151,7 +151,7 @@
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [JoveToo/Marlin-Sovol](https://github.com/JoveToo/Marlin-Sovol) - Marlin builds for Sovol Printers, SV01 and SV03.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) - LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your 
