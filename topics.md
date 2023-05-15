@@ -1248,6 +1248,7 @@
 
 ## others 
 
+- [esben/brother-scan](https://github.com/esben/brother-scan) - Python programmed tool as alternative to the brscan-skey tool.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 - [nemchik/rclone_services](https://github.com/nemchik/rclone_services) - 
 - [kn100/telescan](https://github.com/kn100/telescan) - Use your scanner from Telegram
