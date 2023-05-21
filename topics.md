@@ -679,7 +679,7 @@
 ## frontend 
 
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 
 ## game 
 
@@ -758,7 +758,7 @@
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [pierre-emmanuelJ/iptv-proxy](https://github.com/pierre-emmanuelJ/iptv-proxy) - Reverse proxy on iptv m3u and m3u8 file and xtream codes client api
@@ -1262,7 +1262,7 @@
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
 - [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
 - [djmaze/resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container.
-- [sachinsenall/FIXARR](https://github.com/sachinsenall/FIXARR) - Movie & Tv Renamer With Backup Media Server (Plex / Emby / Jellyfin)
+- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - Movie & Tv Renamer With Backup Media Server (Plex / Emby / Jellyfin)
 - [KaiStarkk/wumps](https://github.com/KaiStarkk/wumps) - 
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [jefflessard/plex-alpine](https://github.com/jefflessard/plex-alpine) - plex-alpine
@@ -1374,7 +1374,6 @@
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [uklans/cache-domains](https://github.com/uklans/cache-domains) - Domain Names required for LAN Content Cache DNS spoofing
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [newsnowlabs/docker-ingress-routing-daemon](https://github.com/newsnowlabs/docker-ingress-routing-daemon) - Docker swarm daemon that modifies ingress mesh routing to expose true client IPs to service containers
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
@@ -1515,7 +1514,7 @@
 - [aelfa/awesome-piracy](https://github.com/aelfa/awesome-piracy) - A curated list of awesome warez and piracy links
 - [traefik/plugin-log4shell](https://github.com/traefik/plugin-log4shell) - Log4Shell is a middleware plugin for Traefik which blocks JNDI attacks based on HTTP header values.
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css) - Custom stylesheet for filebrowser that adds colors and changes icons
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228
 - [ChristophHecht/pbs-linux-backup](https://github.com/ChristophHecht/pbs-linux-backup) - 
@@ -1786,7 +1785,7 @@
 
 ## reactjs 
 
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [rolandosborne/IndiView](https://github.com/rolandosborne/IndiView) - Take back control of your data with IndiView, an app for self-hosted digital identities on CoreDB nodes. Designed for Android and iOS, supports messaging and personalized content feeds.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [BSoDium/Slashboard-desktop](https://github.com/BSoDium/Slashboard-desktop) - A simple and convenient dashboard to monitor the activity and performance of your home servers.
@@ -1820,6 +1819,7 @@
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -1965,6 +1965,7 @@
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management platform.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
