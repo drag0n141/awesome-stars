@@ -368,7 +368,7 @@
 
 ## HTML 
 
-- [iptv-org/epg](https://github.com/iptv-org/epg) - EPG (Electronic Program Guide) for thousands of TV channels collected from different sources
+- [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
