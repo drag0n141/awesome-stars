@@ -950,6 +950,7 @@
 
 ## TypeScript 
 
+- [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app automatically creates Collections in Plex Media Server for the content that each user requests in the media request management system Overseerr.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
