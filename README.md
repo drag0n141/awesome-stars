@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [kn100/telescan](https://github.com/kn100/telescan) - Use your scanner from Telegram
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -398,7 +399,7 @@
 
 ## Java 
 
-- [newhinton/extRact](https://github.com/newhinton/extRact) - Rclone for Android
+- [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - Rclone for Android
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Thirs party/community managed controller software for the PCPanel (getpcpanel.com) devices.
@@ -541,6 +542,7 @@
 
 ## Others 
 
+- [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *Arrs and related stuff.
 - [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software
