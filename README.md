@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [kn100/telescan](https://github.com/kn100/telescan) - Use your scanner from Telegram
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -443,7 +444,7 @@
 - [danrahn/IntroEditorForPlex](https://github.com/danrahn/IntroEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
 - [zmike808/Plex-Blackmagic](https://github.com/zmike808/Plex-Blackmagic) - A cloudflare worker for plex that uses blackmagic to change default client bitrates!
 - [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
-- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions
@@ -523,6 +524,7 @@
 
 ## Kotlin 
 
+- [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
@@ -657,6 +659,7 @@
 
 ## Python 
 
+- [jangxx/twitch-auto-recorder-3000](https://github.com/jangxx/twitch-auto-recorder-3000) - Automatically downloads streams from twitch as streamers go live
 - [esben/brother-scan](https://github.com/esben/brother-scan) - Python programmed tool as alternative to the brscan-skey tool.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 400+ 1-click Portainer app templates
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
@@ -974,7 +977,7 @@
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [n-thumann/IPTV-ReStream](https://github.com/n-thumann/IPTV-ReStream) - An app to forward source specific multicast streams via HTTP
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
