@@ -1262,6 +1262,7 @@
 
 ## others 
 
+- [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [jangxx/twitch-auto-recorder-3000](https://github.com/jangxx/twitch-auto-recorder-3000) - Automatically downloads streams from twitch as streamers go live
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
