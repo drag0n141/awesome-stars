@@ -357,6 +357,7 @@
 
 ## cpp 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
@@ -502,7 +503,7 @@
 - [martialblog/docker-limesurvey](https://github.com/martialblog/docker-limesurvey) - A Docker Image for LimeSurvey
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [olivomarco/my-ansible-linux-setup](https://github.com/olivomarco/my-ansible-linux-setup) - Simple, perfect setup of a Linux machine via Ansible
-- [ArabCoders/watchstate](https://github.com/ArabCoders/watchstate) - Sync your Plex, Emby, Jellyfin play state. Without a central service.
+- [ArabCoders/watchstate](https://github.com/ArabCoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [RafhaanShah/Container-Mon](https://github.com/RafhaanShah/Container-Mon) - Get notified when your Docker containers are unhealthy
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -643,6 +644,7 @@
 
 ## emulator 
 
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
 ## finance 
@@ -1262,6 +1264,7 @@
 
 ## others 
 
+- [ITotalJustice/sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) - Download sigpatches for Atmosphere directly to your switch!
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [jangxx/twitch-auto-recorder-3000](https://github.com/jangxx/twitch-auto-recorder-3000) - Automatically downloads streams from twitch as streamers go live
