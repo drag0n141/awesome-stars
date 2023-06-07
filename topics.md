@@ -192,6 +192,7 @@
 
 ## ansible 
 
+- [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -283,7 +284,7 @@
 - [RandomNinjaAtk/docker-sonarr-extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [theneedyguy/streamslurp](https://github.com/theneedyguy/streamslurp) - A docker container for auto-downloading twitch vods.
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -457,6 +458,7 @@
 
 ## docker 
 
+- [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 400+ 1-click Portainer app templates
@@ -704,7 +706,7 @@
 ## git 
 
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -758,7 +760,7 @@
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [capnspacehook/whalewall](https://github.com/capnspacehook/whalewall) - Automate management of firewall rules for Docker containers
@@ -832,7 +834,7 @@
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [shawly/docker-nut](https://github.com/shawly/docker-nut) - Docker container for https://github.com/blawar/NUT. "latest" & "v3" tags use stable release v3.3. "edge" tag uses latest master source code.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -914,6 +916,7 @@
 
 ## home-assistant 
 
+- [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 
@@ -1031,6 +1034,9 @@
 
 ## kubernetes 
 
+- [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
+- [truxnell/home-cluster](https://github.com/truxnell/home-cluster) - My home server cluster, managed by flux and defined as code here
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - My geeked homelab k8s cluster deployed on 🍏 Mac Mini's with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
@@ -1696,7 +1702,7 @@
 
 ## powershell 
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
@@ -1849,6 +1855,7 @@
 
 ## security 
 
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot, ...)
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
@@ -1890,6 +1897,8 @@
 
 ## self-hosted 
 
+- [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot, ...)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
@@ -1949,6 +1958,7 @@
 
 ## server 
 
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot, ...)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.
