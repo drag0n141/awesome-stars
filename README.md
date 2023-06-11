@@ -235,6 +235,8 @@
 
 ## Go 
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [kn100/telescan](https://github.com/kn100/telescan) - Use your scanner from Telegram
@@ -372,6 +374,7 @@
 
 ## HCL 
 
+- [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 
 ## HTML 
@@ -548,6 +551,7 @@
 
 ## Others 
 
+- [blawar/titledb](https://github.com/blawar/titledb) - 
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *Arrs and related stuff.
 - [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
@@ -664,6 +668,7 @@
 
 ## Python 
 
+- [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
 - [TomBursch/kitchenowl-backend](https://github.com/TomBursch/kitchenowl-backend) - Backend for the KitchenOwl app.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [jangxx/twitch-auto-recorder-3000](https://github.com/jangxx/twitch-auto-recorder-3000) - Automatically downloads streams from twitch as streamers go live
@@ -822,7 +827,7 @@
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [m-rots/a-train](https://github.com/m-rots/a-train) - 
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
