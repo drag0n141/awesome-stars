@@ -193,6 +193,7 @@
 
 ## ansible 
 
+- [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -1050,6 +1051,8 @@
 
 ## kubernetes 
 
+- [0dragosh/homelab](https://github.com/0dragosh/homelab) - GitOps managed home infrastructure on Talos Kubernetes with FluxCD & Cloudflare Access
+- [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
@@ -1688,7 +1691,7 @@
 
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps for video game consoles
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
 ## parsing 
@@ -1918,6 +1921,7 @@
 
 ## self-hosted 
 
+- [0dragosh/homelab](https://github.com/0dragosh/homelab) - GitOps managed home infrastructure on Talos Kubernetes with FluxCD & Cloudflare Access
 - [TomBursch/kitchenowl-backend](https://github.com/TomBursch/kitchenowl-backend) - Backend for the KitchenOwl app.
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
@@ -2156,7 +2160,7 @@
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
