@@ -851,6 +851,7 @@
 
 ## Shell 
 
+- [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
