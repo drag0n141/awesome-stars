@@ -382,6 +382,7 @@
 
 ## HCL 
 
+- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [h3mmy/bloopySphere](https://github.com/h3mmy/bloopySphere) - My home cluster.
@@ -568,6 +569,7 @@
 
 ## Others 
 
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [blawar/titledb](https://github.com/blawar/titledb) - 
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *Arrs and related stuff.
 - [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
@@ -868,6 +870,7 @@
 
 ## Shell 
 
+- [mrwulf/home-cluster](https://github.com/mrwulf/home-cluster) - 
 - [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
 - [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster  :sailboat:! And more!
