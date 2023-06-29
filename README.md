@@ -337,7 +337,7 @@
 - [qdm12/srv](https://github.com/qdm12/srv) - srv is a small Go application to server static files over HTTP
 - [zorchenhimer/MoviePolls](https://github.com/zorchenhimer/MoviePolls) - Voting to decide on a movie to watch with MovieNight
 - [qdm12/dns](https://github.com/qdm12/dns) - Docker DNS server on steroids to access DNS-over-TLS from Cloudflare, Google, Quad9, Quadrant or CleanBrowsing
-- [sentriz/socr](https://github.com/sentriz/socr) - screenshot OCR server TBA
+- [sentriz/socr](https://github.com/sentriz/socr) - screenshot OCR server
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [qdm12/deunhealth](https://github.com/qdm12/deunhealth) - Binary program to restart unhealthy Docker containers
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
@@ -399,7 +399,6 @@
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [olivomarco/my-ansible-linux-setup](https://github.com/olivomarco/my-ansible-linux-setup) - Simple, perfect setup of a Linux machine via Ansible
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
@@ -467,7 +466,7 @@
 - [danrahn/IntroEditorForPlex](https://github.com/danrahn/IntroEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
 - [zmike808/Plex-Blackmagic](https://github.com/zmike808/Plex-Blackmagic) - A cloudflare worker for plex that uses blackmagic to change default client bitrates!
 - [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions
@@ -797,7 +796,6 @@
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open-source eBook
 - [adamgot/python-plexlibrary](https://github.com/adamgot/python-plexlibrary) - Create and maintain dynamic Plex libraries based on recipes.
-- [nbr23/youtube-dl-server](https://github.com/nbr23/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
 - [mza921/plex2trakt](https://github.com/mza921/plex2trakt) - Create Trakt lists from Plex libraries
@@ -1025,6 +1023,7 @@
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [n-thumann/IPTV-ReStream](https://github.com/n-thumann/IPTV-ReStream) - An app to forward source specific multicast streams via HTTP
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
@@ -1074,6 +1073,7 @@
 - [GeorgeGedox/HomerGX](https://github.com/GeorgeGedox/HomerGX) - A custom fork of Homer, improved and with a new design.
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [nbr23/youtube-dl-server](https://github.com/nbr23/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## YAML 
