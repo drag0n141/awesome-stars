@@ -282,14 +282,14 @@
 
 ## aws 
 
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
 ## azure 
 
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
@@ -440,7 +440,7 @@
 ## devops 
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -1927,7 +1927,7 @@
 ## security 
 
 - [digitalis-io/k3s-on-prem-production](https://github.com/digitalis-io/k3s-on-prem-production) - Playbooks needed to set up an on-premises K3s cluster and securize it
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot, ...)
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
