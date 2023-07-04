@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -567,6 +568,10 @@
 
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 
+## Nix 
+
+- [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
+
 ## Others 
 
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
@@ -667,6 +672,7 @@
 
 ## Perl 
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c
 
 ## PowerShell 
