@@ -98,6 +98,7 @@
 
 ## C# # 
 
+- [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager using multiple sources to identify and provide metadata
 - [jakeswenson/BitBetter](https://github.com/jakeswenson/BitBetter) - Modify bit warden to provide my own licensing for self hosting
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [vesoapp/veso](https://github.com/vesoapp/veso) - Open source media server.
@@ -876,6 +877,7 @@
 
 ## Shell 
 
+- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [snoopy82481/home_cluster](https://github.com/snoopy82481/home_cluster) - My home server cluster, managed by flux and defined as code here
 - [mrwulf/home-cluster](https://github.com/mrwulf/home-cluster) - 
 - [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
@@ -1051,10 +1053,10 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [rolandosborne/IndiView](https://github.com/rolandosborne/IndiView) - Take back control of your data with IndiView, an app for self-hosted digital identities on CoreDB nodes. Designed for Android and iOS, supports messaging and personalized content feeds.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
