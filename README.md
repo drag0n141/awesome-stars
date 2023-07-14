@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [antrea-io/antrea](https://github.com/antrea-io/antrea) - Kubernetes networking based on Open vSwitch
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
@@ -285,7 +286,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, accou
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [ByteDream/docker4ssh](https://github.com/ByteDream/docker4ssh) - 🐋 Docker containers and more via ssh
 - [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
@@ -393,6 +394,7 @@
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [h3mmy/bloopySphere](https://github.com/h3mmy/bloopySphere) - My home cluster.
+- [0dragosh/homelab](https://github.com/0dragosh/homelab) - GitOps managed home infrastructure on Talos Kubernetes with FluxCD & Cloudflare Access
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 
@@ -888,7 +890,6 @@
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [BMDan/tuning-primer.sh](https://github.com/BMDan/tuning-primer.sh) - MySQL Tuning-Primer.sh, updated and improved
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
-- [0dragosh/homelab](https://github.com/0dragosh/homelab) - GitOps managed home infrastructure on Talos Kubernetes with FluxCD & Cloudflare Access
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
@@ -1026,7 +1027,7 @@
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - An automatic livestream recorder
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
