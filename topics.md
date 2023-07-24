@@ -237,6 +237,7 @@
 
 ## automation 
 
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - My geeked homelab k8s cluster deployed on 🍏 Mac Mini's with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *Arrs and related stuff.
 - [RandomNinjaAtk/docker-sonarr-extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
