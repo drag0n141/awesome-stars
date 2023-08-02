@@ -396,6 +396,7 @@
 
 ## HCL 
 
+- [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
 - [LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster) - Gitops for my kubernetes cluster
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
@@ -890,6 +891,7 @@
 
 ## Shell 
 
+- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home-ops prod IaC
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
