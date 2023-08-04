@@ -1352,6 +1352,7 @@
 
 ## others 
 
+- [h-wb/home-ops](https://github.com/h-wb/home-ops) - 
 - [JefeDavis/k8s-HomeOps](https://github.com/JefeDavis/k8s-HomeOps) - 
 - [sarendsen/replex](https://github.com/sarendsen/replex) - Remix your Plex recommendations
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
