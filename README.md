@@ -892,6 +892,7 @@
 
 ## Shell 
 
+- [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home-ops prod IaC
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
