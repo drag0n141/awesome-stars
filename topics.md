@@ -1352,6 +1352,7 @@
 
 ## others 
 
+- [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - 
 - [JefeDavis/k8s-HomeOps](https://github.com/JefeDavis/k8s-HomeOps) - 
 - [sarendsen/replex](https://github.com/sarendsen/replex) - Remix your Plex recommendations
