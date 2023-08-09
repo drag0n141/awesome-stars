@@ -211,6 +211,7 @@
 
 ## Dockerfile 
 
+- [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [jonp92/Milliner_Docker](https://github.com/jonp92/Milliner_Docker) - a Dockerized version of Milliner, itself a lightweight Headscale management web-UI.
 - [jefflessard/plex-vaapi-amdgpu-mod](https://github.com/jefflessard/plex-vaapi-amdgpu-mod) - linuxserver.io mod to enable hardware acceleration using vaapi amdgpu on linuxserver/plex
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
@@ -249,6 +250,8 @@
 
 ## Go 
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [BetterCorp/cloudflarewarp](https://github.com/BetterCorp/cloudflarewarp) - 
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -518,7 +521,6 @@
 - [MrDemonWolf/share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files,images, and text with moderation tools for admins. Can be used for friends and family or just for you.  Built with integration, like ShareX 
 - [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
@@ -574,6 +576,7 @@
 ## Lua 
 
 - [ign-gg/Pterodactyl-Eggs](https://github.com/ign-gg/Pterodactyl-Eggs) - Service eggs for the pterodactyl panel
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
 ## Makefile 
 
@@ -693,6 +696,7 @@
 
 ## PowerShell 
 
+- [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [MysticFoxDE/WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
 - [amidaware/community-scripts](https://github.com/amidaware/community-scripts) - A curated list of powershell, python, and batch scripts for use in TacticalRMM or anywhere!
@@ -710,6 +714,7 @@
 
 ## Python 
 
+- [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [jack-broadway/vyos-modular](https://github.com/jack-broadway/vyos-modular) - A build system for vyos that allows you to import local/external modules to customize the build
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
@@ -892,6 +897,7 @@
 
 ## Shell 
 
+- [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home-ops prod IaC
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
