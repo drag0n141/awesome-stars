@@ -761,6 +761,7 @@
 
 ## go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -1947,7 +1948,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [BRA1L0R/hopper-rs](https://github.com/BRA1L0R/hopper-rs) - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
@@ -2225,7 +2226,7 @@
 
 ## web 
 
-- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [whyvra/tunnel](https://github.com/whyvra/tunnel) - The secure manager for your WireGuard clients
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
