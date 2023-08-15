@@ -1362,6 +1362,7 @@
 
 ## others 
 
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [BetterCorp/cloudflarewarp](https://github.com/BetterCorp/cloudflarewarp) - 
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
