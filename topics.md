@@ -1084,6 +1084,7 @@
 
 ## kubernetes 
 
+- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [nklmilojevic/home](https://github.com/nklmilojevic/home) - 
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
@@ -2023,6 +2024,7 @@
 
 ## self-hosted 
 
+- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster) - Gitops for my kubernetes cluster
 - [0dragosh/homelab](https://github.com/0dragosh/homelab) - GitOps managed home infrastructure on Talos Kubernetes with FluxCD & Cloudflare Access
