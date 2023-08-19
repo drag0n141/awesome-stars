@@ -552,6 +552,7 @@
 
 ## Jinja 
 
+- [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
 - [nklmilojevic/home](https://github.com/nklmilojevic/home) - 
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - 
