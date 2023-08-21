@@ -1085,6 +1085,7 @@
 
 ## kubernetes 
 
+- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - 
 - [Kashalls/home-cluster](https://github.com/Kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -1368,6 +1369,8 @@
 
 ## others 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily. Based on movie-cli by @JipFr.
+- [arthurgeek/home-k8s](https://github.com/arthurgeek/home-k8s) - My Kubernetes home cluster
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
