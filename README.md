@@ -169,7 +169,7 @@
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
-- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Open source ambient lighting implementation for television sets based on the video and audio streams analysis for Windows, macOS and Linux (x86 and Raspberry Pi). Includes real-time HDR tone mapping a
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Moehammered/switch-remote-play](https://github.com/Moehammered/switch-remote-play) - Let the switch remotely play PC games (similar to steam link or remote play)
@@ -553,6 +553,7 @@
 
 ## Jinja 
 
+- [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [arthurgeek/home-k8s](https://github.com/arthurgeek/home-k8s) - My Kubernetes home cluster
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
