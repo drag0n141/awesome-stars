@@ -1085,6 +1085,7 @@
 
 ## kubernetes 
 
+- [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - 
 - [Kashalls/home-cluster](https://github.com/Kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
@@ -1906,7 +1907,7 @@
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Open source ambient lighting implementation for television sets based on the video and audio streams analysis for Windows, macOS and Linux (x86 and Raspberry Pi). Includes real-time HDR tone mapping a
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
