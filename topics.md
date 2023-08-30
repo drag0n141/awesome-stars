@@ -196,7 +196,7 @@
 
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
-- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home-ops prod IaC
+- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster) - Gitops for my kubernetes cluster
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [digitalis-io/k3s-on-prem-production](https://github.com/digitalis-io/k3s-on-prem-production) - Playbooks needed to set up an on-premises K3s cluster and securize it
@@ -496,7 +496,7 @@
 - [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Wireguard VPN and Pihole + Unbound DNS running in a Docker enviroment
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content.
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
-- [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes cluster.
+- [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
@@ -1096,7 +1096,7 @@
 - [nklmilojevic/home](https://github.com/nklmilojevic/home) - 
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
-- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home-ops prod IaC
+- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [allenporter/k8s-gitops](https://github.com/allenporter/k8s-gitops) - Flux/Gitops managed k8s cluster
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
 - [LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster) - Gitops for my kubernetes cluster
@@ -1116,7 +1116,7 @@
 - [Euvaz/GitOps-Home](https://github.com/Euvaz/GitOps-Home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster  :sailboat:! And more!
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
-- [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes cluster.
+- [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters
 - [travisghansen/kubernetes-pfsense-controller](https://github.com/travisghansen/kubernetes-pfsense-controller) - Integrate Kubernetes and pfSense
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
@@ -1436,7 +1436,7 @@
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
 - [MysticFoxDE/WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [sepich/ceph-swarm](https://github.com/sepich/ceph-swarm) - CephFS as Swarm stack
 - [ekutner/kopia-mon](https://github.com/ekutner/kopia-mon) - 
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - An automatic livestream recorder
@@ -2188,7 +2188,7 @@
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
-- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home-ops prod IaC
+- [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [LilDrunkenSmurf/k3s-home-cluster](https://github.com/LilDrunkenSmurf/k3s-home-cluster) - Gitops for my kubernetes cluster
 - [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
