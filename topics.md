@@ -871,6 +871,7 @@
 
 ## hacktoberfest 
 
+- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - PostgreSQL operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Plex/Jellyfin/Emby based on xTeVe
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
@@ -1086,6 +1087,7 @@
 
 ## kubernetes 
 
+- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - PostgreSQL operator for Kubernetes
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
@@ -1373,6 +1375,8 @@
 
 ## others 
 
+- [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
+- [nea0d/k8s-homelab-flux](https://github.com/nea0d/k8s-homelab-flux) - 
 - [h-wb/k8s-homelab](https://github.com/h-wb/k8s-homelab) - My home operations repository using k8s/gitops
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
@@ -1386,7 +1390,7 @@
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - 
 - [JefeDavis/k8s-HomeOps](https://github.com/JefeDavis/k8s-HomeOps) - 
-- [sarendsen/replex](https://github.com/sarendsen/replex) - Remix your Plex recommendations
+- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex recommendations
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
