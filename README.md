@@ -268,7 +268,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight cross-platform desktop client for Subsonic music servers
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
