@@ -400,6 +400,7 @@
 
 ## HCL 
 
+- [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - k3s cluster using gitops (flux) and renovate automation
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
