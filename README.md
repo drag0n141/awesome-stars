@@ -565,6 +565,7 @@
 - [arthurgeek/home-k8s](https://github.com/arthurgeek/home-k8s) - My Kubernetes home cluster
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
+- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [nklmilojevic/home](https://github.com/nklmilojevic/home) - 
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - 
 - [allenporter/k8s-gitops](https://github.com/allenporter/k8s-gitops) - Flux/Gitops managed k8s cluster
@@ -923,7 +924,6 @@
 - [nea0d/k8s-homelab-flux](https://github.com/nea0d/k8s-homelab-flux) - 
 - [h-wb/k8s-homelab](https://github.com/h-wb/k8s-homelab) - My home operations repository using k8s/gitops
 - [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
-- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
@@ -1070,6 +1070,7 @@
 
 ## TypeScript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
