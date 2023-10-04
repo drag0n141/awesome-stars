@@ -343,7 +343,7 @@
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [BrenekH/smartreboot](https://github.com/BrenekH/smartreboot) - Reboot a machine without interrupting ongoing work.
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [traefik/plugin-log4shell](https://github.com/traefik/plugin-log4shell) - Log4Shell is a middleware plugin for Traefik which blocks JNDI attacks based on HTTP header values.
+- [traefik/plugin-log4shell](https://github.com/traefik/plugin-log4shell) - Log4Shell is a middleware plugin for Traefik which blocks JNDI attacks based on HTTP header values
 - [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [shoobyban/sshman](https://github.com/shoobyban/sshman) - SSH Manager - manage users through authorized_keys files
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
