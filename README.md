@@ -261,7 +261,7 @@
 - [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -278,7 +278,7 @@
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. We combine the best of Auth0 and Keycloak for you.
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
@@ -420,7 +420,6 @@
 
 ## HTML 
 
-- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Wireguard VPN and Pihole + Unbound DNS running in a Docker enviroment
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
@@ -740,6 +739,7 @@
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [peppelinux/pyMultiLDAP](https://github.com/peppelinux/pyMultiLDAP) - OpenLDAP proxy or simple python3 LDAP client to handle multiple LDAP connections, data aggregation and manipulation strategies
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
+- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Wireguard VPN and Pihole + Unbound DNS running in a Docker enviroment
 - [jack-broadway/vyos-modular](https://github.com/jack-broadway/vyos-modular) - A build system for vyos that allows you to import local/external modules to customize the build
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
@@ -1078,7 +1078,7 @@
 
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
