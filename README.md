@@ -740,7 +740,7 @@
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [peppelinux/pyMultiLDAP](https://github.com/peppelinux/pyMultiLDAP) - OpenLDAP proxy or simple python3 LDAP client to handle multiple LDAP connections, data aggregation and manipulation strategies
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
-- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Private Local Network and Chat via WireGuard (Free Zscaler) + AdGuard/Pihole w/ Local DNS
+- [NOXCIS/Worm-Hole](https://github.com/NOXCIS/Worm-Hole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
 - [jack-broadway/vyos-modular](https://github.com/jack-broadway/vyos-modular) - A build system for vyos that allows you to import local/external modules to customize the build
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
@@ -783,7 +783,7 @@
 - [JensKuehnel/fail2ban-check-mk](https://github.com/JensKuehnel/fail2ban-check-mk) - check_mk package for fail2ban
 - [mrfret/gdsa_maker](https://github.com/mrfret/gdsa_maker) - Manage Google Drive Service Accounts, Team Drives, Sharing and Groups
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which w
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [FlagBrew/Sharkive](https://github.com/FlagBrew/Sharkive) - Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+
