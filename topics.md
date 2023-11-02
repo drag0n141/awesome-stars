@@ -511,7 +511,7 @@
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
-- [NOXCIS/wirehole](https://github.com/NOXCIS/wirehole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
+- [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.m-o.dev/status
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters
@@ -1438,7 +1438,6 @@
 - [h-wb/k8s-homelab](https://github.com/h-wb/k8s-homelab) - My home operations repository using k8s/gitops
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
-- [arthurgeek/home-k8s](https://github.com/arthurgeek/home-k8s) - My Kubernetes home cluster
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
@@ -1921,7 +1920,7 @@
 
 - [HeinleinSupport/check_mk_extensions](https://github.com/HeinleinSupport/check_mk_extensions) - check_mk Plugins
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
-- [NOXCIS/wirehole](https://github.com/NOXCIS/wirehole) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
+- [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
