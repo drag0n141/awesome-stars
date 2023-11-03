@@ -581,7 +581,7 @@
 ## Kotlin 
 
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
-- [thunderbird/k-9](https://github.com/thunderbird/k-9) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
 ## Lua 
@@ -1060,6 +1060,7 @@
 
 ## Smarty 
 
+- [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
 - [clastix/kubelived](https://github.com/clastix/kubelived) - keepalived for kubernetes control plane
 - [tamcore/ssh-punchhole](https://github.com/tamcore/ssh-punchhole) - Tiny SSH based reverse-tunnel to expose services behind a firewall
 
