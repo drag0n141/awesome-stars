@@ -802,7 +802,7 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for Subsonic music servers
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [kdwils/plex-init](https://github.com/kdwils/plex-init) - Claim a plex server token and store it as a kubernetes secret
@@ -1349,7 +1349,7 @@
 
 ## music 
 
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for Subsonic music servers
+- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -1433,6 +1433,8 @@
 
 ## others 
 
+- [zakkarry/reTraktarr](https://github.com/zakkarry/reTraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
+- [ori-edge/k8s_gateway](https://github.com/ori-edge/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
@@ -1559,7 +1561,7 @@
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
-- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [lanyrd/mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [CasCas2/proxmox-hetzner](https://github.com/CasCas2/proxmox-hetzner) - proxmox post installation scripts
