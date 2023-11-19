@@ -734,7 +734,7 @@
 
 ## Python 
 
-- [zakkarry/reTraktarr](https://github.com/zakkarry/reTraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
+- [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [HeinleinSupport/check_mk_extensions](https://github.com/HeinleinSupport/check_mk_extensions) - check_mk Plugins
