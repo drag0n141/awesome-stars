@@ -1436,7 +1436,7 @@
 
 ## others 
 
-- [zakkarry/reTraktarr](https://github.com/zakkarry/reTraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
+- [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - reTraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series using API calls.
 - [ori-edge/k8s_gateway](https://github.com/ori-edge/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
