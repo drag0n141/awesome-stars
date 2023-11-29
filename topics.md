@@ -1666,7 +1666,7 @@
 - [alturismo/xteve](https://github.com/alturismo/xteve) - xteve, in docker with cron
 - [Romanitho/Winget-Install](https://github.com/Romanitho/Winget-Install) - Powershell scripts for Winget with SCCM/Intune
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
-- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
+- [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [spritsail/plex-media-server](https://github.com/spritsail/plex-media-server) - Worlds smallest Docker image for Plex Media Server, built on spritsail/busybox
