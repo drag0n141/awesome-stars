@@ -201,7 +201,7 @@
 
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [nea0d/k8s-homelab-flux](https://github.com/nea0d/k8s-homelab-flux) - 
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
 - [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
@@ -1144,7 +1144,7 @@
 - [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - PostgreSQL operator for Kubernetes
 - [nea0d/k8s-homelab-flux](https://github.com/nea0d/k8s-homelab-flux) - 
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - 
 - [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
@@ -2300,7 +2300,7 @@
 
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [nea0d/k8s-homelab-flux](https://github.com/nea0d/k8s-homelab-flux) - 
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
