@@ -252,7 +252,6 @@
 ## automation 
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Fiancé-approved geeked homelab k8s cluster deployed on 🍏 Mac Minis with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [RandomNinjaAtk/docker-sonarr-extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
@@ -568,7 +567,7 @@
 - [whyvra/tunnel](https://github.com/whyvra/tunnel) - The secure manager for your WireGuard clients
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [ByteDream/docker4ssh](https://github.com/ByteDream/docker4ssh) - 🐋 Docker containers and more via ssh
+- [bytedream/docker4ssh](https://github.com/bytedream/docker4ssh) - 🐋 Docker containers and more via ssh
 - [vieux/docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
