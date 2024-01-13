@@ -1473,7 +1473,6 @@
 - [MGlants/gitops](https://github.com/MGlants/gitops) - 
 - [fischerscode/my-k3s](https://github.com/fischerscode/my-k3s) - The configuration and automatation of a k3s cluster.
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
-- [h-wb/k8s-homelab](https://github.com/h-wb/k8s-homelab) - My home operations repository using k8s/gitops
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
