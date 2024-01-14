@@ -1143,6 +1143,7 @@
 
 ## kubernetes 
 
+- [clbx/kubectl-browse-pvc](https://github.com/clbx/kubectl-browse-pvc) - Kubectl plugin for browsing PVCs on the command line
 - [kubectyl/kuber](https://github.com/kubectyl/kuber) - Kubernetes version of Wings by Pterodactyl.
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
