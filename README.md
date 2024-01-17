@@ -413,6 +413,7 @@
 
 ## HCL 
 
+- [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - k3s cluster using gitops (flux) and renovate automation
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - 
