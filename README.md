@@ -15,6 +15,7 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [G-code](#g-code)
 - [Go](#go)
@@ -233,6 +234,10 @@
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 - [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
 - [patsissons/docker-plex-sync](https://github.com/patsissons/docker-plex-sync) - 
+
+## EJS 
+
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 
 ## Elixir 
 
@@ -568,7 +573,6 @@
 
 ## Jinja 
 
-- [spacesyl/k3s](https://github.com/spacesyl/k3s) - 
 - [fischerscode/my-k3s](https://github.com/fischerscode/my-k3s) - The configuration and automatation of a k3s cluster.
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
@@ -747,6 +751,7 @@
 ## Python 
 
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
+- [spacesyl/k3s](https://github.com/spacesyl/k3s) - 
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -1087,7 +1092,7 @@
 ## Smarty 
 
 - [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
-- [clastix/kubelived](https://github.com/clastix/kubelived) - keepalived for kubernetes control plane
+- [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 - [tamcore/ssh-punchhole](https://github.com/tamcore/ssh-punchhole) - Tiny SSH based reverse-tunnel to expose services behind a firewall
 
 ## Svelte 
