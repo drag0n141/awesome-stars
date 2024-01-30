@@ -666,6 +666,7 @@
 - [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
 - [pekare/hetzner-proxmox-pfsense](https://github.com/pekare/hetzner-proxmox-pfsense) - 
 - [mtoohey31/headscale-config](https://github.com/mtoohey31/headscale-config) - My WIP config for headscale.
+- [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
 - [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [alphacodinghub/homelab-traefikv2](https://github.com/alphacodinghub/homelab-traefikv2) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2, and LetsEncrypt
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
@@ -974,7 +975,7 @@
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [snoopy82481/home_cluster](https://github.com/snoopy82481/home_cluster) - My home server cluster, managed by flux and defined as code here
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A community driven template for deploying a Kubernetes cluster with k0s, k3s or Talos
 - [mrwulf/home-cluster](https://github.com/mrwulf/home-cluster) - 
 - [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster  :sailboat:! And more!
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
@@ -1007,7 +1008,7 @@
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and SniProxy
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
-- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Route HTTPS traffic to local Docker containers through a cloud VPS over WireGuard. Ideal for self-hosting behind CGNAT.
+- [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Docker native tunneling to localhost. Expose local docker containers to the public Internet.
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [CasCas2/proxmox-hetzner](https://github.com/CasCas2/proxmox-hetzner) - proxmox post installation scripts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -1064,7 +1065,6 @@
 - [g3492/vzborg](https://github.com/g3492/vzborg) - Simple deduplicated encrypted backups for Proxmox
 - [Artiume/docker](https://github.com/Artiume/docker) - 
 - [WolfeCub/home-ops](https://github.com/WolfeCub/home-ops) - A k8s cluster (for home) built with k3s, flux v2 & renovate
-- [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [kaysond/trafficjam](https://github.com/kaysond/trafficjam) - A Docker firewall for your reverse proxy network
 - [hashicorp/docker-vault](https://github.com/hashicorp/docker-vault) - Official Docker images for Vault
