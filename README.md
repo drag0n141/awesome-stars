@@ -575,6 +575,7 @@
 
 ## Jinja 
 
+- [blackjid/k8s-gitops](https://github.com/blackjid/k8s-gitops) - Homelab GitOps repository. Cluster definition state via code.
 - [fischerscode/my-k3s](https://github.com/fischerscode/my-k3s) - The configuration and automatation of a k3s cluster.
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
@@ -780,7 +781,7 @@
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
 - [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
-- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
+- [sachinsenal0x64/FIXARR](https://github.com/sachinsenal0x64/FIXARR) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [zurdi15/romm](https://github.com/zurdi15/romm) - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB.
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
@@ -963,7 +964,6 @@
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
-- [blackjid/k8s-gitops](https://github.com/blackjid/k8s-gitops) - Homelab GitOps repository. Cluster definition state via code.
 - [MGlants/gitops](https://github.com/MGlants/gitops) - 
 - [17Halbe/z-push](https://github.com/17Halbe/z-push) - z-push docker image designed to work with tvial/docker-mailserver
 - [shenxn/protonmail-bridge-docker](https://github.com/shenxn/protonmail-bridge-docker) - ProtonMail IMAP/SMTP Bridge Docker container
