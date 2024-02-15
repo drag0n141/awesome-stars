@@ -1164,6 +1164,7 @@
 
 ## kubernetes 
 
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) - A bootstrapping and management tool for k0s clusters.
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
@@ -1490,6 +1491,7 @@
 
 ## others 
 
+- [geek-cookbook/containers](https://github.com/geek-cookbook/containers) - 
 - [fscorrupt/PosterMaker](https://github.com/fscorrupt/PosterMaker) - Automated poster maker for Plex.
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) - Data Import Service for kubernetes, designed with kubevirt in mind.
@@ -1535,7 +1537,7 @@
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [BMDan/tuning-primer.sh](https://github.com/BMDan/tuning-primer.sh) - MySQL Tuning-Primer.sh, updated and improved
-- [blawar/titledb](https://github.com/blawar/titledb) - 
+- [blawar/titledb_02112024](https://github.com/blawar/titledb_02112024) - 
 - [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
 - [ITotalJustice/sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) - Download sigpatches for Atmosphere directly to your switch!
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
