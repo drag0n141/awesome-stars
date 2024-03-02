@@ -1506,6 +1506,9 @@
 
 ## others 
 
+- [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
+- [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
+- [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
 - [samipsolutions/vyos-build](https://github.com/samipsolutions/vyos-build) - 
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
