@@ -190,7 +190,6 @@
 - [PragadeshBS/ProtonSwitch](https://github.com/PragadeshBS/ProtonSwitch) - Easily switch between multiple ProtonMail accounts with this Firefox Extension
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [tronyx/plpp](https://github.com/tronyx/plpp) - PHP Library Presenter for PLEX
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [jniggemann/filebrowser-css](https://github.com/jniggemann/filebrowser-css) - Custom stylesheet for filebrowser that adds colors and changes icons
 - [menushka/cards](https://github.com/menushka/cards) - A simple start page with cards based on shrek-gabe-itch/StartPage
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -921,6 +920,7 @@
 
 - [metikular/coupon-store](https://github.com/metikular/coupon-store) - A home for all your coupons and loyalty cards. https://coupon.metikular.ch
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Ruby gem to perform actions when files are changed. No config files. Pure Ruby implementation and minimalistic Ruby API.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [evait-security/envizon](https://github.com/evait-security/envizon) - network visualization & pentest reporting
@@ -971,6 +971,9 @@
 
 ## Shell 
 
+- [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
+- [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
+- [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
 - [geek-cookbook/containers](https://github.com/geek-cookbook/containers) - 
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
