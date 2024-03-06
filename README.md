@@ -823,7 +823,7 @@
 - [JensKuehnel/fail2ban-check-mk](https://github.com/JensKuehnel/fail2ban-check-mk) - check_mk package for fail2ban
 - [mrfret/gdsa_maker](https://github.com/mrfret/gdsa_maker) - Manage Google Drive Service Accounts, Team Drives, Sharing and Groups
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [FlagBrew/Sharkive](https://github.com/FlagBrew/Sharkive) - Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+
@@ -1160,6 +1160,7 @@
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [Ealenn/AdGuard-Home-List](https://github.com/Ealenn/AdGuard-Home-List) - Varied and carefully selected filter lists and consolidates for use in AdGuard Home.
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
+- [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
@@ -1214,7 +1215,6 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
-- [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
 - [GeorgeGedox/HomerGX](https://github.com/GeorgeGedox/HomerGX) - A custom fork of Homer, improved and with a new design.
