@@ -470,10 +470,10 @@
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Third party/community managed controller software for the PCPanel (getpcpanel.com) devices.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [grimsi/gameyfin](https://github.com/grimsi/gameyfin) - A simple game library manager
+- [gameyfin/gameyfin](https://github.com/gameyfin/gameyfin) - Manage your video games.
 - [karakun/OpenWebStart](https://github.com/karakun/OpenWebStart) - Run Web Start based applications after the release of Java 11
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [kvaster/iptv-proxy](https://github.com/kvaster/iptv-proxy) - Simple iptv restreamer
