@@ -932,6 +932,7 @@
 
 ## Rust 
 
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex recommendations
