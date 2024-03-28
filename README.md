@@ -149,6 +149,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [CopterTec/Marlin-Sovol_SV01](https://github.com/CopterTec/Marlin-Sovol_SV01) - Marlin 3D Printer Firmware for Sovol SV01
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -253,6 +254,7 @@
 
 ## Go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [skybitsnl/backsnap](https://github.com/skybitsnl/backsnap) - Kubernetes backup operator - off-site point-in-time backups with history
@@ -429,6 +431,7 @@
 
 ## HCL 
 
+- [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - homelab cluster managed by flux and renovate-bot.
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
@@ -801,7 +804,6 @@
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
 - [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
@@ -981,6 +983,7 @@
 
 ## Shell 
 
+- [cbc02009/vyos-config](https://github.com/cbc02009/vyos-config) - 
 - [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
 - [reefland/find-orphaned-rbd-images](https://github.com/reefland/find-orphaned-rbd-images) - Find Orphaned Rook-Ceph RBD Images no longer associated with a Kubernetes PV
 - [doonga/vyos-config](https://github.com/doonga/vyos-config) - My VyOS configuration
