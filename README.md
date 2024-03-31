@@ -247,7 +247,7 @@
 
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 
 ## G-code 
 
@@ -312,7 +312,7 @@
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [TekWizely/run](https://github.com/TekWizely/run) - Task runner that helps you easily manage and invoke small scripts and wrappers
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -496,8 +496,9 @@
 
 ## JavaScript 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
-- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - 
+- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool with advanced search capabilities for IMAP/POP3 accounts (early development)
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [rudoyeugene/NXEnhanced](https://github.com/rudoyeugene/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
@@ -804,6 +805,7 @@
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
 - [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
@@ -1144,6 +1146,7 @@
 
 ## TypeScript 
 
+- [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server's API.
 - [MohamedBassem/hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file uploader and awesome bunker written in node! 🚀
