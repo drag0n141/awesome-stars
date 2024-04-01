@@ -1530,6 +1530,7 @@
 
 ## others 
 
+- [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 - [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server's API.
 - [3rob3/ImmichFrame](https://github.com/3rob3/ImmichFrame) - 
 - [cbc02009/vyos-config](https://github.com/cbc02009/vyos-config) - 
