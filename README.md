@@ -986,6 +986,7 @@
 
 ## Shell 
 
+- [ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way) - A guide to setting up a production-like Kubernetes cluster on a local machine
 - [cbc02009/vyos-config](https://github.com/cbc02009/vyos-config) - 
 - [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
 - [reefland/find-orphaned-rbd-images](https://github.com/reefland/find-orphaned-rbd-images) - Find Orphaned Rook-Ceph RBD Images no longer associated with a Kubernetes PV
@@ -1042,7 +1043,7 @@
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
-- [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and SniProxy
+- [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and  S̶n̶i̶P̶r̶o̶x̶y̶ nginx
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet with a docker compose interface.
