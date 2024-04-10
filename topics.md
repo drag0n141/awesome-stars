@@ -411,6 +411,7 @@
 
 ## config 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 
 ## cpp 
@@ -484,6 +485,7 @@
 
 ## devops 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -534,6 +536,7 @@
 
 ## docker 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
@@ -882,6 +885,7 @@
 
 ## golang 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
@@ -1198,6 +1202,7 @@
 
 ## kubernetes 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [smbonn2005/HomeOps](https://github.com/smbonn2005/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [drag0n141/home-ops](https://github.com/drag0n141/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [angelnu/helm-charts](https://github.com/angelnu/helm-charts) - A collection of Helm charts
@@ -1501,6 +1506,7 @@
 
 ## nodejs 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -2114,6 +2120,7 @@
 
 ## python 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [HeinleinSupport/check_mk_extensions](https://github.com/HeinleinSupport/check_mk_extensions) - check_mk Plugins
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
@@ -2227,6 +2234,7 @@
 
 ## ruby 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 
 ## rust 
@@ -2259,6 +2267,7 @@
 
 ## security 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
