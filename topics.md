@@ -1579,7 +1579,7 @@
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [shenxn/ha-dyson](https://github.com/shenxn/ha-dyson) - HomeAssitant custom integration for dyson
 - [geek-cookbook/containers](https://github.com/geek-cookbook/containers) - 
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - Automated poster maker for Plex.
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) - Data Import Service for kubernetes, designed with kubevirt in mind.
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
@@ -1653,7 +1653,7 @@
 - [LordZeuss/auto-authelia](https://github.com/LordZeuss/auto-authelia) - A series of scripts that will install a reverse proxy as well as configure authelia automatically.
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [zilexa/Homeserver](https://github.com/zilexa/Homeserver) - Lightweight home server based on microservices, usable as desktop workstation
-- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track WireGuard mesh software
 - [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts
 - [88lex/sa-gen](https://github.com/88lex/sa-gen) - Create projects, service accounts, jsons and a group list in csv using gcloud sdk
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
