@@ -661,7 +661,7 @@
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [THZoria/NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
-- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track all the WireGuard mesh software
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track WireGuard mesh software
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - KVM - Share Mouse & Keyboard between multiple computers. Custom borders and more!
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -762,7 +762,7 @@
 ## PowerShell 
 
 - [microsoftarchive/New-KrbtgtKeys.ps1](https://github.com/microsoftarchive/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - Automated poster maker for Plex.
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
