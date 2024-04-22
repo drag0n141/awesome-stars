@@ -449,7 +449,7 @@
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
-- [xUnholy/k8s-gitops](https://github.com/xUnholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
+- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
@@ -482,7 +482,7 @@
 
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Third party/community managed controller software for the PCPanel (getpcpanel.com) devices.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -510,7 +510,6 @@
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 - [rudoyeugene/NXEnhanced](https://github.com/rudoyeugene/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
-- [nea0d/k8s-homelab-flux](https://github.com/nea0d/k8s-homelab-flux) - 
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
@@ -818,7 +817,7 @@
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
-- [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
+- [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
@@ -1001,6 +1000,7 @@
 
 ## Shell 
 
+- [chamburr/homelab](https://github.com/chamburr/homelab) - My personal infrastructure and Kubernetes cluster written as code.
 - [smbonn2005/HomeOps](https://github.com/smbonn2005/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [drag0n141/home-ops](https://github.com/drag0n141/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [ghik/kubernetes-the-harder-way](https://github.com/ghik/kubernetes-the-harder-way) - A guide to setting up a production-like Kubernetes cluster on a local machine
