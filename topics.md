@@ -894,7 +894,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [kubectyl/kuber](https://github.com/kubectyl/kuber) - Kubernetes version of Wings by Pterodactyl.
-- [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
+- [Permify/permify](https://github.com/Permify/permify) - Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1230,7 +1230,7 @@
 - [clbx/kubectl-browse-pvc](https://github.com/clbx/kubectl-browse-pvc) - Kubectl plugin for browsing PVCs on the command line
 - [kubectyl/kuber](https://github.com/kubectyl/kuber) - Kubernetes version of Wings by Pterodactyl.
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
-- [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
+- [Permify/permify](https://github.com/Permify/permify) - Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
 - [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
 - [blackjid/k8s-gitops](https://github.com/blackjid/k8s-gitops) - Homelab GitOps repository. Cluster definition state via code.
@@ -2280,7 +2280,7 @@
 ## security 
 
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
-- [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
+- [Permify/permify](https://github.com/Permify/permify) - Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
