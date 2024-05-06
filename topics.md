@@ -774,7 +774,7 @@
 
 ## flask 
 
-- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool with advanced search capabilities for IMAP/POP3 accounts (early development)
+- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool for IMAP/POP3 accounts (early development)
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 
@@ -2199,7 +2199,7 @@
 
 ## react 
 
-- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool with advanced search capabilities for IMAP/POP3 accounts (early development)
+- [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool for IMAP/POP3 accounts (early development)
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
