@@ -1567,7 +1567,7 @@
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
-- [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab
+- [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab uwu
 - [chamburr/homelab](https://github.com/chamburr/homelab) - My personal infrastructure and Kubernetes cluster written as code.
 - [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Lidarr -&gt; Downloader
 - [MicaApps/Tempest](https://github.com/MicaApps/Tempest) - 
