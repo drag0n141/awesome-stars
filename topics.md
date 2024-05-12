@@ -967,6 +967,7 @@
 
 ## hacktoberfest 
 
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -1209,6 +1210,7 @@
 
 ## kubernetes 
 
+- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [rwlove/home-ops](https://github.com/rwlove/home-ops) - Lovenet Cluster Configuration
@@ -1586,7 +1588,7 @@
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
 - [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
 - [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
-- [samipsolutions/vyos-build](https://github.com/samipsolutions/vyos-build) - 
+- [skyssolutions/vyos-build](https://github.com/skyssolutions/vyos-build) - 
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
