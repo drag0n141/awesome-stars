@@ -1210,6 +1210,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [xentra-ai/kube-guardian](https://github.com/xentra-ai/kube-guardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -1568,6 +1569,7 @@
 
 ## others 
 
+- [lastlogin-io/obligator](https://github.com/lastlogin-io/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
