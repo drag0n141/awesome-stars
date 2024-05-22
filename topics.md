@@ -889,6 +889,7 @@
 
 ## golang 
 
+- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - A tool to locally mount k8s PVs using SSHFS
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1924,7 +1925,7 @@
 - [zSeriesGuy/Tautulli](https://github.com/zSeriesGuy/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [chazlarson/sb_gd](https://github.com/chazlarson/sb_gd) - Script to set up Google Drive stuff for saltbox/cloudbox
 - [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
-- [Loli-Killer/qbit-telegram](https://github.com/Loli-Killer/qbit-telegram) - Use telegram bot to download torrent/magnet to local PC through Qbittorrent
+- [Neppu-Nep/qbit-telegram](https://github.com/Neppu-Nep/qbit-telegram) - Use telegram bot to download torrent/magnet to local PC through Qbittorrent
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
 - [hashicorp/docker-vault](https://github.com/hashicorp/docker-vault) - Official Docker images for Vault
 - [jmgilman/vaultssh](https://github.com/jmgilman/vaultssh) - A small CLI wrapper for authenticating with SSH keys from Hashicorp Vault
