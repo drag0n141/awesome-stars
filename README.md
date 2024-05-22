@@ -262,6 +262,7 @@
 
 ## Go 
 
+- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - A tool to locally mount k8s PVs using SSHFS
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [lastlogin-io/obligator](https://github.com/lastlogin-io/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -913,7 +914,7 @@
 - [zSeriesGuy/Tautulli](https://github.com/zSeriesGuy/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [chazlarson/sb_gd](https://github.com/chazlarson/sb_gd) - Script to set up Google Drive stuff for saltbox/cloudbox
 - [ch3p4ll3/QBittorrentBot](https://github.com/ch3p4ll3/QBittorrentBot) - This bot can control qbittorrent easily from Telegram! You can add magnet or torrent files, have a list of active downloads, delete, pause and restart downloads.
-- [Loli-Killer/qbit-telegram](https://github.com/Loli-Killer/qbit-telegram) - Use telegram bot to download torrent/magnet to local PC through Qbittorrent
+- [Neppu-Nep/qbit-telegram](https://github.com/Neppu-Nep/qbit-telegram) - Use telegram bot to download torrent/magnet to local PC through Qbittorrent
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [croneter/docker_mediaserver](https://github.com/croneter/docker_mediaserver) - 
 - [l3uddz/plex_patrol](https://github.com/l3uddz/plex_patrol) - Monitor a plex server. Kick transcodes (audio or video or both), kick paused streams if not resumed within X minutes.  Kick specific player's, e.g. Plex Web
