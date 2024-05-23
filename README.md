@@ -29,7 +29,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mustache](#mustache)
 - [Nim](#nim)
@@ -426,6 +425,7 @@
 - [l3uddz/mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite
 - [l3uddz/plexarr](https://github.com/l3uddz/plexarr) - Fix mismatched media in Plex mastered by Sonarr/Radarr
 - [l3uddz/tqm](https://github.com/l3uddz/tqm) - CLI application to manage torrent client queues and remove torrents that meet a specific criteria
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [fionera/satisfactory-server](https://github.com/fionera/satisfactory-server) - An unofficial implementation of a dedicated server for Satisfactory.
 - [l3uddz/nabarr](https://github.com/l3uddz/nabarr) - Monitor newznab/torznab rss and add new media to sonarr/radarr
 - [squat/kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
@@ -630,6 +630,7 @@
 
 ## Kotlin 
 
+- [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
@@ -641,10 +642,6 @@
 
 - [ign-gg/Pterodactyl-Eggs](https://github.com/ign-gg/Pterodactyl-Eggs) - Service eggs for the pterodactyl panel
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
-
-## MDX 
-
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
@@ -744,7 +741,7 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [pacoorozco/ssham](https://github.com/pacoorozco/ssham) - SSH Access Manager
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 88 file formats in 13 languages.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [ChanceM/pfSense-pkg-zerotier](https://github.com/ChanceM/pfSense-pkg-zerotier) - pfSense package to support zerotier.
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
