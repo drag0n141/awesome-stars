@@ -1573,6 +1573,8 @@
 
 ## others 
 
+- [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
+- [kubernetes-sigs/kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies) - Kubernetes network policies
 - [lastlogin-io/obligator](https://github.com/lastlogin-io/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
