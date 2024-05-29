@@ -188,6 +188,7 @@
 
 ## CSS 
 
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [JefeDavis/k8s-HomeOps](https://github.com/JefeDavis/k8s-HomeOps) - 
 - [PragadeshBS/ProtonSwitch](https://github.com/PragadeshBS/ProtonSwitch) - Easily switch between multiple ProtonMail accounts with this Firefox Extension
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
