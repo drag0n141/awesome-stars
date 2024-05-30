@@ -1308,7 +1308,6 @@
 - [kdwils/plex-init](https://github.com/kdwils/plex-init) - Claim a plex server token and store it as a kubernetes secret
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -1608,7 +1607,7 @@
 - [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [shenxn/ha-dyson](https://github.com/shenxn/ha-dyson) - HomeAssitant custom integration for dyson
-- [geek-cookbook/containers](https://github.com/geek-cookbook/containers) - 
+- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex.
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) - Data Import Service for kubernetes, designed with kubevirt in mind.
@@ -2387,6 +2386,7 @@
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
