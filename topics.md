@@ -228,7 +228,7 @@
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - self-hosted devops resources in my homelab
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -575,7 +575,7 @@
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - self-hosted devops resources in my homelab
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [theneedyguy/streamslurp](https://github.com/theneedyguy/streamslurp) - A docker container for auto-downloading twitch vods.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
@@ -982,7 +982,7 @@
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - PostgreSQL operator for Kubernetes
+- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - Postgres operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
@@ -1247,7 +1247,7 @@
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - k3s cluster using gitops (flux) and renovate automation
 - [bugfest/tor-controller](https://github.com/bugfest/tor-controller) - Tor toolkit for Kubernetes (Tor instances, onion services and more)
-- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - PostgreSQL operator for Kubernetes
+- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - Postgres operator for Kubernetes
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
@@ -1581,7 +1581,7 @@
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab uwu
 - [chamburr/homelab](https://github.com/chamburr/homelab) - My personal infrastructure and Kubernetes cluster written as code.
-- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Lidarr -&gt; Downloader
+- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - App for finding missing Lidarr albums.
 - [MicaApps/Tempest](https://github.com/MicaApps/Tempest) - 
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
 - [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
@@ -2369,7 +2369,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - self-hosted devops resources in my homelab
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
@@ -2528,7 +2528,7 @@
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [oscaromeu/home-ops](https://github.com/oscaromeu/home-ops) - A mono repository for my homelab infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
-- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - self-hosted devops resources in my homelab
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
