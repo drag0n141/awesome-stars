@@ -798,6 +798,7 @@
 
 ## Python 
 
+- [vladiiancu/plex-reshare](https://github.com/vladiiancu/plex-reshare) - Re-share Plex's shared libraries with you further to other users on your server
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - App for finding missing Lidarr albums via yt-dlp.
@@ -1016,6 +1017,7 @@
 
 ## Shell 
 
+- [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [rwlove/home-ops](https://github.com/rwlove/home-ops) - Lovenet Cluster Configuration
 - [chamburr/homelab](https://github.com/chamburr/homelab) - My personal infrastructure and Kubernetes cluster written as code.
 - [smbonn2005/HomeOps](https://github.com/smbonn2005/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
