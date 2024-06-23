@@ -1592,6 +1592,7 @@
 
 ## others 
 
+- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container
 - [vladiiancu/plex-reshare](https://github.com/vladiiancu/plex-reshare) - Re-share Plex's shared libraries with you further to other users on your server
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
