@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [henrywhitaker3/crunchy-users](https://github.com/henrywhitaker3/crunchy-users) - 
 - [kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook) - External-DNS Webhook to manage UniFi DNS Records
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
@@ -459,7 +460,7 @@
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab uwu
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
-- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - homelab cluster managed by flux and renovate-bot.
+- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife cleared HomeOps driven by Kubernetes, and Gitops via Flux.
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - k3s cluster using gitops (flux) and renovate automation
@@ -967,7 +968,7 @@
 
 - [metikular/coupon-store](https://github.com/metikular/coupon-store) - A home for all your coupons and loyalty cards. https://coupon.metikular.ch
 - [Gueils/whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
-- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   An application to securely communicate passwords over the web.  Passwords automatically expire after a certain number of views and/or time has passed.  Track who, what and when.
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐   Securely communicate sensitive information with automatic deletion after a certain number of views and/or time has passed.  Track who, what and when with full audit logs.
 - [filewatcher/filewatcher](https://github.com/filewatcher/filewatcher) - Ruby gem to perform actions when files are changed. No config files. Pure Ruby implementation and minimalistic Ruby API.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [evait-security/envizon](https://github.com/evait-security/envizon) - network visualization & pentest reporting
