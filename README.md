@@ -567,7 +567,7 @@
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [jauderho/cf-warp](https://github.com/jauderho/cf-warp) - 
 - [andyt10/html-js-authenticator](https://github.com/andyt10/html-js-authenticator) - HTML based implementation of RFC6238 TOTP
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
+- [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [pabloromeo/clusterplex](https://github.com/pabloromeo/clusterplex) - ClusterPlex is an extended version of Plex, which supports distributed Workers across a cluster to handle transcoding requests.
 - [jfarseneau/antennas](https://github.com/jfarseneau/antennas) - 📡 DVR emulator for Plex DVR to connect to Tvheadend.
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
@@ -976,6 +976,7 @@
 
 ## Rust 
 
+- [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
 - [xentra-ai/kube-guardian](https://github.com/xentra-ai/kube-guardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
@@ -1164,7 +1165,7 @@
 - [Makeshift/Marauder-Containers](https://github.com/Makeshift/Marauder-Containers) - The containers used in Makeshift/Marauder
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
 - [TheRealAlexV/proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
-- [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
+- [b4too/checker](https://github.com/b4too/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
 - [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
