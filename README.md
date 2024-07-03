@@ -45,6 +45,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Svelte](#svelte)
+- [TeX](#tex)
 - [Text](#text)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -265,6 +266,7 @@
 
 ## Go 
 
+- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [henrywhitaker3/crunchy-users](https://github.com/henrywhitaker3/crunchy-users) - 
 - [kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook) - External-DNS Webhook to manage UniFi DNS Records
@@ -976,6 +978,7 @@
 
 ## Rust 
 
+- [mbuesch/letmein](https://github.com/mbuesch/letmein) - Authenticated port knocking in Rust
 - [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
 - [xentra-ai/kube-guardian](https://github.com/xentra-ai/kube-guardian) - A Kubernetes tool leveraging eBPF for advanced Kubernetes security, auto-generating Network Policies, Seccomp Profiles, and more.
@@ -1025,6 +1028,7 @@
 
 ## Shell 
 
+- [jfroy/flatops](https://github.com/jfroy/flatops) - k8s cluster for leflat managed by Flux
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 - [goofball222/unifi](https://github.com/goofball222/unifi) - UniFi Docker Container
 - [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
@@ -1190,6 +1194,10 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
+
+## TeX 
+
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## Text 
 
