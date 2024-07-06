@@ -1223,6 +1223,7 @@
 
 ## kubernetes 
 
+- [martinohmann/home-ops](https://github.com/martinohmann/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
@@ -1602,6 +1603,8 @@
 
 ## others 
 
+- [rabbit-aaron/paperless-smtp](https://github.com/rabbit-aaron/paperless-smtp) - 
+- [Jdavid77/home-cluster](https://github.com/Jdavid77/home-cluster) - 
 - [WhiskeyTang0F0xtr0t/unifi](https://github.com/WhiskeyTang0F0xtr0t/unifi) - Random stuff for unifi devices.
 - [jfroy/flatops](https://github.com/jfroy/flatops) - k8s cluster for leflat managed by Flux
 - [mbuesch/letmein](https://github.com/mbuesch/letmein) - Authenticating port knocker - Written in Rust
