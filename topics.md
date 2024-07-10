@@ -22,6 +22,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -366,6 +367,10 @@
 
 - [ch3p4ll3/QBittorrentBot](https://github.com/ch3p4ll3/QBittorrentBot) - This bot can control qbittorrent easily from Telegram! You can add magnet or torrent files, have a list of active downloads, delete, pause and restart downloads.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
+
+## bugbounty 
+
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 
 ## c 
 
