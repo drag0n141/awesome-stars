@@ -1690,7 +1690,7 @@
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [JefeDavis/k8s-HomeOps](https://github.com/JefeDavis/k8s-HomeOps) - 
-- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex recommendations
+- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
