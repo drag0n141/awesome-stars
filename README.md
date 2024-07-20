@@ -266,6 +266,7 @@
 
 ## Go 
 
+- [anthr76/k8s-pod-mutator-webhook](https://github.com/anthr76/k8s-pod-mutator-webhook) - Kubernetes Mutating Admission Webhook for Pods. Applies arbitrary changes to Pod manifests.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [henrywhitaker3/crunchy-users](https://github.com/henrywhitaker3/crunchy-users) - 
