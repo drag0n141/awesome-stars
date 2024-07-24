@@ -223,6 +223,7 @@
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
 - [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [tensorchord/cloudnative-pgvecto.rs](https://github.com/tensorchord/cloudnative-pgvecto.rs) - Container images for cloudnative-pg with the pgvecto.rs extension installed
+- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [jonp92/Milliner_Docker](https://github.com/jonp92/Milliner_Docker) - a Dockerized version of Milliner, itself a lightweight Headscale management web-UI.
 - [jefflessard/plex-vaapi-amdgpu-mod](https://github.com/jefflessard/plex-vaapi-amdgpu-mod) - linuxserver.io mod to enable hardware acceleration using vaapi amdgpu on linuxserver/plex
@@ -268,6 +269,7 @@
 
 ## Go 
 
+- [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com
 - [anthr76/k8s-pod-mutator-webhook](https://github.com/anthr76/k8s-pod-mutator-webhook) - Kubernetes Mutating Admission Webhook for Pods. Applies arbitrary changes to Pod manifests.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
@@ -810,6 +812,7 @@
 
 ## Python 
 
+- [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [daernsinstantfortress/cupra_we_connect](https://github.com/daernsinstantfortress/cupra_we_connect) - Cupra integration for Home Assistant
 - [KartoffelToby/better_thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling TRV (Thermostatic Radiator Valves) to save you the work of creating automations to make it smart. It comb
 - [rabbit-aaron/paperless-smtp](https://github.com/rabbit-aaron/paperless-smtp) - 
@@ -1055,7 +1058,6 @@
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
 - [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
 - [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
-- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
