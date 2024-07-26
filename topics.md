@@ -220,7 +220,6 @@
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - 
-- [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [digitalis-io/k3s-on-prem-production](https://github.com/digitalis-io/k3s-on-prem-production) - Playbooks needed to set up an on-premises K3s cluster and securize it
@@ -1294,7 +1293,6 @@
 - [nklmilojevic/home](https://github.com/nklmilojevic/home) - 
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
-- [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [allenporter/k8s-gitops](https://github.com/allenporter/k8s-gitops) - Flux/Gitops managed k8s cluster
 - [nicholaswilde/home-cluster](https://github.com/nicholaswilde/home-cluster) - My home Kubernetes (k3s) cluster managed by GitOps (Flux2)
@@ -1619,6 +1617,7 @@
 
 ## others 
 
+- [Yogibaer75/Check_MK-Things](https://github.com/Yogibaer75/Check_MK-Things) - From check plugins to website extensions
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 - [anthr76/k8s-pod-mutator-webhook](https://github.com/anthr76/k8s-pod-mutator-webhook) - Kubernetes Mutating Admission Webhook for Pods. Applies arbitrary changes to Pod manifests.
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
@@ -2593,7 +2592,6 @@
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
-- [dvmrry/k3s-gitops](https://github.com/dvmrry/k3s-gitops) - Kubenetes on Proxmox leveraging Ansible, Flux, Terraform, Ceph, and k10
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
