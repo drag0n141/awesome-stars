@@ -209,6 +209,7 @@
 
 ## ansible 
 
+- [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) - K3s cluster driven by Flux
@@ -1237,6 +1238,7 @@
 
 ## kubernetes 
 
+- [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [martinohmann/home-ops](https://github.com/martinohmann/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -1643,7 +1645,7 @@
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab uwu
 - [chamburr/homelab](https://github.com/chamburr/homelab) - My personal infrastructure and Kubernetes cluster written as code.
-- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - App for finding missing Lidarr albums via yt-dlp.
+- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Find and download missing Lidarr albums via yt-dlp.
 - [MicaApps/Tempest](https://github.com/MicaApps/Tempest) - 
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
 - [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
