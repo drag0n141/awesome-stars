@@ -26,6 +26,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -641,6 +642,10 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
+## Jsonnet 
+
+- [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
+
 ## Jupyter Notebook 
 
 - [CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets) - 
@@ -821,7 +826,7 @@
 - [vladiiancu/plex-reshare](https://github.com/vladiiancu/plex-reshare) - Re-share Plex's shared libraries with you further to other users on your server
 - [Py-KMS-Organization/py-kms](https://github.com/Py-KMS-Organization/py-kms) - KMS Server Emulator written in Python
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
-- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - App for finding missing Lidarr albums via yt-dlp.
+- [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Find and download missing Lidarr albums via yt-dlp.
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
