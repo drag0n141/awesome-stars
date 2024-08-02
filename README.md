@@ -110,6 +110,7 @@
 
 ## C# # 
 
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [3rob3/ImmichFrame](https://github.com/3rob3/ImmichFrame) - 
 - [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
@@ -225,7 +226,6 @@
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
 - [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [tensorchord/cloudnative-pgvecto.rs](https://github.com/tensorchord/cloudnative-pgvecto.rs) - Container images for cloudnative-pg with the pgvecto.rs extension installed
-- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [jonp92/Milliner_Docker](https://github.com/jonp92/Milliner_Docker) - a Dockerized version of Milliner, itself a lightweight Headscale management web-UI.
 - [jefflessard/plex-vaapi-amdgpu-mod](https://github.com/jefflessard/plex-vaapi-amdgpu-mod) - linuxserver.io mod to enable hardware acceleration using vaapi amdgpu on linuxserver/plex
@@ -1069,6 +1069,7 @@
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
 - [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
 - [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
+- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
@@ -1228,6 +1229,7 @@
 
 ## TypeScript 
 
+- [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
