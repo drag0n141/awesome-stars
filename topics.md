@@ -491,6 +491,7 @@
 
 ## deployment 
 
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
