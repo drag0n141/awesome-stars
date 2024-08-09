@@ -101,7 +101,6 @@
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
@@ -184,6 +183,7 @@
 - [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) - Update your CFW, cheat codes, firmwares and more directly from your Nintendo Switch!
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Moehammered/switch-remote-play](https://github.com/Moehammered/switch-remote-play) - Let the switch remotely play PC games (similar to steam link or remote play)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [D3fau4/NightFall](https://github.com/D3fau4/NightFall) - A (online) System Updater for Nintendo Switch made with borealis
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
@@ -226,7 +226,6 @@
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
 - [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [tensorchord/cloudnative-pgvecto.rs](https://github.com/tensorchord/cloudnative-pgvecto.rs) - Container images for cloudnative-pg with the pgvecto.rs extension installed
-- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [ckulka/baikal-docker](https://github.com/ckulka/baikal-docker) - Provides a ready-to-go Baikal server, incl. docker-compose.yml & Systemd service file
 - [jonp92/Milliner_Docker](https://github.com/jonp92/Milliner_Docker) - a Dockerized version of Milliner, itself a lightweight Headscale management web-UI.
 - [jefflessard/plex-vaapi-amdgpu-mod](https://github.com/jefflessard/plex-vaapi-amdgpu-mod) - linuxserver.io mod to enable hardware acceleration using vaapi amdgpu on linuxserver/plex
@@ -474,13 +473,12 @@
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab uwu
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
-- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife cleared HomeOps driven by Kubernetes, and Gitops via Flux.
+- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - k3s cluster using gitops (flux) and renovate automation
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
-- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
@@ -848,6 +846,7 @@
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with k3s and managed by flux (gitops).
 - [peppelinux/pyMultiLDAP](https://github.com/peppelinux/pyMultiLDAP) - OpenLDAP proxy or simple python3 LDAP client to handle multiple LDAP connections, data aggregation and manipulation strategies
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - "WireGate: Secure Intranet Deployment with WireGuard, Docker, and Enhanced Network Controls"
@@ -1071,6 +1070,7 @@
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
 - [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
 - [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
+- [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
