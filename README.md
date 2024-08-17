@@ -538,6 +538,9 @@
 
 ## JavaScript 
 
+- [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant
+- [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
+- [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
