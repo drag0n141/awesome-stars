@@ -287,7 +287,7 @@
 - [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) - Collection of Intel device plugins for Kubernetes
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [kubernetes-sigs/kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies) - Kubernetes network policies
-- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - A tool to locally mount k8s PVs using SSHFS
+- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - Mount Kubernetes PVs locally using SSHFS
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [lastlogin-io/obligator](https://github.com/lastlogin-io/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
@@ -1007,6 +1007,7 @@
 
 ## Rust 
 
+- [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
 - [mbuesch/letmein](https://github.com/mbuesch/letmein) - Authenticating port knocker - Written in Rust
 - [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
