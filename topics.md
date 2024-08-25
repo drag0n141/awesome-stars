@@ -1660,6 +1660,7 @@
 
 ## others 
 
+- [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Yubico/yubico-piv-tool](https://github.com/Yubico/yubico-piv-tool) - Command line tool for the YubiKey PIV application
 - [swingerman/ha-dual-smart-thermostat](https://github.com/swingerman/ha-dual-smart-thermostat) - The `dual_smart_thermostat` is an enhaced verion of generic thermostat implemented in Home Assistant. It uses several sensors and dedicated switches connected to a heater and air conditioning under th
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
