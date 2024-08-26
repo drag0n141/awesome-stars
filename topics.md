@@ -213,6 +213,7 @@
 
 ## ansible 
 
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
@@ -559,6 +560,7 @@
 
 ## docker 
 
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
@@ -2689,6 +2691,7 @@
 
 ## ubuntu 
 
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
