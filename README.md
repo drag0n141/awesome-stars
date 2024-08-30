@@ -50,7 +50,6 @@
 - [Text](#text)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YAML](#yaml)
 
@@ -677,6 +676,7 @@
 
 ## Lua 
 
+- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
 - [ign-gg/Pterodactyl-Eggs](https://github.com/ign-gg/Pterodactyl-Eggs) - Service eggs for the pterodactyl panel
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
@@ -1327,10 +1327,6 @@
 ## Vala 
 
 - [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh) - The SSH connection manager to make your life easier.
-
-## Vim Script 
-
-- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
 
 ## Vue 
 
