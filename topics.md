@@ -49,7 +49,6 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [elixir](#elixir)
-- [emacs](#emacs)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [express](#express)
@@ -773,10 +772,6 @@
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 
-## emacs 
-
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-
 ## emoji 
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -863,6 +858,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
@@ -2745,7 +2741,6 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 
