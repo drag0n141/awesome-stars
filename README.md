@@ -1242,6 +1242,7 @@
 
 ## TypeScript 
 
+- [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [Disane87/docudigger](https://github.com/Disane87/docudigger) - Website scraper for getting invoices automagically as pdf (useful for taxes or DMS)
@@ -1269,7 +1270,7 @@
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
