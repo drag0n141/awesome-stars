@@ -697,6 +697,7 @@
 
 ## Others 
 
+- [Locatarr/Locatarr](https://github.com/Locatarr/Locatarr) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [MicaApps/Tempest](https://github.com/MicaApps/Tempest) - 
 - [osism/awesome-netbox](https://github.com/osism/awesome-netbox) - A curated list of awesome NetBox resources
@@ -832,6 +833,7 @@
 
 ## Python 
 
+- [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Switch library manager, with a self-hosted Tinfoil Shop.
 - [swingerman/ha-dual-smart-thermostat](https://github.com/swingerman/ha-dual-smart-thermostat) - The `dual_smart_thermostat` is an enhaced verion of generic thermostat implemented in Home Assistant. It uses several sensors and dedicated switches connected to a heater and air conditioning under th
 - [Entree3k/edition-manager](https://github.com/Entree3k/edition-manager) - Edition Manager - Movie Edition Management Tool for Plex
 - [astrandb/miele](https://github.com/astrandb/miele) - A modern integration for Miele devices in Home Assistant
