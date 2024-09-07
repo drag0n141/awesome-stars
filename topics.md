@@ -1068,6 +1068,7 @@
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist) - PiHole and AGH Blocklists
 - [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [jorgelbg/dashflare](https://github.com/jorgelbg/dashflare) - 🕵🏼‍♀️ Open Source and privacy-focused analytics solution. 📊 Advanced monitoring for your website behind Cloudflare
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -1307,7 +1308,7 @@
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
-- [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
+- [bernd-schorgers/helm-charts](https://github.com/bernd-schorgers/helm-charts) - A collection of Helm charts
 - [blackjid/home-ops](https://github.com/blackjid/home-ops) - Homelab GitOps repository. Cluster definition state via code.
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
@@ -1338,7 +1339,7 @@
 - [budimanjojo/home-cluster](https://github.com/budimanjojo/home-cluster) - My home Kubernetes cluster managed with flux GitOps tool.
 - [snoopy82481/home_cluster](https://github.com/snoopy82481/home_cluster) - My home server cluster, managed by flux and defined as code here
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bernd-schorgers/home-ops](https://github.com/bernd-schorgers/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 - [digitalis-io/k3s-on-prem-production](https://github.com/digitalis-io/k3s-on-prem-production) - Playbooks needed to set up an on-premises K3s cluster and securize it
@@ -1637,6 +1638,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [AdguardTeam/AdGuardDNS](https://github.com/AdguardTeam/AdGuardDNS) - Public DNS resolver that protects you from ad trackers
@@ -1709,7 +1711,7 @@
 - [reefland/find-orphaned-rbd-images](https://github.com/reefland/find-orphaned-rbd-images) - Find Orphaned Rook-Ceph RBD Images no longer associated with a Kubernetes PV
 - [doonga/vyos-config](https://github.com/doonga/vyos-config) - My VyOS configuration
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
-- [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
+- [bernd-schorgers/vyos-config](https://github.com/bernd-schorgers/vyos-config) - My VyOS configuration
 - [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
 - [skyssolutions/vyos-build](https://github.com/skyssolutions/vyos-build) - 
 - [jruizaranguren/best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) - A ranked list of awesome Digital Identity open source projects
@@ -1754,7 +1756,6 @@
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
-- [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [PragadeshBS/ProtonSwitch](https://github.com/PragadeshBS/ProtonSwitch) - Easily switch between multiple ProtonMail accounts with this Firefox Extension
 - [Mawthuq-Software/Wireguard-Manager-GUI](https://github.com/Mawthuq-Software/Wireguard-Manager-GUI) - The front-end GUI for the wireguard manager and API.
 - [mrwulf/home-cluster](https://github.com/mrwulf/home-cluster) - 
@@ -2484,6 +2485,7 @@
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
+- [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [TomBursch/kitchenowl-backend](https://github.com/TomBursch/kitchenowl-backend) - Backend for the KitchenOwl app.
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
