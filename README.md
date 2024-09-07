@@ -488,7 +488,7 @@
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
-- [bjw-s/home-ops](https://github.com/bjw-s/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bernd-schorgers/home-ops](https://github.com/bernd-schorgers/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
 - [h3mmy/bloopySphere](https://github.com/h3mmy/bloopySphere) - My home cluster.
@@ -1084,7 +1084,7 @@
 - [reefland/find-orphaned-rbd-images](https://github.com/reefland/find-orphaned-rbd-images) - Find Orphaned Rook-Ceph RBD Images no longer associated with a Kubernetes PV
 - [doonga/vyos-config](https://github.com/doonga/vyos-config) - My VyOS configuration
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
-- [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
+- [bernd-schorgers/vyos-config](https://github.com/bernd-schorgers/vyos-config) - My VyOS configuration
 - [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
@@ -1225,7 +1225,7 @@
 ## Smarty 
 
 - [angelnu/helm-charts](https://github.com/angelnu/helm-charts) - A collection of Helm charts
-- [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
+- [bernd-schorgers/helm-charts](https://github.com/bernd-schorgers/helm-charts) - A collection of Helm charts
 - [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 - [tamcore/ssh-punchhole](https://github.com/tamcore/ssh-punchhole) - Tiny SSH based reverse-tunnel to expose services behind a firewall
 
