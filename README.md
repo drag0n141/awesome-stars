@@ -243,7 +243,7 @@
 - [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [mdhiggins/plexautoskip-docker](https://github.com/mdhiggins/plexautoskip-docker) - Docker container for PlexAutoSkip
 - [Caedis/plex-auto-skip-intro](https://github.com/Caedis/plex-auto-skip-intro) - A simple docker mod to auto press the skip intro button
-- [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles for various things
+- [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
 - [linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs) - Web based retro emulation frontend with rom scanning and automated art ingestion.
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image
