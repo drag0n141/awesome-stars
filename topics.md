@@ -560,7 +560,7 @@
 ## docker 
 
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
@@ -2707,7 +2707,7 @@
 
 ## ubuntu 
 
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
