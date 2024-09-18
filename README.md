@@ -835,6 +835,7 @@
 
 ## Python 
 
+- [kennymc-c/ucr2-integration-requests](https://github.com/kennymc-c/ucr2-integration-requests) - Integration for Unfolded Circle Remote Devices to send HTTP requests and Wake on LAN magic packets
 - [waveform80/tvrip](https://github.com/waveform80/tvrip) - A HandBrake wrapper which eases conversion of TV series
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Switch library manager, with a self-hosted Tinfoil Shop.
 - [swingerman/ha-dual-smart-thermostat](https://github.com/swingerman/ha-dual-smart-thermostat) - The `dual_smart_thermostat` is an enhaced verion of generic thermostat implemented in Home Assistant. It uses several sensors and dedicated switches connected to a heater and air conditioning under th
