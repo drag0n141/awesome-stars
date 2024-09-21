@@ -414,6 +414,7 @@
 
 ## cli 
 
+- [mirceanton/kube-switcher](https://github.com/mirceanton/kube-switcher) - A simple tool to help manage multiple kubeconfig files
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
@@ -1115,6 +1116,7 @@
 
 ## home-assistant 
 
+- [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card) - This lovelace card for Home Assistant displays the Octopus Energy rate prices per each 30 minute slot
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
 - [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant
@@ -1274,6 +1276,7 @@
 
 ## kubernetes 
 
+- [mirceanton/kube-switcher](https://github.com/mirceanton/kube-switcher) - A simple tool to help manage multiple kubeconfig files
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters.
 - [jacksgt/alert-operator](https://github.com/jacksgt/alert-operator) - The missing piece for the kube-prometheus stack: manage Alerts and Silences from Kubernetes
 - [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
@@ -1710,7 +1713,7 @@
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
 - [danvergara/morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 - [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server's API.
-- [3rob3/ImmichFrame](https://github.com/3rob3/ImmichFrame) - 
+- [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [cbc02009/vyos-config](https://github.com/cbc02009/vyos-config) - 
 - [microsoftarchive/New-KrbtgtKeys.ps1](https://github.com/microsoftarchive/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
