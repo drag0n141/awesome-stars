@@ -1012,6 +1012,7 @@
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
@@ -1275,6 +1276,7 @@
 
 ## kubernetes 
 
+- [Heavybullets8/heavy-ops](https://github.com/Heavybullets8/heavy-ops) - 
 - [mirceanton/kube-switcher](https://github.com/mirceanton/kube-switcher) - A simple tool to help manage multiple kubeconfig files
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters.
 - [jacksgt/alert-operator](https://github.com/jacksgt/alert-operator) - The missing piece for the kube-prometheus stack: manage Alerts and Silences from Kubernetes
