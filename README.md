@@ -621,6 +621,7 @@
 - [Makeshift/nginx-retry-proxy](https://github.com/Makeshift/nginx-retry-proxy) - A customisable backup proxy server that helps Nginx retry connections to upstreams.
 - [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
+- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
@@ -750,7 +751,6 @@
 - [pekare/hetzner-proxmox-pfsense](https://github.com/pekare/hetzner-proxmox-pfsense) - 
 - [mtoohey31/headscale-config](https://github.com/mtoohey31/headscale-config) - My WIP config for headscale.
 - [keycloak/keycloak-containers](https://github.com/keycloak/keycloak-containers) - ARCHIVED Containers for the no longer supported WildFly distribution of Keycloak
-- [revoltchat/self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 - [alphacodinghub/homelab-traefikv2](https://github.com/alphacodinghub/homelab-traefikv2) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2, and LetsEncrypt
 - [hl2guide/Filterlist-for-AdGuard-or-PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole) - A very aggressive filter-list that consolidates over 370 lists for use in AdGuard Home, Pi-Hole or similar.
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
