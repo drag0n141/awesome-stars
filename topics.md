@@ -1126,6 +1126,7 @@
 
 ## home-assistant 
 
+- [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
 - [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card) - This lovelace card for Home Assistant displays the Octopus Energy rate prices per each 30 minute slot
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
@@ -1687,6 +1688,7 @@
 
 ## others 
 
+- [asdcorp/hwreqchk](https://github.com/asdcorp/hwreqchk) - Professional hardware requirements bypass for Windows 11 24H2
 - [ianis58/WindowsIsoDownloader](https://github.com/ianis58/WindowsIsoDownloader) - Tool to programatically download Windows 11 ISO from Microsoft servers
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
 - [kennymc-c/ucr2-integration-requests](https://github.com/kennymc-c/ucr2-integration-requests) - Integration for Unfolded Circle Remote Devices to send HTTP requests and Wake on LAN magic packets
