@@ -237,7 +237,7 @@
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -520,7 +520,7 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -609,7 +609,7 @@
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [theneedyguy/streamslurp](https://github.com/theneedyguy/streamslurp) - A docker container for auto-downloading twitch vods.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
@@ -1469,7 +1469,7 @@
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
 - [hl2guide/AdGuard-Home-Whitelist](https://github.com/hl2guide/AdGuard-Home-Whitelist) - A strict curated whitelist for AdGuard Home.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python w/ Flask
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [BrenekH/smartreboot](https://github.com/BrenekH/smartreboot) - Reboot a machine without interrupting ongoing work.
@@ -2330,7 +2330,7 @@
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python w/ Flask
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
@@ -2349,7 +2349,7 @@
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [theneedyguy/streamslurp](https://github.com/theneedyguy/streamslurp) - A docker container for auto-downloading twitch vods.
 - [weimingqing/Email2Gotify](https://github.com/weimingqing/Email2Gotify) - The script to push messages to a Gotify Server from email.
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python w/ Flask
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [m0rtem/CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 
@@ -2648,6 +2648,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## support 
@@ -2718,7 +2719,7 @@
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [oscaromeu/home-ops](https://github.com/oscaromeu/home-ops) - A mono repository for my homelab infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 
@@ -2776,7 +2777,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
-- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python w/ Flask
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 
