@@ -148,7 +148,7 @@
 - [kwsch/PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 - [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - The best cross-platform Plex media downloader there is! In active development and feedback is very welcome!
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
