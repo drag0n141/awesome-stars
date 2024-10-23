@@ -1343,7 +1343,7 @@
 - [blackjid/home-ops](https://github.com/blackjid/home-ops) - Homelab GitOps repository. Cluster definition state via code.
 - [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
-- [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - talos cluster using gitops (flux) and renovate automation
+- [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - talos cluster using gitops and renovate automation
 - [bugfest/tor-controller](https://github.com/bugfest/tor-controller) - Tor toolkit for Kubernetes (Tor instances, onion services and more)
 - [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - Postgres operator for Kubernetes
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
