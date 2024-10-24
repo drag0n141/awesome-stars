@@ -484,7 +484,7 @@
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
-- [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - talos cluster using gitops and renovate automation
+- [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - Talos cluster using gitops and renovate automation
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
@@ -652,6 +652,7 @@
 
 - [fischerscode/my-k3s](https://github.com/fischerscode/my-k3s) - The configuration and automatation of a k3s cluster.
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with Talos and managed by flux (gitops).
 - [FrankelJb/home-ops](https://github.com/FrankelJb/home-ops) - Contains the manifests to deploy my self-hosted kubernetes cluster
 - [nklmilojevic/home](https://github.com/nklmilojevic/home) - 
 - [allenporter/k8s-gitops](https://github.com/allenporter/k8s-gitops) - Flux/Gitops managed k8s cluster
@@ -1107,7 +1108,6 @@
 - [17Halbe/z-push](https://github.com/17Halbe/z-push) - z-push docker image designed to work with tvial/docker-mailserver
 - [shenxn/protonmail-bridge-docker](https://github.com/shenxn/protonmail-bridge-docker) - ProtonMail IMAP/SMTP Bridge Docker container
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
-- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - 🖳 In-house kubernetes cluster built with Talos and managed by flux (gitops).
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
