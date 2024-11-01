@@ -16,6 +16,7 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [G-code](#g-code)
@@ -114,6 +115,7 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
+- [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [jakeswenson/BitBetter](https://github.com/jakeswenson/BitBetter) - Modify bit warden to provide my own licensing for self hosting
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
@@ -257,6 +259,10 @@
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 - [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
 - [patsissons/docker-plex-sync](https://github.com/patsissons/docker-plex-sync) - 
+
+## EJS 
+
+- [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
 
 ## Elixir 
 
@@ -499,7 +505,6 @@
 ## HTML 
 
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
-- [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
@@ -1153,7 +1158,7 @@
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and nginx
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
-- [etherai/selfhosted-gateway](https://github.com/etherai/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
+- [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [CasCas2/proxmox-hetzner](https://github.com/CasCas2/proxmox-hetzner) - proxmox post installation scripts
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -1259,6 +1264,7 @@
 
 ## TypeScript 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
