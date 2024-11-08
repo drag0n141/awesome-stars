@@ -844,7 +844,7 @@
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 
 ## Python 
 
@@ -1033,6 +1033,7 @@
 
 ## Rust 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
 - [mbuesch/letmein](https://github.com/mbuesch/letmein) - Authenticating port knocker - Written in Rust
@@ -1265,6 +1266,7 @@
 
 ## TypeScript 
 
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - The only _real_ 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
@@ -1358,7 +1360,7 @@
 
 ## Vue 
 
-- [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - "WireGate: Secure Intranet Deployment with WireGuard, Docker, and Enhanced Network Controls"
+- [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - 🥷🏼  WireGuard VPN Server with WGDashboard for UI + TOR + DnsCrypt + AmneziaWG
 - [Mawthuq-Software/Wireguard-Manager-GUI](https://github.com/Mawthuq-Software/Wireguard-Manager-GUI) - The front-end GUI for the wireguard manager and API.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
