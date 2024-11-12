@@ -281,6 +281,7 @@
 
 ## Go 
 
+- [ozencb/couchtube](https://github.com/ozencb/couchtube) - 📺 A self-hosted, YouTube based application that recreates the feel of a TV channel. CouchTube schedules YouTube video playback dynamically from user-defined channel lists. Customize, share, and submit
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files
