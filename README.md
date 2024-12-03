@@ -494,7 +494,7 @@
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab uwu
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
-- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
+- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - Talos cluster using gitops and renovate automation
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
