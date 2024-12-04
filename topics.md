@@ -2703,7 +2703,7 @@
 
 ## telegram 
 
-- [notificohq/notifico](https://github.com/notificohq/notifico) - Advanced omni-channel notification server
+- [notificohq/notifico](https://github.com/notificohq/notifico) - Self-hosted open source notification server
 - [NiNiyas/Bettarr-Notifications](https://github.com/NiNiyas/Bettarr-Notifications) - Better Notifications for Sonarr, Radarr and Prowlarr. Supports Discord, Telegram, Slack, Pushover and ntfy.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
