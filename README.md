@@ -23,7 +23,6 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -85,7 +84,6 @@
 - [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 - [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
-- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS
 - [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) - The first open-source DDoS protection system
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser
@@ -161,6 +159,7 @@
 
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [CopterTec/Marlin-Sovol_SV01](https://github.com/CopterTec/Marlin-Sovol_SV01) - Marlin 3D Printer Firmware for Sovol SV01
+- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -282,6 +281,8 @@
 
 ## Go 
 
+- [Tensai75/nzb-monkey-go](https://github.com/Tensai75/nzb-monkey-go) - NZB Monkey Go - Golang version of the NZB Monkey with included NZB direct search
+- [EasyMile/postgresql-operator](https://github.com/EasyMile/postgresql-operator) - PostgreSQL Operator to create Databases and Users across multiple engines
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [l7mp/stunner-gateway-operator](https://github.com/l7mp/stunner-gateway-operator) - STUNner Kubernetes Gateway Operator
 - [jsiebens/ionscale](https://github.com/jsiebens/ionscale) - A lightweight implementation of a Tailscale control server
@@ -510,6 +511,7 @@
 
 ## HTML 
 
+- [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -526,12 +528,9 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 
-## Haskell 
-
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [Aelysium-Group/rusty-connector](https://github.com/Aelysium-Group/rusty-connector) - A player and server connection manager for Velocity based Minecraft Networks!
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -694,6 +693,7 @@
 - [crackededed/Xtra](https://github.com/crackededed/Xtra) - Xtra is a Twitch player and browser for Android.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 
 ## Lua 
@@ -856,10 +856,10 @@
 
 ## Python 
 
+- [allenporter/home-assistant-openid-auth-provider](https://github.com/allenporter/home-assistant-openid-auth-provider) - A Home Assistant Authentication Provider that can use Open ID
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
-- [Heavybullets8/heavy-ops](https://github.com/Heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [kennymc-c/ucr2-integration-requests](https://github.com/kennymc-c/ucr2-integration-requests) - Integration for Unfolded Circle Remote Devices to send HTTP requests and Wake on LAN magic packets
 - [waveform80/tvrip](https://github.com/waveform80/tvrip) - A HandBrake wrapper which eases conversion of TV series
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Switch library manager, with a self-hosted Tinfoil Shop.
@@ -1096,6 +1096,7 @@
 
 - [frantathefranta/home-ops](https://github.com/frantathefranta/home-ops) - My home-ops repo
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- [Heavybullets8/heavy-ops](https://github.com/Heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
@@ -1311,7 +1312,7 @@
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
