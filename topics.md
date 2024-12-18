@@ -350,6 +350,7 @@
 
 ## bash 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [WhiskeyTang0F0xtr0t/unifi](https://github.com/WhiskeyTang0F0xtr0t/unifi) - Random stuff for unifi devices.
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -492,6 +493,7 @@
 
 ## database 
 
+- [EasyMile/postgresql-operator](https://github.com/EasyMile/postgresql-operator) - PostgreSQL Operator to create Databases and Users across multiple engines
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
@@ -565,6 +567,7 @@
 
 ## docker 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -1049,7 +1052,7 @@
 - [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - Postgres operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
@@ -1144,6 +1147,7 @@
 
 ## home-assistant 
 
+- [allenporter/home-assistant-openid-auth-provider](https://github.com/allenporter/home-assistant-openid-auth-provider) - A Home Assistant Authentication Provider that can use Open ID
 - [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
 - [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card) - This lovelace card for Home Assistant displays the Octopus Energy rate prices per each 30 minute slot
@@ -1235,6 +1239,7 @@
 
 ## java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
@@ -1245,6 +1250,7 @@
 
 ## javafx 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Third party/community managed controller software for the PCPanel (getpcpanel.com) devices.
 
 ## javascript 
@@ -1308,6 +1314,7 @@
 
 ## kubernetes 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [l7mp/stunner-gateway-operator](https://github.com/l7mp/stunner-gateway-operator) - STUNner Kubernetes Gateway Operator
 - [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [elcattivo66/home-ops](https://github.com/elcattivo66/home-ops) - My home-ops repo
@@ -1412,7 +1419,7 @@
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [truxnell/home-cluster](https://github.com/truxnell/home-cluster) - My home server cluster, managed by flux and defined as code here
 - [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved geeked homelab k8s cluster deployed with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -1660,7 +1667,7 @@
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [getwud/wud](https://github.com/getwud/wud) - WUD (aka What's up Docker?) gets you notified when a new version of your Docker Container is available.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -1719,6 +1726,8 @@
 
 ## others 
 
+- [Tensai75/nzb-monkey-go](https://github.com/Tensai75/nzb-monkey-go) - NZB Monkey Go - Golang version of the NZB Monkey with included NZB direct search
+- [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [frantathefranta/home-ops](https://github.com/frantathefranta/home-ops) - My home-ops repo
@@ -1731,7 +1740,7 @@
 - [asdcorp/hwreqchk](https://github.com/asdcorp/hwreqchk) - Professional hardware requirements bypass for Windows 11 24H2
 - [ianis58/WindowsIsoDownloader](https://github.com/ianis58/WindowsIsoDownloader) - Tool to programatically download Windows 11 ISO from Microsoft servers
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
-- [kennymc-c/ucr2-integration-requests](https://github.com/kennymc-c/ucr2-integration-requests) - Integration for Unfolded Circle Remote Devices to send HTTP requests and Wake on LAN magic packets
+- [kennymc-c/ucr2-integration-requests](https://github.com/kennymc-c/ucr2-integration-requests) - A network multi tool integration for Unfolded Circle remote devices
 - [waveform80/tvrip](https://github.com/waveform80/tvrip) - A HandBrake wrapper which eases conversion of TV series
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [Yubico/yubico-piv-tool](https://github.com/Yubico/yubico-piv-tool) - Command line tool for the YubiKey PIV application
@@ -1833,7 +1842,7 @@
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [BMDan/tuning-primer.sh](https://github.com/BMDan/tuning-primer.sh) - MySQL Tuning-Primer.sh, updated and improved
 - [blawar/titledb_02112024](https://github.com/blawar/titledb_02112024) - 
-- [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. The best GUI utility to download/record Broadcasts/VODs/Clips.
+- [devhotteok/TwitchLink](https://github.com/devhotteok/TwitchLink) - Twitch Stream & Video & Clip Downloader/Recorder. This GUI tool helps you download and record Twitch streams, videos, and clips, including broadcasts and VODs.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [jangxx/twitch-auto-recorder-3000](https://github.com/jangxx/twitch-auto-recorder-3000) - Automatically downloads streams from twitch as streamers go live
@@ -2252,6 +2261,7 @@
 
 ## postgresql 
 
+- [EasyMile/postgresql-operator](https://github.com/EasyMile/postgresql-operator) - PostgreSQL Operator to create Databases and Users across multiple engines
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
@@ -2562,7 +2572,7 @@
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
