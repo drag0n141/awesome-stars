@@ -1042,6 +1042,7 @@
 
 ## Rust 
 
+- [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [notificohq/notifico](https://github.com/notificohq/notifico) - Self-hosted open source notification server
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
