@@ -114,7 +114,6 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
-- [SenexCrenshaw/StreamMaster](https://github.com/SenexCrenshaw/StreamMaster) - 
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [jakeswenson/BitBetter](https://github.com/jakeswenson/BitBetter) - Modify bit warden to provide my own licensing for self hosting
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
@@ -532,6 +531,7 @@
 
 ## Java 
 
+- [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [Aelysium-Group/rusty-connector](https://github.com/Aelysium-Group/rusty-connector) - A player and server connection manager for Velocity based Minecraft Networks!
@@ -838,6 +838,7 @@
 
 ## PowerShell 
 
+- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [microsoftarchive/New-KrbtgtKeys.ps1](https://github.com/microsoftarchive/New-KrbtgtKeys.ps1) - This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
@@ -1103,6 +1104,7 @@
 
 ## Shell 
 
+- [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
 - [rodent1/home-ops](https://github.com/rodent1/home-ops) - 
 - [frantathefranta/home-ops](https://github.com/frantathefranta/home-ops) - My home-ops repo
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
