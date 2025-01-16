@@ -279,6 +279,7 @@
 
 ## Go 
 
+- [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [pelotech/nidhogg](https://github.com/pelotech/nidhogg) - Kubernetes Node taints based on Daemonset Pods
 - [teocns/kubectl-finalize](https://github.com/teocns/kubectl-finalize) - Finalize Kubernetes resources that are stuck in a Terminating state
