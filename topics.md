@@ -1757,6 +1757,7 @@
 
 ## others 
 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [prabirshrestha/docker-stack-deploy](https://github.com/prabirshrestha/docker-stack-deploy) - GitOps automation for plain old docker compose stack deploy
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [davralin/cluster-ops](https://github.com/davralin/cluster-ops) - Repo for managing kubernetes-clusters
