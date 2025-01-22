@@ -278,6 +278,7 @@
 
 ## Go 
 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
