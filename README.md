@@ -705,7 +705,7 @@
 
 ## Lua 
 
-- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Watch your step, this playground might be hazardous 'round here… | JJGadgets' HomeLab monorepo
+- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Glorifying jank that works | JJGadgets' HomeLab monorepo
 - [ign-gg/Pterodactyl-Eggs](https://github.com/ign-gg/Pterodactyl-Eggs) - Service eggs for the pterodactyl panel
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
@@ -871,6 +871,7 @@
 
 ## Python 
 
+- [Xoconoch/zotifarrr](https://github.com/Xoconoch/zotifarrr) - 
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) - The free software for converting files!
 - [joaovitoriasilva/endurain](https://github.com/joaovitoriasilva/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
