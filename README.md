@@ -871,6 +871,7 @@
 
 ## Python 
 
+- [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [Xoconoch/zotifarrr](https://github.com/Xoconoch/zotifarrr) - 
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
 - [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) - The free software for converting files!
@@ -1122,6 +1123,7 @@
 
 ## Shell 
 
+- [bakerboy448/StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc Scripts for Starr related Apps
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
 - [rodent1/home-ops](https://github.com/rodent1/home-ops) - 
