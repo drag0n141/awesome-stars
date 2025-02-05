@@ -428,6 +428,7 @@
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [lightglitch/seekerr](https://github.com/lightglitch/seekerr) - Tool to add new movies to Radarr based on RSS, IMDB and Trakt lists filtering by ratings.
+- [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) - Zero trust system
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
@@ -707,6 +708,7 @@
 
 ## Lua 
 
+- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Glorifying jank that works | JJGadgets' HomeLab monorepo
 - [ign-gg/Pterodactyl-Eggs](https://github.com/ign-gg/Pterodactyl-Eggs) - Service eggs for the pterodactyl panel
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
@@ -901,7 +903,6 @@
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Find and download missing Lidarr albums via yt-dlp.
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
-- [JJGadgets/Biohazard](https://github.com/JJGadgets/Biohazard) - Glorifying jank that works | JJGadgets' HomeLab monorepo
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [shenxn/ha-dyson](https://github.com/shenxn/ha-dyson) - HomeAssitant custom integration for dyson
@@ -1342,7 +1343,7 @@
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
-- [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server API.
+- [Ipmake/Nevu](https://github.com/Ipmake/Nevu) - PerPlexed is a complete redesign of Plex's UI using the plex media server API.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
@@ -1386,7 +1387,6 @@
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) - Zero trust system
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint) - An open source issue management & help desk solution. A zendesk & jira alternative
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
