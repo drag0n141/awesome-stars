@@ -568,6 +568,7 @@
 
 ## JavaScript 
 
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
@@ -588,6 +589,7 @@
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved geeked homelab k8s cluster deployed with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [KaiStarkk/wumps](https://github.com/KaiStarkk/wumps) - 
@@ -803,6 +805,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A simple, fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 5, initially inspired by Baïkal.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
@@ -1447,7 +1450,6 @@
 - [martinohmann/home-ops](https://github.com/martinohmann/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) - K3s cluster driven by Flux
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
-- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved geeked homelab k8s cluster deployed with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
 
 
 ## License
