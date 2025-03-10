@@ -1535,7 +1535,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE 7
-- [ariadata/proxmox-hetzner](https://github.com/ariadata/proxmox-hetzner) - Install Proxmox-VE 7.4 on Hetzner dedicated-server without KVM console
+- [ariadata/proxmox-hetzner](https://github.com/ariadata/proxmox-hetzner) - Install Proxmox-VE on Hetzner dedicated-server without KVM console
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
