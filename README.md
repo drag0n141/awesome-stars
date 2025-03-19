@@ -24,7 +24,6 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [JSON](#json)
-- [JSON5](#json5)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -544,10 +543,6 @@
 ## JSON 
 
 - [jfroy/flatops](https://github.com/jfroy/flatops) - k8s cluster for leflat managed by Flux
-
-## JSON5 
-
-- [home-operations/charts-mirror](https://github.com/home-operations/charts-mirror) - A temporary "mirror" of Helm Charts published to OCI
 
 ## Java 
 
@@ -1457,6 +1452,7 @@
 
 ## YAML 
 
+- [home-operations/charts-mirror](https://github.com/home-operations/charts-mirror) - A temporary "mirror" of Helm Charts published to OCI
 - [rodent1/home-ops](https://github.com/rodent1/home-ops) - 
 - [frantathefranta/home-ops](https://github.com/frantathefranta/home-ops) - My home-ops repo
 - [martinohmann/home-ops](https://github.com/martinohmann/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
