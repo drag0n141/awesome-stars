@@ -585,7 +585,7 @@
 - [kalkih/simple-weather-card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
-- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
+- [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
@@ -1466,7 +1466,7 @@
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
-- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved geeked homelab k8s cluster deployed with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved geeked homelab k8s cluster deployed with Talos Linux; automated via Flux, Renovate, and GitHub Actions 🤖
 
 
 ## License
