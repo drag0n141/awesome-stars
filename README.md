@@ -102,7 +102,7 @@
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
@@ -229,6 +229,7 @@
 
 ## Dockerfile 
 
+- [home-operations/containers](https://github.com/home-operations/containers) - Our collection of container images
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
 - [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
