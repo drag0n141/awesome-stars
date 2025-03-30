@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [borntohonk/sys-patch](https://github.com/borntohonk/sys-patch) - A script-like system module that patches fs, es, ldr, nim and nifm on boot
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [CopterTec/Marlin-Sovol_SV01](https://github.com/CopterTec/Marlin-Sovol_SV01) - Marlin 3D Printer Firmware for Sovol SV01
@@ -284,6 +285,7 @@
 
 ## Go 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
@@ -1324,6 +1326,7 @@
 
 ## TypeScript 
 
+- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A free and open source music player for Jellyfin powered by React Native
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Raphlette/obsidian-new-tab-plus](https://github.com/Raphlette/obsidian-new-tab-plus) - Allow to open markdown files, graph and canvas in new tab as the default behavior.
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript and SvelteKit.
