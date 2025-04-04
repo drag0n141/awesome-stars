@@ -1139,6 +1139,7 @@
 
 ## Shell 
 
+- [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - Assists Radarr to check for missing Movies
 - [tajinder400/home-ops](https://github.com/tajinder400/home-ops) - 
 - [PhilippMundhenk/BrotherScannerDocker](https://github.com/PhilippMundhenk/BrotherScannerDocker) - Dockerized Brother Scanner driver
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let's Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares
