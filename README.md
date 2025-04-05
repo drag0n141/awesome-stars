@@ -744,6 +744,7 @@
 
 ## Others 
 
+- [gravelfreeman/royalts-catppuccin](https://github.com/gravelfreeman/royalts-catppuccin) - 🖥️ Soothing pastel theme for Royal TS
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 - [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
@@ -887,6 +888,7 @@
 
 ## Python 
 
+- [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - Assists Radarr to check for missing Movies
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [Xoconoch/zotifarrr](https://github.com/Xoconoch/zotifarrr) - 
@@ -1139,7 +1141,6 @@
 
 ## Shell 
 
-- [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - Assists Radarr to check for missing Movies
 - [tajinder400/home-ops](https://github.com/tajinder400/home-ops) - 
 - [PhilippMundhenk/BrotherScannerDocker](https://github.com/PhilippMundhenk/BrotherScannerDocker) - Dockerized Brother Scanner driver
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let's Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares
