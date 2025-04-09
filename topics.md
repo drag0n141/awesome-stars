@@ -985,6 +985,7 @@
 
 ## golang 
 
+- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
@@ -1359,6 +1360,7 @@
 
 ## kubernetes 
 
+- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [jfroy/tnu](https://github.com/jfroy/tnu) - Talos Node Updater is a small Go program that updates a Talos (https://www.talos.dev/) node.
@@ -2517,7 +2519,7 @@
 
 ## react 
 
-- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A free and open source music player for Jellyfin powered by React Native
+- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
@@ -2541,7 +2543,7 @@
 
 ## react-native 
 
-- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A free and open source music player for Jellyfin powered by React Native
+- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -2924,7 +2926,7 @@
 
 ## typescript 
 
-- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A free and open source music player for Jellyfin powered by React Native
+- [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript and SvelteKit.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
