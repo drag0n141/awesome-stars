@@ -890,6 +890,7 @@
 
 ## Python 
 
+- [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Python App which chooses a random movie from your movie library.
 - [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - A specialized utility that automates discovering missing and upgrading your movie collection.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
@@ -1179,7 +1180,6 @@
 - [17Halbe/z-push](https://github.com/17Halbe/z-push) - z-push docker image designed to work with tvial/docker-mailserver
 - [shenxn/protonmail-bridge-docker](https://github.com/shenxn/protonmail-bridge-docker) - ProtonMail IMAP/SMTP Bridge Docker container
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
-- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - Girlfriend unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
@@ -1314,6 +1314,7 @@
 
 ## Svelte 
 
+- [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -1334,7 +1335,6 @@
 - [anultravioletaurora/Jellify](https://github.com/anultravioletaurora/Jellify) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Raphlette/obsidian-new-tab-plus](https://github.com/Raphlette/obsidian-new-tab-plus) - Allow to open markdown files, graph and canvas in new tab as the default behavior.
-- [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
@@ -1399,7 +1399,7 @@
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
@@ -1474,6 +1474,7 @@
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
+- [kashalls/home-cluster](https://github.com/kashalls/home-cluster) - Girlfriend unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
