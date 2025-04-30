@@ -893,6 +893,7 @@
 
 ## Python 
 
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare - CloudFlare Tunnel Controller
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Python App which chooses a random movie from your movie library.
