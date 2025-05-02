@@ -1316,7 +1316,7 @@
 
 - [ClementPhan/komodo](https://github.com/ClementPhan/komodo) - My home server seed
 - [angelnu/helm-charts](https://github.com/angelnu/helm-charts) - A collection of Helm charts
-- [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts) - A collection of Helm charts
+- [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 - [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 
 ## Svelte 
