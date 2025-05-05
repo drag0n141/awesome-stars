@@ -1849,7 +1849,6 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Raphlette/obsidian-new-tab-plus](https://github.com/Raphlette/obsidian-new-tab-plus) - Allow to open markdown files, graph and canvas in new tab as the default behavior.
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
-- [borntohonk/sys-patch](https://github.com/borntohonk/sys-patch) - A script-like system module that patches fs, es, ldr, nim and nifm on boot
 - [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let's Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares
