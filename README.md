@@ -161,7 +161,6 @@
 ## C++ 
 
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
-- [borntohonk/sys-patch](https://github.com/borntohonk/sys-patch) - A script-like system module that patches fs, es, ldr, nim and nifm on boot
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [CopterTec/Marlin-Sovol_SV01](https://github.com/CopterTec/Marlin-Sovol_SV01) - Marlin 3D Printer Firmware for Sovol SV01
 - [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS
