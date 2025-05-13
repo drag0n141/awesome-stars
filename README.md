@@ -547,7 +547,7 @@
 
 ## JSON 
 
-- [jfroy/flatops](https://github.com/jfroy/flatops) - k8s cluster for leflat managed by Flux
+- [jfroy/flatops](https://github.com/jfroy/flatops) - My homelab k8s cluster, powered by Talos Linux and shoe string
 
 ## Java 
 
