@@ -1155,7 +1155,6 @@
 
 ## Shell 
 
-- [tansanrao/nimbus-casa](https://github.com/tansanrao/nimbus-casa) - Yet another homelab repo
 - [BrodyBuster/plex-sab-formula1](https://github.com/BrodyBuster/plex-sab-formula1) - 
 - [tajinder400/home-ops](https://github.com/tajinder400/home-ops) - 
 - [PhilippMundhenk/BrotherScannerDocker](https://github.com/PhilippMundhenk/BrotherScannerDocker) - Dockerized Brother Scanner driver
@@ -1478,6 +1477,7 @@
 
 ## YAML 
 
+- [tansanrao/nimbus-casa](https://github.com/tansanrao/nimbus-casa) - Yet another homelab repo
 - [home-operations/charts-mirror](https://github.com/home-operations/charts-mirror) - A temporary "mirror" of Helm Charts published to OCI
 - [rodent1/home-ops](https://github.com/rodent1/home-ops) - 
 - [frantathefranta/home-ops](https://github.com/frantathefranta/home-ops) - My home-ops repo
