@@ -72,7 +72,6 @@
 
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [shirooo39/Windows-11-Bypass](https://github.com/shirooo39/Windows-11-Bypass) - Bypass Windows 11's system requirements in a simple and easy way.
-- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [bmrf/standalone_scripts](https://github.com/bmrf/standalone_scripts) - Various standalone scripts
 - [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
@@ -883,6 +882,7 @@
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [MysticFoxDE/WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
 - [amidaware/community-scripts](https://github.com/amidaware/community-scripts) - A curated list of powershell, python, and batch scripts for use in TacticalRMM or anywhere!
+- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [MysticRyuujin/PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) - Scan Plex Library for Missing Episodes using TheTVDB
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
@@ -1072,7 +1072,6 @@
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [malaohu/MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
 - [iwalton3/plex-mpv-shim](https://github.com/iwalton3/plex-mpv-shim) - Cast media from Plex Mobile and Web apps to MPV. (Unofficial)
 - [l3uddz/gdsa_maker](https://github.com/l3uddz/gdsa_maker) - Manage Google Drive Service Accounts, Team Drives, Sharing and Groups
@@ -1451,6 +1450,7 @@
 - [BSoDium/Slashboard-desktop](https://github.com/BSoDium/Slashboard-desktop) - A simple and convenient dashboard to monitor the activity and performance of your home servers.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
 ## Vala 
 
