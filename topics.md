@@ -488,7 +488,7 @@
 ## csharp 
 
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
@@ -2101,7 +2101,7 @@
 - [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [jyggen/intro-detection-info](https://github.com/jyggen/intro-detection-info) - CLI tool to show information related to Plex's intro detection feature.
-- [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro and credit markers for your Plex media.
+- [danrahn/MarkerEditorForPlex](https://github.com/danrahn/MarkerEditorForPlex) - View, edit, add, and delete intro, credits, and commercial markers for your Plex media.
 - [FlagBrew/Sharkive](https://github.com/FlagBrew/Sharkive) - Gateshark cheat code database for Luma3DS 9.1+ and Atmosphere 0.8.5+
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
