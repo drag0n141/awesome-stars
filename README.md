@@ -541,7 +541,6 @@
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
-- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [olivomarco/my-ansible-linux-setup](https://github.com/olivomarco/my-ansible-linux-setup) - Simple, perfect setup of a Linux machine via Ansible
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
 - [ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
@@ -821,6 +820,7 @@
 
 ## PHP 
 
+- [lanedirt/OGameX](https://github.com/lanedirt/OGameX) - Open-source OGame redesign clone, powered by the latest PHP Laravel framework
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
@@ -981,6 +981,7 @@
 - [thammi/plex_token](https://github.com/thammi/plex_token) - Plex authentication token request script
 - [atnpgo/Plex-Cinema-Experience-Preroll](https://github.com/atnpgo/Plex-Cinema-Experience-Preroll) - A set of scripts for downloading upcoming trailers from Apple and preparing a Plex pre-roll that replicates most of what the Cinema Experience Kodi plugin used to do.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [lanyrd/mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
@@ -1341,6 +1342,7 @@
 
 ## TypeScript 
 
+- [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
