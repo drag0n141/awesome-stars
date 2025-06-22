@@ -609,6 +609,7 @@
 
 ## docker 
 
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
@@ -1010,6 +1011,7 @@
 
 ## golang 
 
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
@@ -1393,6 +1395,7 @@
 
 ## kubernetes 
 
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [peak-scale/sops-operator](https://github.com/peak-scale/sops-operator) - Create SOPS Secrets on Kubernetes
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
