@@ -902,6 +902,7 @@
 
 ## Python 
 
+- [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [balu100/dolby-vision-for-windows](https://github.com/balu100/dolby-vision-for-windows) - 
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager
@@ -1107,6 +1108,7 @@
 
 ## Rust 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
@@ -1480,7 +1482,7 @@
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+- [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
