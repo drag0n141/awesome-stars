@@ -288,7 +288,7 @@
 
 ## Go 
 
-- [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a live video restreamer for Docker.
+- [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a Docker-native live video restreamer.
 - [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
@@ -308,7 +308,6 @@
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
@@ -919,7 +918,6 @@
 
 ## Python 
 
-- [Edgar-zadia/FrImmich](https://github.com/Edgar-zadia/FrImmich) - Sync named faces from your Immich photo library to Frigate's face recognition system effortlessly. Enhance your CCTV feeds with high-quality, trained faces! 🖼️🔒
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [nitred/nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
@@ -1391,6 +1389,7 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [Raphlette/obsidian-new-tab-plus](https://github.com/Raphlette/obsidian-new-tab-plus) - Allow to open markdown files, graph and canvas in new tab as the default behavior.
 - [dotnetfactory/fluid-calendar](https://github.com/dotnetfactory/fluid-calendar) - 
 - [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
