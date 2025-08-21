@@ -117,7 +117,7 @@
 ## C# # 
 
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Windows Service — Free Alternative to FireDaemon Pro & NSSM
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Windows Service — Open-Source Alternative to NSSM & FireDaemon
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple IMAP accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
