@@ -1296,6 +1296,8 @@
 
 ## home-assistant 
 
+- [p0l0/hagruenbeck_cloud](https://github.com/p0l0/hagruenbeck_cloud) - Home Assistant integration for Grünbeck Cloud based Water softeners
+- [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [allenporter/home-assistant-openid-auth-provider](https://github.com/allenporter/home-assistant-openid-auth-provider) - A Home Assistant Authentication Provider that can use Open ID
 - [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
@@ -1966,6 +1968,10 @@
 
 ## others 
 
+- [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
+- [nickheyer/discopanel](https://github.com/nickheyer/discopanel) - A lightweight modded minecraft server hosting suite and management web app.
+- [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
+- [yungsnuzzy/conjurr](https://github.com/yungsnuzzy/conjurr) - Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next.
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [AlinaNova21/omni-infra-provider-proxmox](https://github.com/AlinaNova21/omni-infra-provider-proxmox) - 
 - [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) - 
@@ -2020,7 +2026,6 @@
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let's Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares
 - [bakerboy448/StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc Scripts for Starr related Apps
-- [spotizerr-dev/spotizerr](https://github.com/spotizerr-dev/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
 - [kmwoley/restic-windows-backup](https://github.com/kmwoley/restic-windows-backup) - Powershell scripts to run Restic backups on Windows
 - [Benzauber/convert-commander](https://github.com/Benzauber/convert-commander) - The free software for converting files!
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr and Radarr
@@ -2656,6 +2661,7 @@
 
 ## python 
 
+- [p0l0/hagruenbeck_cloud](https://github.com/p0l0/hagruenbeck_cloud) - Home Assistant integration for Grünbeck Cloud based Water softeners
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
