@@ -294,6 +294,7 @@
 
 ## Go 
 
+- [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link) - Link-based access control for Immich, NextCloud and Paperless. After verifying a URL "knock" on a share link, Sneak Link issues a cookie that grants access to a protected service. No IP whitelisting r
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
 - [AlinaNova21/omni-infra-provider-proxmox](https://github.com/AlinaNova21/omni-infra-provider-proxmox) - 
@@ -1413,6 +1414,7 @@
 
 ## TypeScript 
 
+- [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
