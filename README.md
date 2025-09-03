@@ -1225,7 +1225,7 @@
 
 - [EDDY7688/openvpn-over-icmp](https://github.com/EDDY7688/openvpn-over-icmp) - Deploy an OpenVPN server with TinyProxy and PingTunnel using Docker to bypass network restrictions. Easy setup for TCP/UDP connections. 🐙🚀
 - [tracerrx/unifi-doorbell](https://github.com/tracerrx/unifi-doorbell) - Unifi Doorbell Sprites
-- [BrodyBuster/plex-sab-formula1](https://github.com/BrodyBuster/plex-sab-formula1) - 
+- [brodybuster/plex-sab-formula1](https://github.com/brodybuster/plex-sab-formula1) - 
 - [phycoforce/home-ops](https://github.com/phycoforce/home-ops) - 
 - [PhilippMundhenk/BrotherScannerDocker](https://github.com/PhilippMundhenk/BrotherScannerDocker) - Dockerized Brother Scanner driver
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let's Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares
