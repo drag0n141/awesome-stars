@@ -560,6 +560,7 @@
 
 ## HTML 
 
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for Plex Servers. Reach your users with Tautulli information and recommendations from conjurr
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
@@ -616,6 +617,7 @@
 
 ## JavaScript 
 
+- [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card) - 📺 A card to display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt.
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -940,6 +942,7 @@
 
 ## Python 
 
+- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [p0l0/hagruenbeck_cloud](https://github.com/p0l0/hagruenbeck_cloud) - Home Assistant integration for Grünbeck Cloud based Water softeners
 - [yungsnuzzy/conjurr](https://github.com/yungsnuzzy/conjurr) - Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next.
@@ -1414,6 +1417,7 @@
 
 ## TypeScript 
 
+- [nielsfaber/alarmo-card](https://github.com/nielsfaber/alarmo-card) - Home Assistant card for controlling the Alarmo component
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
