@@ -73,6 +73,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -312,6 +313,8 @@
 
 ## automation 
 
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
+- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-contained GitOps environment for deterministic, recursively bootstrapped container automation on Proxmox VE.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-power
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -664,6 +667,8 @@
 
 ## docker 
 
+- [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a Docker-native live video restreamer.
@@ -945,6 +950,7 @@
 
 ## flask 
 
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool for IMAP/POP3 accounts (early development)
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
@@ -997,6 +1003,10 @@
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 - [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 
+## gaming 
+
+- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
+
 ## git 
 
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1004,7 +1014,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -1194,7 +1204,6 @@
 - [KartoffelToby/better_thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling TRV (Thermostatic Radiator Valves) to save you the work of creating automations to make it smart. It comb
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
@@ -1296,6 +1305,11 @@
 
 ## home-assistant 
 
+- [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
+- [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card) - 📺 A card to display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt.
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
+- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
+- [nielsfaber/alarmo-card](https://github.com/nielsfaber/alarmo-card) - Home Assistant card for controlling the Alarmo component
 - [p0l0/hagruenbeck_cloud](https://github.com/p0l0/hagruenbeck_cloud) - Home Assistant integration for Grünbeck Cloud based Water softeners
 - [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [allenporter/home-assistant-openid-auth-provider](https://github.com/allenporter/home-assistant-openid-auth-provider) - A Home Assistant Authentication Provider that can use Open ID
@@ -1389,6 +1403,7 @@
 
 ## iot 
 
+- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
@@ -1968,6 +1983,9 @@
 
 ## others 
 
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery.
+- [pucodev/ulauncher-homepage](https://github.com/pucodev/ulauncher-homepage) - Unofficial Ulauncher Homepage extension
+- [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
 - [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link) - Link-based access control for Immich, NextCloud and Paperless. After verifying a URL "knock" on a share link, Sneak Link issues a cookie that grants access to a protected service. No IP whitelisting r
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Home/Collection manager for Plex
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
@@ -2014,7 +2032,6 @@
 - [gravelfreeman/royalts-catppuccin](https://github.com/gravelfreeman/royalts-catppuccin) - 🖥️ Soothing pastel theme for Royal TS
 - [plexguide/Huntarr-Radarr](https://github.com/plexguide/Huntarr-Radarr) - A specialized utility that automates discovering missing and upgrading your movie collection.
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
-- [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [phycoforce/home-ops](https://github.com/phycoforce/home-ops) - 
 - [home-operations/charts-mirror](https://github.com/home-operations/charts-mirror) - A temporary "mirror" of Helm Charts published to OCI
 - [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
@@ -2663,6 +2680,7 @@
 
 ## python 
 
+- [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
 - [p0l0/hagruenbeck_cloud](https://github.com/p0l0/hagruenbeck_cloud) - Home Assistant integration for Grünbeck Cloud based Water softeners
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
@@ -2838,6 +2856,7 @@
 
 ## security 
 
+- [nielsfaber/alarmo-card](https://github.com/nielsfaber/alarmo-card) - Home Assistant card for controlling the Alarmo component
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [SubleXBle/Fail2Ban-Report](https://github.com/SubleXBle/Fail2Ban-Report) - Web-based dashboard for Fail2Ban log filtering and blocklist control
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -2914,6 +2933,7 @@
 
 ## self-hosted 
 
+- [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
