@@ -30,6 +30,7 @@
 - [Jinja](#jinja)
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -118,7 +119,7 @@
 
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW & FireDaemon
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Modern Open-Source Alternative to NSSM, WinSW, AlwaysUp & FireDaemon
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
@@ -138,7 +139,7 @@
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
+- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
@@ -526,7 +527,7 @@
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [fionera/TeamDriveManager](https://github.com/fionera/TeamDriveManager) - Rewrite of the PHP version. Harder, Better, Faster, Stronger
 - [l3uddz/mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite
@@ -644,7 +645,6 @@
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
-- [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool for IMAP/POP3 accounts (early development)
@@ -756,6 +756,10 @@
 
 - [CoreyMSchafer/code_snippets](https://github.com/CoreyMSchafer/code_snippets) - 
 - [88lex/safire](https://github.com/88lex/safire) - 
+
+## Just 
+
+- [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 
 ## Kotlin 
 
