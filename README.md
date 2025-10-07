@@ -763,7 +763,6 @@
 
 ## Just 
 
-- [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster...  and more! :sailboat:
 
 ## Kotlin 
@@ -1446,7 +1445,7 @@
 - [jcwillox/lovelace-canary](https://github.com/jcwillox/lovelace-canary) - 🐤 Adds many useful extensions to lovelace, such as templating secondary info, stacking within a card and more!
 - [kinghat/tabbed-card](https://github.com/kinghat/tabbed-card) - a custom card for home assistant that utilizes tabs to segregate individual cards.
 - [r-renato/ha-card-weather-conditions](https://github.com/r-renato/ha-card-weather-conditions) - Weather condition card (Lovelace) for Home Assistant.
-- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [nielsfaber/alarmo-card](https://github.com/nielsfaber/alarmo-card) - Home Assistant card for controlling the Alarmo component
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1592,6 +1591,7 @@
 - [rodent1/home-ops](https://github.com/rodent1/home-ops) - 
 - [frantathefranta/home-ops](https://github.com/frantathefranta/home-ops) - My home-ops repo
 - [martinohmann/home-ops](https://github.com/martinohmann/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
+- [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) - K3s cluster driven by Flux
 - [smbonn2005/HomeOps](https://github.com/smbonn2005/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [drag0n141/home-ops](https://github.com/drag0n141/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
