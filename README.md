@@ -1410,7 +1410,7 @@
 - [willfarrell/docker-crontab](https://github.com/willfarrell/docker-crontab) - A docker job scheduler (aka. crontab for docker)
 - [drvy/ufw-cloudflare](https://github.com/drvy/ufw-cloudflare) - Automatically whitelist Cloudflare IPs with UFW and get an easier way to delete old rules
 - [clockworksoul/docker-gc-cron](https://github.com/clockworksoul/docker-gc-cron) - A Docker image that allows scheduled cleanup of unused Docker images, containers, and volumes.
-- [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
 - [laster13/patxav](https://github.com/laster13/patxav) - 
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 
