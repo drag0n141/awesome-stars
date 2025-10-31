@@ -369,7 +369,7 @@
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
 - [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) - Collection of Intel device plugins for Kubernetes
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
-- [kubernetes-sigs/kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies) - Kubernetes network policies
+- [kubernetes-sigs/kube-network-policies](https://github.com/kubernetes-sigs/kube-network-policies) - Kubernetes network policies reference implementation
 - [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - Mount Kubernetes PVs locally using SSHFS
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator) - Simple and opinionated OpenID Connect server designed for self-hosters
@@ -1172,7 +1172,7 @@
 ## Ruby 
 
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
-- [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-Contained Meta-Framework for Recursive Linux Container Automation as Composite IaC Monorepository.
+- [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-contained Meta-Framework for recursive Linux Container Automation as composite IaC monorepository.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
