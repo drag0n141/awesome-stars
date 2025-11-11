@@ -1235,7 +1235,6 @@
 - [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Timeline (Google Location History)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
