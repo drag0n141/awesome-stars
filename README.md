@@ -110,7 +110,6 @@
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-- [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 - [suchmememanyskill/TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer) - A payload-based file manager for your switch!
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [aborche/qemu-guest-agent](https://github.com/aborche/qemu-guest-agent) - QEMU Guest Agent patched for FreeBSD
@@ -204,6 +203,7 @@
 - [Moehammered/switch-remote-play](https://github.com/Moehammered/switch-remote-play) - Let the switch remotely play PC games (similar to steam link or remote play)
 - [D3fau4/NightFall](https://github.com/D3fau4/NightFall) - A (online) System Updater for Nintendo Switch made with borealis
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
+- [ThirteenAG/WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [eliboa/NxNandManager](https://github.com/eliboa/NxNandManager) - Nintendo Switch NAND management tool : explore, backup, restore, mount, resize,  create emunand, etc. (Windows)
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -211,6 +211,7 @@
 ## CSS 
 
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
 - [JefeDavis/k8s-HomeOps](https://github.com/JefeDavis/k8s-HomeOps) - 
 - [PragadeshBS/ProtonSwitch](https://github.com/PragadeshBS/ProtonSwitch) - Easily switch between multiple ProtonMail accounts with this Firefox Extension
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1296,7 +1297,6 @@
 - [mglants/gitops](https://github.com/mglants/gitops) - 
 - [17Halbe/z-push](https://github.com/17Halbe/z-push) - z-push docker image designed to work with tvial/docker-mailserver
 - [shenxn/protonmail-bridge-docker](https://github.com/shenxn/protonmail-bridge-docker) - ProtonMail IMAP/SMTP Bridge Docker container
-- [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
