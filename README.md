@@ -561,7 +561,6 @@
 - [Jdavid77/home-cluster](https://github.com/Jdavid77/home-cluster) - Home-Ops using Talos, Flux and Renovate
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab
-- [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
 - [larivierec/home-cluster](https://github.com/larivierec/home-cluster) - Talos cluster using gitops and renovate automation
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
@@ -638,7 +637,6 @@
 - [custom-cards/upcoming-media-card](https://github.com/custom-cards/upcoming-media-card) - 📺 A card to display upcoming episodes and movies from services like: Plex, Kodi, Radarr, Sonarr, and Trakt.
 - [derekantrican/subarr](https://github.com/derekantrican/subarr) - "Sonarr for YouTube" - a tool to periodically check various YouTube playlists and take actions when new videos are posted
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again!
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
@@ -771,6 +769,7 @@
 
 ## Kotlin 
 
+- [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) - 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
@@ -969,6 +968,7 @@
 
 ## Python 
 
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
 - [JourneyDocker/Plex-Auto-Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
@@ -1023,6 +1023,7 @@
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube) - Find and download missing Lidarr albums via yt-dlp.
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
+- [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
 - [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [shenxn/ha-dyson](https://github.com/shenxn/ha-dyson) - HomeAssitant custom integration for dyson
@@ -1432,6 +1433,7 @@
 
 - [nickheyer/discopanel](https://github.com/nickheyer/discopanel) - A lightweight modded minecraft server hosting suite and management web app.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
