@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
@@ -212,6 +213,10 @@
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
 
 ## ai 
 
@@ -2085,8 +2090,10 @@
 
 ## others 
 
+- [siderolabs/booter](https://github.com/siderolabs/booter) - A tool to easily boot Talos machines using PXE
+- [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
 - [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  mdblist, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
 - [therobbiedavis/Listenarr](https://github.com/therobbiedavis/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
@@ -2482,7 +2489,6 @@
 - [JoveToo/Marlin-Sovol](https://github.com/JoveToo/Marlin-Sovol) - Marlin builds for Sovol Printers, SV01 and SV03.
 - [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images
 - [RestyaPlatform/board](https://github.com/RestyaPlatform/board) - Trello like kanban board. Based on Restya platform.
-- [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
 - [NickGuyver/plex-recommender](https://github.com/NickGuyver/plex-recommender) - Get movie recommendations based on your current PleX library.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 - [roundcube/roundcubemail-docker](https://github.com/roundcube/roundcubemail-docker) - Resources to build Docker images for Roundcube Webmail
