@@ -282,7 +282,7 @@
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
-- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Girlfriend unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
+- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [digitalis-io/k3s-on-prem-production](https://github.com/digitalis-io/k3s-on-prem-production) - Playbooks needed to set up an on-premises K3s cluster and securize it
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
@@ -1421,7 +1421,7 @@
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Girlfriend unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
+- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
@@ -1679,7 +1679,7 @@
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
-- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Girlfriend unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
+- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - My HomeOps running on Kubernetes
 - [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
