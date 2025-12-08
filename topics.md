@@ -1449,7 +1449,7 @@
 
 - [EDDY7688/openvpn-over-icmp](https://github.com/EDDY7688/openvpn-over-icmp) - Deploy an OpenVPN server with TinyProxy and PingTunnel using Docker to bypass network restrictions. Easy setup for TCP/UDP connections. 🐙🚀
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [casbin/caswaf](https://github.com/casbin/caswaf) - HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com
+- [caswaf/caswaf](https://github.com/caswaf/caswaf) - HTTP & OAuth Gateway and Web Application Firewall (WAF) based on ModSecurity, online demo: https://door.caswaf.com
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [faritvidal/Config-Traefik-2.2.X](https://github.com/faritvidal/Config-Traefik-2.2.X) - This is a repository that you create in order to have some scenarios in which you can use Traefik efficiently, it has a link to the official sites of each of the mentioned software.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
