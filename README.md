@@ -410,7 +410,7 @@
 - [bugfest/tor-controller](https://github.com/bugfest/tor-controller) - Tor toolkit for Kubernetes (Tor instances, onion services and more)
 - [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - External PostgreSQL Server Operator for Kubernetes
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [BetterCorp/cloudflarewarp](https://github.com/BetterCorp/cloudflarewarp) - 
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
