@@ -304,7 +304,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
-- [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organization based on MusicBrainz
+- [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organisation based on MusicBrainz
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
 - [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link) - Link-based access control for Immich, NextCloud and Paperless. After verifying a URL "knock" on a share link, Sneak Link issues a cookie that grants access to a protected service. No IP whitelisting r
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
@@ -434,7 +434,6 @@
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
@@ -628,6 +627,7 @@
 
 ## JavaScript 
 
+- [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [aFFekopp/noctis](https://github.com/aFFekopp/noctis) - 🐵 Dark Blue Theme for Home Assistant
 - [gurbyz/power-wheel-card](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power and energy that your home is consuming or producing. (A custom card for the Lovelace UI of Home Assistant.)
@@ -1484,7 +1484,7 @@
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [clusterio/clusterio](https://github.com/clusterio/clusterio) - internet communication for factorio mods
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
@@ -1531,6 +1531,7 @@
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - An automatic livestream recorder
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
