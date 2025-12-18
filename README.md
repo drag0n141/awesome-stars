@@ -706,7 +706,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans, available for Chrome, Edge and Firefox
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex
 - [UnicornTranscoder/UnicornFFMPEG](https://github.com/UnicornTranscoder/UnicornFFMPEG) - Fake Plex Transcoder to get the arguments for FFMPEG
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
@@ -1460,7 +1460,7 @@
 ## TypeScript 
 
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby
-- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers. It   answers the question every server owner eventually asks: "Who's actually   using my server, and are they sharing their 
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
 - [JonBunator/Enterr](https://github.com/JonBunator/Enterr) - Tool that automates website logins to prevent account deletion due to inactivity.
