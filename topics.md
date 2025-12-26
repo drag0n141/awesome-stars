@@ -222,6 +222,7 @@
 
 ## ai 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [gorgarp/Recommender](https://github.com/gorgarp/Recommender) - A standalone AI-powered application designed to learn your viewing preferences on your Plex server and provide personalized recommendations on what to watch.
@@ -574,7 +575,7 @@
 
 ## crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 
 ## csharp 
 
@@ -670,7 +671,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -703,7 +704,7 @@
 ## django 
 
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
@@ -719,7 +720,7 @@
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
 - [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek, single-button web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scen
@@ -782,11 +783,11 @@
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
@@ -1089,7 +1090,7 @@
 
 ## go 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a Docker-native live video restreamer.
 - [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server written in Go
@@ -1610,6 +1611,7 @@
 - [m00nwtchr/homelab-cluster](https://github.com/m00nwtchr/homelab-cluster) - Mirror of https://git.m00nlit.dev/m00n/homelab-cluster
 - [lucas-dclrcq/homelabitty](https://github.com/lucas-dclrcq/homelabitty) - 
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1732,7 +1734,7 @@
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 - [angelnu/k8s-gitops](https://github.com/angelnu/k8s-gitops) - My home Kubernetes cluster managed with git-ops
 - [truxnell/home-cluster](https://github.com/truxnell/home-cluster) - My home server cluster, managed by flux and defined as code here
 - [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved enterprise™ homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
@@ -1929,7 +1931,7 @@
 
 ## monitoring 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [jacksgt/alert-operator](https://github.com/jacksgt/alert-operator) - The missing piece for the kube-prometheus stack: manage Alerts and Silences from Kubernetes
@@ -1992,7 +1994,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2437,7 +2438,7 @@
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [blacklabelops/volumerize](https://github.com/blacklabelops/volumerize) - Docker Volume Backups Multiple Backends
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-- [gus33000/UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
+- [OSTooling/UUPMediaCreator](https://github.com/OSTooling/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 - [M2Team/NanaRun](https://github.com/M2Team/NanaRun) - Application runtime environment customization utility
 - [M2Team/NanaGet](https://github.com/M2Team/NanaGet) - Lightweight file transfer utility based on aria2 and XAML Islands
 - [jeffwillette/docker-alertd](https://github.com/jeffwillette/docker-alertd) - Monitor docker stats and send alerts
@@ -2731,7 +2732,7 @@
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
 - [tensorchord/cloudnative-pgvecto.rs](https://github.com/tensorchord/cloudnative-pgvecto.rs) - Container images for cloudnative-pg with the pgvecto.rs extension installed
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -2799,7 +2800,7 @@
 
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -2826,7 +2827,7 @@
 - [HeinleinSupport/check_mk_extensions](https://github.com/HeinleinSupport/check_mk_extensions) - check_mk Plugins
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
@@ -2896,7 +2897,7 @@
 
 ## react 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
@@ -2906,7 +2907,7 @@
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [bandundu/email-archiver](https://github.com/bandundu/email-archiver) - Email archiving tool for IMAP/POP3 accounts (early development)
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2945,7 +2946,6 @@
 
 ## rest-api 
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 ## reverse-engineering 
@@ -3081,7 +3081,7 @@
 - [lucas-dclrcq/homelabitty](https://github.com/lucas-dclrcq/homelabitty) - 
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
@@ -3363,7 +3363,7 @@
 ## typescript 
 
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
@@ -3376,7 +3376,6 @@
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki, Status: https://uptime.viewtube.io
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
