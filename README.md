@@ -977,6 +977,7 @@
 
 ## Python 
 
+- [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
 - [soggy8/music-downloader](https://github.com/soggy8/music-downloader) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [mdmatthias/Gameyfin-Desktop](https://github.com/mdmatthias/Gameyfin-Desktop) - Gameyfin Desktop app with tray icon
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
