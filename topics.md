@@ -2112,6 +2112,7 @@
 
 ## others 
 
+- [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
 - [ahrtr/etcd-defrag](https://github.com/ahrtr/etcd-defrag) - An easier to use and smarter etcd defragmentation tool
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers. It   answers the question every server owner eventually asks: "Who's actually   using my server, and are they sharing their 
