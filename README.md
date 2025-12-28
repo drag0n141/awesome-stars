@@ -977,6 +977,7 @@
 
 ## Python 
 
+- [JackJPowell/uc-intg-manager](https://github.com/JackJPowell/uc-intg-manager) - An Unfolded Circle Integration to manage your Unfolded Circle Integrations
 - [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
 - [soggy8/music-downloader](https://github.com/soggy8/music-downloader) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [mdmatthias/Gameyfin-Desktop](https://github.com/mdmatthias/Gameyfin-Desktop) - Gameyfin Desktop app with tray icon
@@ -1303,7 +1304,6 @@
 - [reefland/find-orphaned-rbd-images](https://github.com/reefland/find-orphaned-rbd-images) - Find Orphaned Rook-Ceph RBD Images no longer associated with a Kubernetes PV
 - [carpenike/vyos-config](https://github.com/carpenike/vyos-config) - 
 - [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
-- [ishioni/vyos-config](https://github.com/ishioni/vyos-config) - Managing my VyOS Router configuration
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
 - [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
@@ -1465,6 +1465,7 @@
 
 ## TypeScript 
 
+- [Chevron7Locked/lidify](https://github.com/Chevron7Locked/lidify) - Lidify is built for music lovers who want the convenience of streaming services without sacrificing ownership of their library. Point it at your music collection, and Lidify handles the rest: artist d
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Tracearr is a streaming access manager for Plex, Jellyfin and Emby servers. It   answers the question every server owner eventually asks: "Who's actually   using my server, and are they sharing their 
