@@ -718,8 +718,9 @@
 
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
-- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
+- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
@@ -2997,7 +2998,7 @@
 
 ## security 
 
-- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
+- [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [nielsfaber/alarmo-card](https://github.com/nielsfaber/alarmo-card) - Home Assistant card for controlling the Alarmo component
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [SubleXBle/Fail2Ban-Report](https://github.com/SubleXBle/Fail2Ban-Report) - Web-based dashboard for Fail2Ban log filtering and blocklist control
@@ -3083,6 +3084,7 @@
 - [lucas-dclrcq/homelabitty](https://github.com/lucas-dclrcq/homelabitty) - 
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
