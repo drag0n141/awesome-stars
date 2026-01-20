@@ -2132,12 +2132,12 @@
 
 ## others 
 
+- [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr) - 
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
 - [shamubernetes/siren](https://github.com/shamubernetes/siren) - A simple, clean AlertManager dashboard
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [Doezer/Questarr](https://github.com/Doezer/Questarr) - Video games manager for -arr users
 - [SgtBatten/HA_blueprints](https://github.com/SgtBatten/HA_blueprints) - Somewhere to store automation blueprints
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - A self-hosted print archive and management system for Bambu Lab 3D printers
 - [JackJPowell/uc-intg-manager](https://github.com/JackJPowell/uc-intg-manager) - An Unfolded Circle Integration to manage your Unfolded Circle Integrations
 - [Chevron7Locked/lidify](https://github.com/Chevron7Locked/lidify) - Lidify is built for music lovers who want the convenience of streaming services without sacrificing ownership of their library. Point it at your music collection, and Lidify handles the rest: artist d
 - [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
@@ -3097,6 +3097,7 @@
 ## self-hosted 
 
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - A self-hosted print archive and management system for Bambu Lab 3D printers
 - [soggy8/music-downloader](https://github.com/soggy8/music-downloader) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
