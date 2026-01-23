@@ -722,6 +722,7 @@
 
 ## docker 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -1099,6 +1100,7 @@
 
 ## go 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a Docker-native live video restreamer.
@@ -1162,6 +1164,7 @@
 
 ## golang 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organisation based on MusicBrainz
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
@@ -2132,6 +2135,7 @@
 
 ## others 
 
+- [willhaggan/HA_Frigate_VLLM_Notification](https://github.com/willhaggan/HA_Frigate_VLLM_Notification) - Use frigate and LLM Vision to send mobile notifications.
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr) - 
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
 - [shamubernetes/siren](https://github.com/shamubernetes/siren) - A simple, clean AlertManager dashboard
@@ -2920,6 +2924,7 @@
 
 ## react 
 
+- [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
