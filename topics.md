@@ -2135,6 +2135,7 @@
 
 ## others 
 
+- [aclerici38/pocket-id-operator](https://github.com/aclerici38/pocket-id-operator) - Kubernetes Operator to configure Pocket-ID
 - [willhaggan/HA_Frigate_VLLM_Notification](https://github.com/willhaggan/HA_Frigate_VLLM_Notification) - Use frigate and LLM Vision to send mobile notifications.
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr) - 
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
