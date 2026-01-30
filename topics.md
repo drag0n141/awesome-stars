@@ -696,6 +696,7 @@
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [psidex/CrowsNest](https://github.com/psidex/CrowsNest) - Watchtower for Git: automatically keep local Git repositories up to date with their remotes
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 
 ## discord 
 
@@ -2145,6 +2146,9 @@
 
 ## others 
 
+- [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
+- [jmxd/Kometa](https://github.com/jmxd/Kometa) - 
+- [maxxfly/extrarrfin](https://github.com/maxxfly/extrarrfin) - ExtrarrFin - download extra episodes (featurette, etc)
 - [aelzeiny/Amazon-Orders-WebScraper](https://github.com/aelzeiny/Amazon-Orders-WebScraper) - Scraps amazon orders page and downloads your receipts
 - [aclerici38/pocket-id-operator](https://github.com/aclerici38/pocket-id-operator) - Kubernetes Operator to configure Pocket-ID
 - [willhaggan/HA_Frigate_VLLM_Notification](https://github.com/willhaggan/HA_Frigate_VLLM_Notification) - Use frigate and LLM Vision to send mobile notifications.
@@ -2164,7 +2168,7 @@
 - [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
-- [therobbiedavis/Listenarr](https://github.com/therobbiedavis/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
+- [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
 - [JourneyDocker/Plex-Auto-Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [neozmmv/BlockGate](https://github.com/neozmmv/BlockGate) - BlockGate is a self-hosted web application to manage and monitor Minecraft servers running on Docker containers.
