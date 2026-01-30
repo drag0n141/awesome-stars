@@ -118,7 +118,7 @@
 
 ## C# # 
 
-- [therobbiedavis/Listenarr](https://github.com/therobbiedavis/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
+- [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
@@ -785,6 +785,7 @@
 
 ## Kotlin 
 
+- [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
@@ -835,6 +836,7 @@
 
 ## Others 
 
+- [jmxd/Kometa](https://github.com/jmxd/Kometa) - 
 - [willhaggan/HA_Frigate_VLLM_Notification](https://github.com/willhaggan/HA_Frigate_VLLM_Notification) - Use frigate and LLM Vision to send mobile notifications.
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [SgtBatten/HA_blueprints](https://github.com/SgtBatten/HA_blueprints) - Somewhere to store automation blueprints
@@ -991,6 +993,7 @@
 
 ## Python 
 
+- [maxxfly/extrarrfin](https://github.com/maxxfly/extrarrfin) - ExtrarrFin - download extra episodes (featurette, etc)
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [aelzeiny/Amazon-Orders-WebScraper](https://github.com/aelzeiny/Amazon-Orders-WebScraper) - Scraps amazon orders page and downloads your receipts
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
