@@ -993,6 +993,8 @@
 
 ## Python 
 
+- [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher) - Web-based IP camera viewer for fast, simple streaming in any browser 🦇
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [maxxfly/extrarrfin](https://github.com/maxxfly/extrarrfin) - ExtrarrFin - download extra episodes (featurette, etc)
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [aelzeiny/Amazon-Orders-WebScraper](https://github.com/aelzeiny/Amazon-Orders-WebScraper) - Scraps amazon orders page and downloads your receipts
@@ -1003,7 +1005,7 @@
 - [mdmatthias/Gameyfin-Desktop](https://github.com/mdmatthias/Gameyfin-Desktop) - Gameyfin Desktop app with tray icon
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.
 - [JonBunator/Enterr](https://github.com/JonBunator/Enterr) - Tool that automates website logins to prevent account deletion due to inactivity.
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
