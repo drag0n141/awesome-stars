@@ -1322,7 +1322,7 @@
 - [heavybullets8/heavy-ops](https://github.com/heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
-- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - Enhancing Your UniFi Experience
 - [peacey/split-vpn](https://github.com/peacey/split-vpn) - A split tunnel VPN script for Unifi OS routers (UDM, UXG, UDR) with policy based routing.
 - [WhiskeyTang0F0xtr0t/unifi](https://github.com/WhiskeyTang0F0xtr0t/unifi) - Random stuff for unifi devices.
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
