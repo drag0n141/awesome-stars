@@ -1641,6 +1641,7 @@
 
 ## kubernetes 
 
+- [stackitcloud/rename-pvc](https://github.com/stackitcloud/rename-pvc) - rename-pvc can rename PersistentVolumeClaims (PVCs) inside Kubernetes.
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [m00nwtchr/homelab-cluster](https://github.com/m00nwtchr/homelab-cluster) - Mirror of https://git.m00nlit.dev/m00n/homelab-cluster
 - [lucas-dclrcq/homelabitty](https://github.com/lucas-dclrcq/homelabitty) - 
@@ -2159,6 +2160,7 @@
 
 ## others 
 
+- [Rdiger-36/bambulab-ams-spoolman-filamentstatus](https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus) - This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage. It listens for MQTT updates from the printer and manages spools on Spoolman.
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [john30/ebusd](https://github.com/john30/ebusd) - daemon for communication with eBUS heating systems
 - [aclerici38/home-ops](https://github.com/aclerici38/home-ops) - Gitops repo for my homelab kubernetes cluster
@@ -3140,6 +3142,7 @@
 
 ## self-hosted 
 
+- [maziggy/spoolbuddy](https://github.com/maziggy/spoolbuddy) - NFC-powered spool identification, precision weight tracking, and seamless inventory management. Works with any NFC-tagged spool and auto-configures your AMS slots.
 - [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
