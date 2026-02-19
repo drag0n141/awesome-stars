@@ -679,7 +679,6 @@
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [KaiStarkk/wumps](https://github.com/KaiStarkk/wumps) - 
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -791,6 +790,8 @@
 
 ## Kotlin 
 
+- [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
+- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune
 - [flex36ty/elefin](https://github.com/flex36ty/elefin) - Elefin Jellyfin client for Android TV
@@ -885,7 +886,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [AlexRabbit/ADios](https://github.com/AlexRabbit/ADios) - ADBlocker - Block ADS on Twitch, Spotify and EVERYWHERE via the HOST File, PI-Hole, Adblocker Add-on, DNSMasq, Response Policy Zone and Adguard Services.  - ADios ADS !
 - [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -1502,7 +1503,7 @@
 - [Doezer/Questarr](https://github.com/Doezer/Questarr) - Video games manager for -arr users
 - [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card) - A comprehensive camera card for Home Assistant
 - [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - A self-hosted print archive and management system for Bambu Lab 3D printers
-- [Chevron7Locked/kima-hub](https://github.com/Chevron7Locked/kima-hub) - Lidify is built for music lovers who want the convenience of streaming services without sacrificing ownership of their library. Point it at your music collection, and Lidify handles the rest: artist d
+- [Chevron7Locked/kima-hub](https://github.com/Chevron7Locked/kima-hub) - Kima Hub is built for music lovers who want the convenience of streaming services without sacrificing ownership of their library. Point it at your music collection, and Kima handles the rest: artist d
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -1580,6 +1581,7 @@
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [plugsy/core](https://github.com/plugsy/core) - A simple, pluggable dashboard and status page
