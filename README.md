@@ -913,7 +913,7 @@
 - [ibnux/switch-cheat](https://github.com/ibnux/switch-cheat) - Nintendo Switch cheat database
 - [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
-- [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions.
+- [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
 - [dezem/SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
 - [Rishabh04-02/setting-up-master-slave-replication-in-postgresql-using-dockers-and-external-volumes](https://github.com/Rishabh04-02/setting-up-master-slave-replication-in-postgresql-using-dockers-and-external-volumes) - Postgresql 12 Master - Slave Replication using Dockers and external volumes.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
