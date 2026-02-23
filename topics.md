@@ -771,7 +771,7 @@
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [ynuwenhof/koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server
@@ -1960,6 +1960,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 
 ## microservices 
 
@@ -1997,7 +1998,6 @@
 - [HeinleinSupport/check_mk_extensions](https://github.com/HeinleinSupport/check_mk_extensions) - check_mk Plugins
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [oscaromeu/home-ops](https://github.com/oscaromeu/home-ops) - A mono repository for my homelab infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
@@ -3147,7 +3147,6 @@
 
 ## self-hosted 
 
-- [maziggy/spoolbuddy](https://github.com/maziggy/spoolbuddy) - NFC-powered spool identification, precision weight tracking, and seamless inventory management. Works with any NFC-tagged spool and auto-configures your AMS slots.
 - [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
@@ -3471,7 +3470,7 @@
 ## ubuntu 
 
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
