@@ -273,7 +273,6 @@
 - [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout) - Dockerized web based help desk and shared inbox
 - [mauimauer/spritsail-plex-media-server](https://github.com/mauimauer/spritsail-plex-media-server) - Worlds smallest Docker image for Plex Media Server, built on spritsail/busybox
 - [kaaanata/derper-docker](https://github.com/kaaanata/derper-docker) - tailscale‘s selfhosted derp-server docker image
-- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
@@ -575,6 +574,7 @@
 
 - [angelnu/helm-charts](https://github.com/angelnu/helm-charts) - A collection of Helm charts
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
+- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 
 ## HCL 
 
