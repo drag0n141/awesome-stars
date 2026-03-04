@@ -64,6 +64,7 @@
 - [emulator](#emulator)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1006,6 +1007,10 @@
 
 - [d43m0nhLInt3r/socialblocklists](https://github.com/d43m0nhLInt3r/socialblocklists) - Blocklists to block the communication to social networking sites and privacy harming services
 
+## fastapi 
+
+- [soggy8/music-downloader](https://github.com/soggy8/music-downloader) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
+
 ## finance 
 
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
@@ -1422,6 +1427,7 @@
 
 ## home-assistant 
 
+- [ganhammar/hass-oidc-auth](https://github.com/ganhammar/hass-oidc-auth) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) provider
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [marcokreeft87/formulaone-card](https://github.com/marcokreeft87/formulaone-card) - Present the data of Formula One in a pretty way
