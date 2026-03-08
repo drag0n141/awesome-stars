@@ -449,7 +449,7 @@
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive) - Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
@@ -802,7 +802,7 @@
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) - 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 - [maytom2016/Wstunnela](https://github.com/maytom2016/Wstunnela) - A Gui for Wstunnel on Android
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [lhns/restic-android](https://github.com/lhns/restic-android) - Restic Backup Android App  (Unofficial)
@@ -1220,7 +1220,7 @@
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 - [iwalton3/plex-mpv-shim](https://github.com/iwalton3/plex-mpv-shim) - Cast media from Plex Mobile and Web apps to MPV. (Unofficial)
 - [l3uddz/gdsa_maker](https://github.com/l3uddz/gdsa_maker) - Manage Google Drive Service Accounts, Team Drives, Sharing and Groups
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
