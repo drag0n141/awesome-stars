@@ -122,7 +122,7 @@
 
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 - [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Full-Featured Alternative to NSSM, WinSW & FireDaemon Pro
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
@@ -378,7 +378,7 @@
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [fastlorenzo/kopia-operator](https://github.com/fastlorenzo/kopia-operator) - 
 - [jacksgt/alert-operator](https://github.com/jacksgt/alert-operator) - The missing piece for the kube-prometheus stack: manage Alerts and Silences from Kubernetes
-- [casbin/casbin-gateway](https://github.com/casbin/casbin-gateway) - Casbin AI & MCP security gateway for HTTP, online demo: https://door.caswaf.com
+- [apache/casbin-gateway](https://github.com/apache/casbin-gateway) - Casbin AI & MCP security gateway for HTTP, online demo: https://door.caswaf.com
 - [anthr76/k8s-pod-mutator-webhook](https://github.com/anthr76/k8s-pod-mutator-webhook) - Kubernetes Mutating Admission Webhook for Pods. Applies arbitrary changes to Pod manifests.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
