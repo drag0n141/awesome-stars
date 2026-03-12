@@ -293,7 +293,7 @@
 
 - [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
 - [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
-- [Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) - K3s cluster driven by Flux
+- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Flux
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
@@ -1436,7 +1436,7 @@
 
 ## home-assistant 
 
-- [ganhammar/hass-oidc-auth](https://github.com/ganhammar/hass-oidc-auth) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) provider
+- [ganhammar/hass-oidc-server](https://github.com/ganhammar/hass-oidc-server) - A Home Assistant custom component that turns your Home Assistant instance into a fully functional OpenID Connect (OIDC) server
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [marcokreeft87/formulaone-card](https://github.com/marcokreeft87/formulaone-card) - Present the data of Formula One in a pretty way
@@ -1706,7 +1706,7 @@
 - [kashalls/external-dns-unifi-webhook](https://github.com/kashalls/external-dns-unifi-webhook) - External-DNS Webhook to manage UniFi DNS Records
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
 - [binaryn3xus/HomeOps](https://github.com/binaryn3xus/HomeOps) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
-- [Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) - K3s cluster driven by Flux
+- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Flux
 - [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) - Collection of Intel device plugins for Kubernetes
 - [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - Mount Kubernetes PVs locally using SSHFS/NFS
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -3442,7 +3442,7 @@
 ## terraform 
 
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
-- [Alexsaphir/K3s-Flux](https://github.com/Alexsaphir/K3s-Flux) - K3s cluster driven by Flux
+- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Flux
 - [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
 - [coolguy1771/home-ops](https://github.com/coolguy1771/home-ops) - A mono repository for my home infra and Kubernetes cluster  adhering to Infrastructure as Code (IaC) and GitOps practices
