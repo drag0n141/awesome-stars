@@ -243,7 +243,7 @@
 
 ## ai-agents 
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
 
 ## analytics 
@@ -628,7 +628,7 @@
 
 ## cybersecurity 
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
@@ -1323,7 +1323,6 @@
 
 ## hacktoberfest 
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
@@ -1906,6 +1905,7 @@
 
 ## llm 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
@@ -1984,6 +1984,7 @@
 
 ## mcp 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - A Model Context Protocol (MCP) server for Kubernetes. Install: npx kubectl-mcp-server or pip install kubectl-mcp-server
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -2158,7 +2159,6 @@
 
 ## open-source 
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
@@ -2196,6 +2196,7 @@
 
 ## osint 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
 ## others 
@@ -2797,7 +2798,7 @@
 
 ## penetration-testing 
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 
 ## pentesting 
 
@@ -3105,7 +3106,7 @@
 
 ## security 
 
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [nielsfaber/alarmo-card](https://github.com/nielsfaber/alarmo-card) - Home Assistant card for controlling the Alarmo component
@@ -3170,6 +3171,7 @@
 
 ## security-tools 
 
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 734+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open standard · Works with Claude Code, GitHub Copilot, OpenAI Codex CLI, Cursor, Gemini CLI & 20+ platforms ·
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
@@ -3590,6 +3592,7 @@
 
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -3605,7 +3608,6 @@
 
 ## vuejs 
 
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
 - [ViewTube/viewtube](https://github.com/ViewTube/viewtube) - ▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
