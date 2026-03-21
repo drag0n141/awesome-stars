@@ -321,6 +321,7 @@
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
 - [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link) - Link-based access control for Immich, NextCloud and Paperless. After verifying a URL "knock" on a share link, Sneak Link issues a cookie that grants access to a protected service. No IP whitelisting r
+- [nickheyer/discopanel](https://github.com/nickheyer/discopanel) - A lightweight modded minecraft server hosting suite and management web app.
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [AlinaNova21/omni-infra-provider-proxmox](https://github.com/AlinaNova21/omni-infra-provider-proxmox) - 
@@ -597,7 +598,7 @@
 
 ## HTML 
 
-- [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them — a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
+- [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
@@ -1052,6 +1053,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [jl94x4/ColleXions](https://github.com/jl94x4/ColleXions) - ColleXions automates the process of pinning collections to your Plex home screen, making it easier to showcase your favorite content. With customizable features, it enhances your Plex experience by dy
 - [sahara101/Movie-Roulette](https://github.com/sahara101/Movie-Roulette) - Docker App which chooses a random movie from your movie library.
+- [brodybuster/plex-sab-formula1](https://github.com/brodybuster/plex-sab-formula1) - 
 - [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [Convert-Commander/convert-commander](https://github.com/Convert-Commander/convert-commander) - The free software for converting files!
@@ -1256,7 +1258,7 @@
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [ThijmenGThN/swaparr](https://github.com/ThijmenGThN/swaparr) - ✦ A robust solution addressing stalled downloads in Starr apps.
@@ -1325,7 +1327,6 @@
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
 - [EDDY7688/openvpn-over-icmp](https://github.com/EDDY7688/openvpn-over-icmp) - Deploy an OpenVPN server with TinyProxy and PingTunnel using Docker to bypass network restrictions. Easy setup for TCP/UDP connections. 🐙🚀
 - [tracerrx/unifi-doorbell](https://github.com/tracerrx/unifi-doorbell) - Unifi Doorbell Sprites
-- [brodybuster/plex-sab-formula1](https://github.com/brodybuster/plex-sab-formula1) - 
 - [phycoforce/home-ops](https://github.com/phycoforce/home-ops) - 
 - [PhilippMundhenk/BrotherScannerDocker](https://github.com/PhilippMundhenk/BrotherScannerDocker) - Dockerized Brother Scanner driver
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let's Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares
@@ -1482,7 +1483,6 @@
 ## Svelte 
 
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
-- [nickheyer/discopanel](https://github.com/nickheyer/discopanel) - A lightweight modded minecraft server hosting suite and management web app.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
