@@ -252,7 +252,6 @@
 - [home-operations/containers](https://github.com/home-operations/containers) - Our collection of container images
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [chkpwd/cdpgvecto.rs](https://github.com/chkpwd/cdpgvecto.rs) - PostgreSQL Image with vecto.rs support based on CrunchyData Postgres images.
-- [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [tensorchord/cloudnative-pgvecto.rs](https://github.com/tensorchord/cloudnative-pgvecto.rs) - Container images for cloudnative-pg with the pgvecto.rs extension installed
 - [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [jonp92/Milliner_Docker](https://github.com/jonp92/Milliner_Docker) - a Dockerized version of Milliner, itself a lightweight Headscale management web-UI.
