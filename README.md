@@ -766,7 +766,6 @@
 
 ## Jinja 
 
-- [davralin/cluster-ops](https://github.com/davralin/cluster-ops) - Repo for managing kubernetes-clusters
 - [elcattivo66/home-ops](https://github.com/elcattivo66/home-ops) - My home-ops repo
 - [fischerscode/my-k3s](https://github.com/fischerscode/my-k3s) - The configuration and automatation of a k3s cluster.
 - [clarknova99/home-cluster](https://github.com/clarknova99/home-cluster) - My home Kubernetes cluster, managed by flux
@@ -1005,6 +1004,7 @@
 
 ## Python 
 
+- [DanSheps/netbox-lifecycle](https://github.com/DanSheps/netbox-lifecycle) - A Netbox plugin for managing Hardware EOL/EOS, and Support Contracts
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
