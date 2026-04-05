@@ -1030,7 +1030,7 @@
 
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
-- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Next-gen open source ambient lighting system featuring a high-precision floating-point color pipeline breaking legacy RGB 24-bit limits. Includes advanced smoothing with inertia and adaptive temporal 
 
 ## express 
 
@@ -1459,6 +1459,7 @@
 
 ## home-assistant 
 
+- [analytix-energy-solutions/ticker](https://github.com/analytix-energy-solutions/ticker) - Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [marcokreeft87/formulaone-card](https://github.com/marcokreeft87/formulaone-card) - Present the data of Formula One in a pretty way
@@ -2337,6 +2338,7 @@
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [prabirshrestha/docker-stack-deploy](https://github.com/prabirshrestha/docker-stack-deploy) - GitOps automation for plain old docker compose stack deploy
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+- [davralin/cluster-ops](https://github.com/davralin/cluster-ops) - Repo for managing kubernetes-clusters
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
 - [pelotech/nidhogg](https://github.com/pelotech/nidhogg) - Kubernetes Node taints based on Daemonset Pods
 - [fluxcd-community/helm-charts](https://github.com/fluxcd-community/helm-charts) - Community maintained Helm charts for Flux
@@ -3025,7 +3027,7 @@
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM).
+- [awawa-dev/HyperHDR](https://github.com/awawa-dev/HyperHDR) - Next-gen open source ambient lighting system featuring a high-precision floating-point color pipeline breaking legacy RGB 24-bit limits. Includes advanced smoothing with inertia and adaptive temporal 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
