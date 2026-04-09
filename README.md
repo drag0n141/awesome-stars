@@ -305,6 +305,7 @@
 
 ## Go 
 
+- [freeformz/paperless-ngx-mcp](https://github.com/freeformz/paperless-ngx-mcp) - MCP server for Paperless-ngx document management
 - [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [stackitcloud/rename-pvc](https://github.com/stackitcloud/rename-pvc) - rename-pvc can rename PersistentVolumeClaims (PVCs) inside Kubernetes.
 - [aclerici38/pocket-id-operator](https://github.com/aclerici38/pocket-id-operator) - Kubernetes Operator to configure Pocket-ID
@@ -1007,6 +1008,8 @@
 
 ## Python 
 
+- [ArnesSI/netbox-inventory](https://github.com/ArnesSI/netbox-inventory) - Manage your hardware inventory in NetBox
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [analytix-energy-solutions/ticker](https://github.com/analytix-energy-solutions/ticker) - Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.
 - [DanSheps/netbox-lifecycle](https://github.com/DanSheps/netbox-lifecycle) - A Netbox plugin for managing Hardware EOL/EOS, and Support Contracts
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
@@ -1014,7 +1017,7 @@
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop
 - [cloin/semaphore-mcp](https://github.com/cloin/semaphore-mcp) - MCP for SemaphoreUI
-- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - A Model Context Protocol (MCP) server for Kubernetes. Install: npx kubectl-mcp-server or pip install kubectl-mcp-server
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
 - [Pukabyte/autosync](https://github.com/Pukabyte/autosync) - Autoscan meets Syncarr.
