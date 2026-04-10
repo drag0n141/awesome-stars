@@ -143,7 +143,7 @@
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
@@ -1684,6 +1684,7 @@
 
 ## YAML 
 
+- [vrozaksen/home-ops](https://github.com/vrozaksen/home-ops) - Another Kubernetes repo — because one more won’t hurt.
 - [eleboucher/homelab](https://github.com/eleboucher/homelab) - 
 - [m00nwtchr/homelab-cluster](https://github.com/m00nwtchr/homelab-cluster) - Mirror of https://git.m00nlit.dev/m00n/homelab-cluster
 - [lucas-dclrcq/homelabitty](https://github.com/lucas-dclrcq/homelabitty) - 
@@ -1707,7 +1708,7 @@
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [snoopy82481/home_cluster](https://github.com/snoopy82481/home_cluster) - My home server cluster, managed by flux and defined as code here
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
 - [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved enterprise™ homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
