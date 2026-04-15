@@ -234,7 +234,7 @@
 ## ai 
 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
@@ -769,7 +769,7 @@
 
 ## docker 
 
-- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
@@ -1562,7 +1562,7 @@
 
 ## image-processing 
 
-- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 
 ## information-gathering 
@@ -2197,7 +2197,7 @@
 
 ## open-source 
 
-- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [tiehfood/thrifty](https://github.com/tiehfood/thrifty) - A simple monthly income and expenses tracker
@@ -2441,7 +2441,7 @@
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [ori-edge/k8s_gateway](https://github.com/ori-edge/k8s_gateway) - A CoreDNS plugin developed by Ori to resolve all types of external Kubernetes resources
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
-- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -2631,7 +2631,7 @@
 - [taylorbourne/xteve_lazystream](https://github.com/taylorbourne/xteve_lazystream) - Docker bundle that provides xTeVe and guide2go for enhanced guide data and Plex/Emby IPTV integration, and Lazystream for integrated high-quality NHL and MLB games.
 - [x0b/rcx](https://github.com/x0b/rcx) - Rclone for Android
 - [AlexRabbit/ADios](https://github.com/AlexRabbit/ADios) - ADBlocker - Block ADS on Twitch, Spotify and EVERYWHERE via the HOST File, PI-Hole, Adblocker Add-on, DNSMasq, Response Policy Zone and Adguard Services.  - ADios ADS !
-- [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - restic Docker image (backup utility)
+- [instrumentisto/restic-docker-image](https://github.com/instrumentisto/restic-docker-image) - [Closed] restic Docker image (backup utility)
 - [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
 - [m-rots/a-train](https://github.com/m-rots/a-train) - 
 - [Paxxs/traefik-get-real-ip](https://github.com/Paxxs/traefik-get-real-ip) - traefik get the real IP from the X-Forwarded-For or CDN specified header field.
@@ -3236,7 +3236,7 @@
 ## self-hosted 
 
 - [vrozaksen/home-ops](https://github.com/vrozaksen/home-ops) - Another Kubernetes repo — because one more won’t hurt.
-- [stirling-image/stirling-image](https://github.com/stirling-image/stirling-image) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your ma
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
