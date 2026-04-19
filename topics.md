@@ -264,6 +264,7 @@
 
 ## android 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
@@ -637,6 +638,7 @@
 
 ## css 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -1470,6 +1472,7 @@
 
 ## home-assistant 
 
+- [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
 - [pnbruckner/ha-composite-tracker](https://github.com/pnbruckner/ha-composite-tracker) - Home Assistant Composite Device Tracker
 - [analytix-energy-solutions/ticker](https://github.com/analytix-energy-solutions/ticker) - Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -1528,6 +1531,7 @@
 
 ## html 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1589,7 +1593,7 @@
 
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [emqx/emqx](https://github.com/emqx/emqx) - The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
@@ -1603,6 +1607,7 @@
 
 ## java 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [RapierXbox/ShellyElevate](https://github.com/RapierXbox/ShellyElevate) - Software needed to run Home Assistant on the Shelly Wall Display while still keeping all the functions.
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1621,6 +1626,7 @@
 
 ## javascript 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
@@ -2142,6 +2148,7 @@
 
 ## node 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2539,7 +2546,7 @@
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [Ealenn/AdGuard-Home-List](https://github.com/Ealenn/AdGuard-Home-List) - Varied and carefully selected filter lists and consolidates for use in AdGuard Home.
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c
-- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [Apollon77/ioBroker.tuya](https://github.com/Apollon77/ioBroker.tuya) - ioBroker adapter to connect to several small and cheap Wifi devices that care connected to the Tuya Cloud and mostly use the Smartlife App/Alexa-Skill
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [Brettdah/crowdsec-with-traefik-bouncer](https://github.com/Brettdah/crowdsec-with-traefik-bouncer) - Crowdsec docker compose  configuration with fbonalair traefik bouncer
@@ -3288,7 +3295,7 @@
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
@@ -3403,6 +3410,7 @@
 
 ## shell 
 
+- [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -3626,7 +3634,7 @@
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [devops-land/wireguard-operator](https://github.com/devops-land/wireguard-operator) - Project is now maintained by Namecheap on https://github.com/nccloud/wireguard-operator. This repo is archived.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [peacey/split-vpn](https://github.com/peacey/split-vpn) - A split tunnel VPN script for Unifi OS routers (UDM, UXG, UDR) with policy based routing.
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
