@@ -2256,6 +2256,7 @@
 
 ## others 
 
+- [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [JangaJones/pve-notebuddy](https://github.com/JangaJones/pve-notebuddy) - Generate pretty Proxmox Guest Notes with a simple web based UI
