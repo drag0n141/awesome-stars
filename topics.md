@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -231,6 +232,12 @@
 ## agent 
 
 - [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+
+## agents 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 
 ## ai 
 
@@ -362,6 +369,7 @@
 
 ## automation 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
 - [netboxlabs/diode](https://github.com/netboxlabs/diode) - Diode data model and ingestion services for NetBox, from NetBox Labs
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
@@ -682,6 +690,7 @@
 
 ## database 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [EasyMile/postgresql-operator](https://github.com/EasyMile/postgresql-operator) - PostgreSQL Operator to create Databases and Users across multiple engines
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
@@ -725,6 +734,7 @@
 
 ## devops 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.
@@ -787,6 +797,7 @@
 
 ## docker 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your machine.
 - [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
@@ -1242,6 +1253,7 @@
 
 ## golang 
 
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -2073,6 +2085,7 @@
 
 ## mongodb 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 
 ## monitoring 
@@ -2121,6 +2134,7 @@
 
 ## mysql 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication.
@@ -2137,6 +2151,7 @@
 
 ## nextjs 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
@@ -2224,6 +2239,7 @@
 
 ## open-source 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your machine.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
@@ -2916,6 +2932,7 @@
 
 ## postgresql 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [EasyMile/postgresql-operator](https://github.com/EasyMile/postgresql-operator) - PostgreSQL Operator to create Databases and Users across multiple engines
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
@@ -3272,6 +3289,7 @@
 
 ## self-hosted 
 
+- [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [vrozaksen/home-ops](https://github.com/vrozaksen/home-ops) - Another Kubernetes repo — because one more won’t hurt.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - A Self Hosted Image Manipulator - 45+ tools, local AI, and pipelines in a single Docker container. No cloud, 100% Local. Your images never leave your machine.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
