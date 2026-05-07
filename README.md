@@ -307,6 +307,7 @@
 
 ## Go 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
@@ -860,7 +861,7 @@
 ## Others 
 
 - [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
-- [aclerici38/home-ops](https://github.com/aclerici38/home-ops) - Gitops repo for my homelab kubernetes cluster
+- [aclerici38/home-ops](https://github.com/aclerici38/home-ops) - Gitops repo for my homelab
 - [jmxd/Kometa](https://github.com/jmxd/Kometa) - 
 - [willhaggan/HA_Frigate_VLLM_Notification](https://github.com/willhaggan/HA_Frigate_VLLM_Notification) - Use frigate and LLM Vision to send mobile notifications.
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
@@ -1513,7 +1514,7 @@
 
 ## Swift 
 
-- [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - file per mobile app. Ios + Android
+- [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
 
 ## TeX 
 
