@@ -354,7 +354,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate or backup/restore Kubernetes persistent volumes
 - [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
-- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
