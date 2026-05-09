@@ -952,7 +952,6 @@
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [travisghansen/kubernetes-pfsense-controller](https://github.com/travisghansen/kubernetes-pfsense-controller) - Integrate Kubernetes and pfSense
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a all-in-one solution for managing your home bar
-- [farisc0de/Uploady](https://github.com/farisc0de/Uploady) - Simple File Uploading Software
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [proconsule/nspindexer](https://github.com/proconsule/nspindexer) - PHP Indexer for Switch NSP
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
@@ -1080,7 +1079,7 @@
 - [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery.  Monitor devices, detect change, and stay aware across distributed networks.
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [Convert-Commander/convert-commander](https://github.com/Convert-Commander/convert-commander) - The free software for converting files!
-- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Radarr and Sonarr libraries.
+- [nandyalu/trailarr](https://github.com/nandyalu/trailarr) - Trailarr is a Docker application to download and manage trailers for your Media libraries.
 - [endurain-project/endurain](https://github.com/endurain-project/endurain) - ⚠️ Moved to Codeberg - see link bellow
 - [Donkie/Spoolman](https://github.com/Donkie/Spoolman) - Keep track of your inventory of 3D-printer filament spools.
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
