@@ -2707,7 +2707,6 @@
 - [yubiuser/pihole_adlist_tool](https://github.com/yubiuser/pihole_adlist_tool) - A tool to analyse how your pihole adlists cover you browsing behavior
 - [bashclub/zamba-lxc-toolbox](https://github.com/bashclub/zamba-lxc-toolbox) - Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to acce
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [linuxserver/budge](https://github.com/linuxserver/budge) - 
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
