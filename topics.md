@@ -420,11 +420,11 @@
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -435,7 +435,7 @@
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -800,7 +800,7 @@
 
 - [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - 🦦The open-source image suite that makes paid tools nervous. Every image tool you need. Your images stay yours.
-- [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
@@ -876,7 +876,7 @@
 - [jfroment/seedbox](https://github.com/jfroment/seedbox) - A Docker-powered seedbox with persistent data and more cool stuff.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
+- [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
@@ -1003,7 +1003,7 @@
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 - [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
@@ -1403,7 +1403,6 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [movetokube/postgres-operator](https://github.com/movetokube/postgres-operator) - External PostgreSQL Server Operator for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -1934,7 +1933,7 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
+- [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
@@ -2215,7 +2214,7 @@
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [BSoDium/Slashboard-pulsar](https://github.com/BSoDium/Slashboard-pulsar) - A simple dashboard to keep track of all your active devices/servers
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hazim-j/zeroqueue](https://github.com/hazim-j/zeroqueue) - ⏰ A low-code queue management system ⏰
 
 ## nosql 
@@ -2964,7 +2963,7 @@
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
+- [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -2972,7 +2971,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [AdguardTeam/AdGuardDNS](https://github.com/AdguardTeam/AdGuardDNS) - Public DNS resolver that protects you from ad trackers
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
@@ -2999,7 +2998,7 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## programming 
 
@@ -3018,7 +3017,7 @@
 
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## python 
 
@@ -3244,7 +3243,7 @@
 - [capnspacehook/whalewall](https://github.com/capnspacehook/whalewall) - Automate management of firewall rules for Docker containers
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
@@ -3297,7 +3296,7 @@
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
-- [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
@@ -3366,7 +3365,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
 - [manybothans/plex-requester-collections](https://github.com/manybothans/plex-requester-collections) - This app will tag your media in Plex, Radarr, and Sonarr with the username of the person who requested the media in Overseerr. To assist with library pruning, it can also connect to Tautulli and tag m
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
+- [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
@@ -3385,7 +3384,7 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -3419,7 +3418,7 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
@@ -3436,7 +3435,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
+- [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
@@ -3471,7 +3470,7 @@
 
 ## software 
 
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
 ## springboot 
@@ -3718,7 +3717,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [Reaparr/Reaparr](https://github.com/Reaparr/Reaparr) - Plex downloader that brings content from any server to yours!
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## vuejs 
 
