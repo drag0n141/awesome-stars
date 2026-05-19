@@ -27,6 +27,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JSON](#json)
+- [JSON5](#json5)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -597,7 +598,7 @@
 - [dsluo/homelab](https://github.com/dsluo/homelab) - the kubernetes part of my homelab
 - [Jdavid77/home-cluster](https://github.com/Jdavid77/home-cluster) - Home-Ops using Talos, Flux and Renovate
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
-- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Flux
+- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Talos
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
@@ -636,6 +637,10 @@
 
 - [jfroy/flatops](https://github.com/jfroy/flatops) - My homelab Kubernetes cluster
 - [oscaromeu/home-ops](https://github.com/oscaromeu/home-ops) - A mono repository for my homelab infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
+
+## JSON5 
+
+- [home-operations/renovate-presets](https://github.com/home-operations/renovate-presets) - Shareable Renovate custom managers for the Kubernetes ecosystem — CloudNativePG, Talos Factory, and more.
 
 ## Java 
 
@@ -1303,7 +1308,7 @@
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2 and PAM
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [Kostassoid/lethe](https://github.com/Kostassoid/lethe) - Secure drive wipe
@@ -1530,6 +1535,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB & more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI
 - [saihgupr/frigate-events-card](https://github.com/saihgupr/frigate-events-card) - A simple Lovelace card for displaying recent Frigate detection events in a horizontal gallery
 - [dietrichmax/colota](https://github.com/dietrichmax/colota) - Colota - Android GPS Location tracker
@@ -1739,7 +1745,7 @@
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [digitalis-io/k3s-on-prem-production](https://github.com/digitalis-io/k3s-on-prem-production) - Playbooks needed to set up an on-premises K3s cluster and securize it
 - [haraldkoch/kochhaus-home](https://github.com/haraldkoch/kochhaus-home) - Experimental homelab configuration for running things on kubernetes
-- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved enterprise™ homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Husband-approved homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
 
 ## Zig 
 
