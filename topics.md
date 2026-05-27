@@ -2279,6 +2279,7 @@
 
 ## others 
 
+- [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
 - [derFrisson/plezy-apks](https://github.com/derFrisson/plezy-apks) - Standalone .apk files automatically extracted from edde746/plezy releases — ready to install or use with Obtainium.
 - [m3ue/m3u-editor](https://github.com/m3ue/m3u-editor) - A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call 
 - [home-operations/renovate-presets](https://github.com/home-operations/renovate-presets) - Shareable Renovate custom managers for the Kubernetes ecosystem — CloudNativePG, Talos Factory, and more.
