@@ -1031,6 +1031,7 @@
 
 ## Python 
 
+- [hvorragend/ha-blueprints](https://github.com/hvorragend/ha-blueprints) - Cover Control Automation is a comprehensive Home Assistant blueprint that automatically manages window coverings (roller shutters, blinds, awnings) based on time, sun position, weather conditions, and
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [dreadster3/home-ops](https://github.com/dreadster3/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
