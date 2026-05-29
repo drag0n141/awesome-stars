@@ -2279,6 +2279,7 @@
 
 ## others 
 
+- [hvorragend/ha-blueprints](https://github.com/hvorragend/ha-blueprints) - Cover Control Automation is a comprehensive Home Assistant blueprint that automatically manages window coverings (roller shutters, blinds, awnings) based on time, sun position, weather conditions, and
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
 - [derFrisson/plezy-apks](https://github.com/derFrisson/plezy-apks) - Standalone .apk files automatically extracted from edde746/plezy releases — ready to install or use with Obtainium.
 - [m3ue/m3u-editor](https://github.com/m3ue/m3u-editor) - A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call 
