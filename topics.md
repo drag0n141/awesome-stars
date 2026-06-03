@@ -230,6 +230,7 @@
 
 ## agent 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [ZeroQI/YouTube-Agent.bundle](https://github.com/ZeroQI/YouTube-Agent.bundle) - Plex Metadata Agent for Movies and TV Series libraries
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
@@ -533,7 +534,6 @@
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
@@ -2279,6 +2279,7 @@
 
 ## others 
 
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email client with custom domain based on Cloudflare
 - [hvorragend/ha-blueprints](https://github.com/hvorragend/ha-blueprints) - Cover Control Automation is a comprehensive Home Assistant blueprint that automatically manages window coverings (roller shutters, blinds, awnings) based on time, sun position, weather conditions, and
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
 - [derFrisson/plezy-apks](https://github.com/derFrisson/plezy-apks) - Standalone .apk files automatically extracted from edde746/plezy releases — ready to install or use with Obtainium.
@@ -2872,7 +2873,6 @@
 - [clinton-hall/GetScripts](https://github.com/clinton-hall/GetScripts) - A Collection of NZBGet Post-Process Scripts
 - [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [sirk123au/ArrTools](https://github.com/sirk123au/ArrTools) - A collection of tools for Radarr, Sonarr & Lidarr
-- [laster13/patxav](https://github.com/laster13/patxav) - 
 
 ## p2p 
 
