@@ -1729,7 +1729,7 @@
 
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [vrozaksen/home-ops](https://github.com/vrozaksen/home-ops) - Another Kubernetes repo — because one more won’t hurt.
-- [eleboucher/homelab](https://github.com/eleboucher/homelab) - My Talos + Flux GitOps homelab cluster running media, automation, and observability stacks.
+- [eleboucher/homelab](https://github.com/eleboucher/homelab) - My Talos + Flux GitOps homelab cluster running media, automation, and observability stacks. Mirror from https://git.erwanleboucher.dev/eleboucher/homelab
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [stackitcloud/rename-pvc](https://github.com/stackitcloud/rename-pvc) - rename-pvc can rename PersistentVolumeClaims (PVCs) inside Kubernetes.
