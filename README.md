@@ -1539,6 +1539,7 @@
 
 ## TypeScript 
 
+- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email client with custom domain based on Cloudflare
 - [dietrichmax/colota-forwarder](https://github.com/dietrichmax/colota-forwarder) - Multi-target forwarder for the Colota app. Fans location updates out to Home Assistant, Dawarich, Traccar, Reitti, and friends.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
