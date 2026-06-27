@@ -821,7 +821,7 @@
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) - 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 - [maytom2016/Wstunnela](https://github.com/maytom2016/Wstunnela) - A Gui for Wstunnel on Android
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 - [lhns/restic-android](https://github.com/lhns/restic-android) - Restic Backup Android App  (Unofficial)
@@ -952,7 +952,7 @@
 - [lanedirt/OGameX](https://github.com/lanedirt/OGameX) - Open-source OGame redesign clone, powered by the latest PHP Laravel framework
 - [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that's faster, smaller, safer, and more accessible than Pelican.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [tchapi/davis](https://github.com/tchapi/davis) - 🗓 A modern, simple, feature-packed, fully translatable admin interface for sabre/dav based on Symfony 7 and Bootstrap
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [stefanzweifel/screeenly](https://github.com/stefanzweifel/screeenly) - 📸  Screenshot as a Service
