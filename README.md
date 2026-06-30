@@ -384,7 +384,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [fastlorenzo/kopia-operator](https://github.com/fastlorenzo/kopia-operator) - 
