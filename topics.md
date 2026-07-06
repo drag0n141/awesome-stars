@@ -252,7 +252,7 @@
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
+- [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1150,6 +1150,7 @@
 
 ## game 
 
+- [Doezer/Questarr](https://github.com/Doezer/Questarr) - Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
 - [Moonlight-Panel/Moonlight](https://github.com/Moonlight-Panel/Moonlight) - The next generation hosting panel
 - [clusterio/clusterio](https://github.com/clusterio/clusterio) - internet communication for factorio mods
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -1194,7 +1195,7 @@
 
 ## go 
 
-- [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
+- [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1261,7 +1262,7 @@
 ## golang 
 
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
-- [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
+- [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -2347,7 +2348,6 @@
 - [rundfunkarr/rundfunkarr](https://github.com/rundfunkarr/rundfunkarr) - 
 - [shamubernetes/siren](https://github.com/shamubernetes/siren) - A simple, clean AlertManager dashboard
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
-- [Doezer/Questarr](https://github.com/Doezer/Questarr) - Video games manager for -arr users
 - [SgtBatten/HA_blueprints](https://github.com/SgtBatten/HA_blueprints) - Somewhere to store automation blueprints
 - [JackJPowell/uc-intg-manager](https://github.com/JackJPowell/uc-intg-manager) - An Unfolded Circle Integration to manage your Unfolded Circle Integrations
 - [albaintor/integration-lgtv](https://github.com/albaintor/integration-lgtv) - Unfolded Circle Remote Two integration driver for LG TVs
