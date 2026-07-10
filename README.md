@@ -323,7 +323,7 @@
 - [ahrtr/etcd-defrag](https://github.com/ahrtr/etcd-defrag) - An easier to use and smarter etcd defragmentation tool
 - [siderolabs/booter](https://github.com/siderolabs/booter) - A tool to easily boot Talos machines using PXE
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
