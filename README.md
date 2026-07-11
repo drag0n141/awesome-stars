@@ -1081,7 +1081,7 @@
 - [nitred/nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
-- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Free, on-device 3D print failure detection. Runs in your browser with zero install, or as a Docker hub on a Pi. Open-source, no cloud, no subscription.
+- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Free, on-device 3D‑print failure detection that pauses the printer and pushes a snapshot alert. Runs install‑free in your browser, as a Docker hub, or a native macOS/Windows app. Open‑source, no cloud
 - [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -1554,7 +1554,7 @@
 - [dietrichmax/colota](https://github.com/dietrichmax/colota) - Colota - Android GPS Location tracker
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - File processing for privacy-focussed use. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, airgap ready. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing infrastructure. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never l
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
