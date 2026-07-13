@@ -125,7 +125,7 @@
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
@@ -590,7 +590,6 @@
 
 ## HCL 
 
-- [dsluo/homelab](https://github.com/dsluo/homelab) - the kubernetes part of my homelab
 - [Jdavid77/home-cluster](https://github.com/Jdavid77/home-cluster) - Home-Ops using Talos, Flux and Renovate
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
 - [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Talos
@@ -607,7 +606,6 @@
 
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scenario where you 
-- [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -1074,6 +1072,7 @@
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
 - [p0l0/hagruenbeck_cloud](https://github.com/p0l0/hagruenbeck_cloud) - Home Assistant integration for Grünbeck Cloud based Water softeners
+- [jma1ice/newsletterr](https://github.com/jma1ice/newsletterr) - newsletterr is an email tool for server admins. Reach your users with Tautulli information and recommendations from conjurr
 - [yungsnuzzy/conjurr](https://github.com/yungsnuzzy/conjurr) - Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next.
 - [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [dirkjanm/krbrelayx](https://github.com/dirkjanm/krbrelayx) - Kerberos relaying and unconstrained delegation abuse toolkit
@@ -1364,6 +1363,7 @@
 
 ## Shell 
 
+- [dsluo/homelab](https://github.com/dsluo/homelab) - the kubernetes part of my homelab
 - [Ferdinand99/home-assistant-newt-addon](https://github.com/Ferdinand99/home-assistant-newt-addon) - A Home Assistant add-on to run the Newt container seamlessly. Easily configure PANGOLIN_ENDPOINT, NEWT_ID, and NEWT_SECRET via the Home Assistant UI. Supports automatic startup and restart.
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
