@@ -383,7 +383,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [mirceanton/kubectl-switch](https://github.com/mirceanton/kubectl-switch) - A simple tool to help manage multiple kubeconfig files
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [fastlorenzo/kopia-operator](https://github.com/fastlorenzo/kopia-operator) - 
@@ -687,7 +687,6 @@
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
 - [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again!
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card) - This lovelace card for Home Assistant displays the Octopus Energy rate prices per each 30 minute slot
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
@@ -1026,7 +1025,7 @@
 
 - [eXPerience83/DKNCloud-HASS](https://github.com/eXPerience83/DKNCloud-HASS) - Airzone Cloud Daikin plugin for Home Assistant
 - [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [hvorragend/ha-blueprints](https://github.com/hvorragend/ha-blueprints) - Cover Control Automation is a comprehensive Home Assistant blueprint that automatically manages window coverings (roller shutters, blinds, awnings) based on time, sun position, weather conditions, and
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
@@ -1612,6 +1611,7 @@
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [dh1011/subscription-manager](https://github.com/dh1011/subscription-manager) - A simple web app to help you keep track of your subscriptions and manage your expenses.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
