@@ -2302,6 +2302,7 @@
 
 ## others 
 
+- [home-operations/helm-charts](https://github.com/home-operations/helm-charts) - Helm charts for applications that need special handling and have no official upstream chart
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [ElementZoom/Flux-UI-Home-Assistant-Dashboard](https://github.com/ElementZoom/Flux-UI-Home-Assistant-Dashboard) - A unified YAML-powered dashboard for weather, automation, security, climate, and environmental monitoring.
