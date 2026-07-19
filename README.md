@@ -1732,6 +1732,7 @@
 
 ## YAML 
 
+- [home-operations/helm-charts](https://github.com/home-operations/helm-charts) - Helm charts for applications that need special handling and have no official upstream chart
 - [vrozaksen/home-ops](https://github.com/vrozaksen/home-ops) - Another Kubernetes repo — because one more won’t hurt.
 - [eleboucher/homelab](https://github.com/eleboucher/homelab) - My Talos + Flux GitOps homelab cluster running media, automation, and observability stacks. Mirror from https://git.erwanleboucher.dev/eleboucher/homelab
 - [m00nwtchr/homelab-cluster](https://github.com/m00nwtchr/homelab-cluster) - Mirror of https://git.m00nlit.dev/m00n/homelab-cluster
