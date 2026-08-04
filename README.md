@@ -320,6 +320,7 @@
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally.
 - [ahrtr/etcd-defrag](https://github.com/ahrtr/etcd-defrag) - An easier to use and smarter etcd defragmentation tool
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [siderolabs/booter](https://github.com/siderolabs/booter) - A tool to easily boot Talos machines using PXE
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
@@ -672,7 +673,6 @@
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Rdiger-36/bambulab-ams-spoolman-filamentstatus](https://github.com/Rdiger-36/bambulab-ams-spoolman-filamentstatus) - This project integrates a Bambulab AMS system with Spoolman to synchronize filament spool usage. It listens for MQTT updates from the printer and manages spools on Spoolman.
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [aFFekopp/noctis](https://github.com/aFFekopp/noctis) - 🐵 Dark Blue Theme for Home Assistant
