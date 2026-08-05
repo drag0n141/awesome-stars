@@ -3346,7 +3346,7 @@
 - [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
-- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire printe farm.
+- [maziggy/bambuddy](https://github.com/maziggy/bambuddy) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
