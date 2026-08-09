@@ -1055,7 +1055,7 @@
 - [mdmatthias/Gameyfin-Desktop](https://github.com/mdmatthias/Gameyfin-Desktop) - Gameyfin Desktop app with tray icon
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
 - [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio, Kodi and more. Keep your movies and shows in sync, no matter where you watch.
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [JonBunator/Enterr](https://github.com/JonBunator/Enterr) - Tool that automates website logins to prevent account deletion due to inactivity.
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
@@ -1211,7 +1211,7 @@
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [caronc/nzb-notify](https://github.com/caronc/nzb-notify) - Push Notifications to a large number of supported services for NZBGet and SABnzbd (based on Apprise)
 - [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [ihabunek/twitch-dl](https://github.com/ihabunek/twitch-dl) - CLI tool for downloading videos from Twitch.
@@ -1591,7 +1591,7 @@
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
