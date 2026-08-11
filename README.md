@@ -640,6 +640,7 @@
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
+- [heavybullets8/heavy-ops](https://github.com/heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [Aelysium-Group/rustyconnector-minecraft](https://github.com/Aelysium-Group/rustyconnector-minecraft) - A player and server connection manager for Velocity based Minecraft Networks!
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
@@ -897,7 +898,6 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [Kometa-Team/Default-Images](https://github.com/Kometa-Team/Default-Images) - Images for Kometa default collections
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1190,6 +1190,7 @@
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [AlexRabbit/ADios](https://github.com/AlexRabbit/ADios) - ADBlocker - Block ADS on Twitch, Spotify and EVERYWHERE via the HOST File, PI-Hole, Adblocker Add-on, DNSMasq, Response Policy Zone and Adguard Services.  - ADios ADS !
 - [mannkind/borg-rclone-autobackup](https://github.com/mannkind/borg-rclone-autobackup) - Easily automate backups using Borg + RClone
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -1367,7 +1368,6 @@
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [heavybullets8/heavy-ops](https://github.com/heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
 - [thaum-xyz/ankhmorpork](https://github.com/thaum-xyz/ankhmorpork) - @paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:
 - [unifi-utilities/unifi-common](https://github.com/unifi-utilities/unifi-common) - UniFi Common - on_boot.d
