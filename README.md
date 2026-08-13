@@ -197,7 +197,7 @@
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [JoveToo/Marlin-Sovol](https://github.com/JoveToo/Marlin-Sovol) - Marlin builds for Sovol Printers, SV01 and SV03.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [gyf304/lpvpn](https://github.com/gyf304/lpvpn) - LAN Party VPN - Run VPN on top of Discord. No installation required.
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi
@@ -854,6 +854,7 @@
 
 ## Others 
 
+- [wgumaa/Adaptive-Cover-Controller](https://github.com/wgumaa/Adaptive-Cover-Controller) - An adaptive Home Assistant blueprint for intelligent sun protection of curtains, blinds and shutters using sun position, schedules, occupancy and optional weather conditions.
 - [ElementZoom/Flux-UI-Home-Assistant-Dashboard](https://github.com/ElementZoom/Flux-UI-Home-Assistant-Dashboard) - A unified YAML-powered dashboard for weather, automation, security, climate, and environmental monitoring.
 - [derFrisson/plezy-apks](https://github.com/derFrisson/plezy-apks) - Standalone .apk files automatically extracted from edde746/plezy releases — ready to install or use with Obtainium.
 - [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
@@ -1010,7 +1011,7 @@
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [jamesstringer90/Easy-GPU-PV](https://github.com/jamesstringer90/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 
 ## Python 
 
