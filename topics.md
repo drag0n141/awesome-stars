@@ -373,6 +373,7 @@
 
 ## automation 
 
+- [wgumaa/Adaptive-Cover-Controller](https://github.com/wgumaa/Adaptive-Cover-Controller) - An adaptive Home Assistant blueprint for intelligent sun protection of curtains, blinds and shutters using sun position, schedules, occupancy and optional weather conditions.
 - [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - Self-hosted backup automation for databases and files. Supports MySQL, PostgreSQL, MongoDB, MSSQL, Redis, Valkey, MariaDB, SQLite & Firebird, plus full directory backups with incremental snapshots. En
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Guardian is a lightweight companion app for Plex that lets you monitor, approve or block devices in real time. It helps you enforce per-user or global policies, stop unwanted sessions automatically an
 - [netboxlabs/diode](https://github.com/netboxlabs/diode) - Diode data model and ingestion services for NetBox, from NetBox Labs
@@ -524,7 +525,7 @@
 ## c-plus-plus 
 
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
 ## c-sharp 
@@ -1376,7 +1377,7 @@
 - [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI) - WiGui is a tool to search, select and install Apps at once with Winget package manager
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
 - [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) - Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 
@@ -1507,6 +1508,7 @@
 
 ## home-assistant 
 
+- [wgumaa/Adaptive-Cover-Controller](https://github.com/wgumaa/Adaptive-Cover-Controller) - An adaptive Home Assistant blueprint for intelligent sun protection of curtains, blinds and shutters using sun position, schedules, occupancy and optional weather conditions.
 - [eXPerience83/DKNCloud-HASS](https://github.com/eXPerience83/DKNCloud-HASS) - Airzone Cloud Daikin plugin for Home Assistant
 - [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
 - [saihgupr/frigate-events-card](https://github.com/saihgupr/frigate-events-card) - A simple Lovelace card for displaying recent Frigate detection events in a horizontal gallery
@@ -2306,7 +2308,6 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [home-operations/helm-charts](https://github.com/home-operations/helm-charts) - Helm charts for applications that need special handling and have no official upstream chart
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [ElementZoom/Flux-UI-Home-Assistant-Dashboard](https://github.com/ElementZoom/Flux-UI-Home-Assistant-Dashboard) - A unified YAML-powered dashboard for weather, automation, security, climate, and environmental monitoring.
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform.
@@ -2986,7 +2987,7 @@
 - [ninthwalker/saverr](https://github.com/ninthwalker/saverr) - Download and save media from Plex Servers
 - [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## privacy 
@@ -3238,6 +3239,7 @@
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [vv9k/dockeye](https://github.com/vv9k/dockeye) - GUI app for managing Docker/Podman
@@ -3328,6 +3330,7 @@
 ## self-hosted 
 
 - [ARAS-Workspace/phantom-wg](https://github.com/ARAS-Workspace/phantom-wg) - Phantom-WG is a modular tool for setting up and managing WireGuard VPN infrastructure on your own server. Beyond basic VPN management, it provides censorship-resistant connections, multi-layer encrypt
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [Lillifee/findarr](https://github.com/Lillifee/findarr) - Self-hosted discovery engine for movies and TV that learns your taste and avoids showing already rated content
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [dietrichmax/colota-forwarder](https://github.com/dietrichmax/colota-forwarder) - Multi-target forwarder for the Colota app. Fans location updates out to Home Assistant, Dawarich, Traccar, Reitti, and friends.
@@ -3700,7 +3703,7 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
@@ -3863,7 +3866,7 @@
 - [williamjohnstone/AutoRclone-Rewrite](https://github.com/williamjohnstone/AutoRclone-Rewrite) - Rewrite of https://github.com/xyou365/AutoRclone
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
