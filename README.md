@@ -267,7 +267,7 @@
 - [Caedis/plex-auto-skip-intro](https://github.com/Caedis/plex-auto-skip-intro) - A simple docker mod to auto press the skip intro button
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
 - [linuxserver/docker-emulatorjs](https://github.com/linuxserver/docker-emulatorjs) - Web based retro emulation frontend with rom scanning and automated art ingestion.
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image
 - [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image
 - [nfrastack/container-freescout](https://github.com/nfrastack/container-freescout) - Containerized web based help desk and shared inbox
@@ -1555,7 +1555,7 @@
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [addev808/F1ReplayTiming](https://github.com/addev808/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
+- [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
