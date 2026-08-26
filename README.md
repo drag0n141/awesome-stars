@@ -638,6 +638,7 @@
 
 ## Java 
 
+- [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 - [RapierXbox/ShellyElevate](https://github.com/RapierXbox/ShellyElevate) - Software needed to run Home Assistant on the Shelly Wall Display while still keeping all the functions.
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
@@ -670,6 +671,7 @@
 
 ## JavaScript 
 
+- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
 - [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
 - [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
@@ -1057,7 +1059,7 @@
 - [soggy8/musikat](https://github.com/soggy8/musikat) - 🎵 Search Spotify and download music from YouTube to your Navidrome server with automatic metadata tagging
 - [mdmatthias/Gameyfin-Desktop](https://github.com/mdmatthias/Gameyfin-Desktop) - Gameyfin Desktop app with tray icon
 - [Gururagavendra/gmail-cleaner](https://github.com/Gururagavendra/gmail-cleaner) - web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like
-- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
+- [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - NOW MANAGED ON CODEBERG
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch) - Synchronize your data across media servers, media agents and trackers. Keep your movies and shows in sync, no matter where you watch.
 - [JonBunator/Enterr](https://github.com/JonBunator/Enterr) - Tool that automates website logins to prevent account deletion due to inactivity.
 - [bogus-me/m.a.r.i](https://github.com/bogus-me/m.a.r.i) - M.A.R.I. – Metadata Auto Refresh Interface for Plex. Smart. Silent. Always fresh.
@@ -1146,7 +1148,7 @@
 - [AndrewPaglusch/Plex-Duplicate-Stream-Killer](https://github.com/AndrewPaglusch/Plex-Duplicate-Stream-Killer) - Automatically ban users who share their Plex account with others (PlexPass Only)
 - [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
+- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [mikenye/docker-striparr](https://github.com/mikenye/docker-striparr) - Strips metadata from files downloaded by Sonarr and Radarr. Triggered via WebHook.
 - [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!
 - [ekutner/kopia-mon](https://github.com/ekutner/kopia-mon) - Status monitoring and reporting for kopia backup
