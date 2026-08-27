@@ -449,6 +449,7 @@
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [Zibbp/ganymede](https://github.com/Zibbp/ganymede) - Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [kn100/telescan](https://github.com/kn100/telescan) - Use your scanner from Telegram
@@ -704,7 +705,6 @@
 - [rudoyeugene/NXEnhanced](https://github.com/rudoyeugene/NXEnhanced) - Adds "quality-of-life" features to NextDNS website for a more practical usability
 - [dashroshan/openvpn-wireguard-admin](https://github.com/dashroshan/openvpn-wireguard-admin) - 🔐 Install OpenVPN or WireGuard with a web admin panel using just a single line of command
 - [MRAJEKO/UF1-Viewer-with-F1MV](https://github.com/MRAJEKO/UF1-Viewer-with-F1MV) - 
-- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [KaiStarkk/wumps](https://github.com/KaiStarkk/wumps) - 
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -1021,6 +1021,7 @@
 
 ## Python 
 
+- [MaStr/batcontrol](https://github.com/MaStr/batcontrol) - Helps to control your battery to get an advantage with dynamic grid pricing
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
 - [ARAS-Workspace/phantom-wg](https://github.com/ARAS-Workspace/phantom-wg) - Phantom-WG is a modular tool for setting up and managing WireGuard VPN infrastructure on your own server. Beyond basic VPN management, it provides censorship-resistant connections, multi-layer encrypt
 - [eXPerience83/DKNCloud-HASS](https://github.com/eXPerience83/DKNCloud-HASS) - Airzone Cloud Daikin plugin for Home Assistant
@@ -1364,6 +1365,7 @@
 
 ## Shell 
 
+- [lemker/unifi-os-server](https://github.com/lemker/unifi-os-server) - Run UniFi OS Server in Docker or Kubernetes
 - [dsluo/homelab](https://github.com/dsluo/homelab) - the kubernetes part of my homelab
 - [Ferdinand99/home-assistant-newt-addon](https://github.com/Ferdinand99/home-assistant-newt-addon) - A Home Assistant add-on to run the Newt container seamlessly. Easily configure PANGOLIN_ENDPOINT, NEWT_ID, and NEWT_SECRET via the Home Assistant UI. Supports automatic startup and restart.
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
@@ -1616,7 +1618,7 @@
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [dh1011/subscription-manager](https://github.com/dh1011/subscription-manager) - A simple web app to help you keep track of your subscriptions and manage your expenses.
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
 - [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
