@@ -807,6 +807,7 @@
 
 ## Kotlin 
 
+- [lyssadev/Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
 - [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
