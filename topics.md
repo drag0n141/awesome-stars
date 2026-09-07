@@ -1057,7 +1057,6 @@
 
 ## electron 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -2400,7 +2399,7 @@
 - [ricardoquecria/caule-themes-pack-1](https://github.com/ricardoquecria/caule-themes-pack-1) - 10 modern colors  |  4 categories of styles (Black Glass, Black, Dark, Light)  |  40 themes in total  |  Animated icons for the weather forecast card  |  And a bonus automatic theme selector for your 
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [pucodev/ulauncher-homepage](https://github.com/pucodev/ulauncher-homepage) - Unofficial Ulauncher Homepage extension
-- [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
+- [kipsilabs/altmount](https://github.com/kipsilabs/altmount) - usenet virtual fs
 - [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link) - Link-based access control for Immich, NextCloud and Paperless. After verifying a URL "knock" on a share link, Sneak Link issues a cookie that grants access to a protected service. No IP whitelisting r
 - [agregarr/agregarr](https://github.com/agregarr/agregarr) - Agregarr is a Plex Collections manager that keeps your Home and Recommended fresh by frequently updating it with collections from various sources
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box
