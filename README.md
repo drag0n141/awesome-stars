@@ -329,7 +329,7 @@
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
 - [sentriz/wrtag](https://github.com/sentriz/wrtag) - fast automated music tagging and organisation based on MusicBrainz
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
-- [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs
+- [kipsilabs/altmount](https://github.com/kipsilabs/altmount) - usenet virtual fs
 - [felixandersen/sneak-link](https://github.com/felixandersen/sneak-link) - Link-based access control for Immich, NextCloud and Paperless. After verifying a URL "knock" on a share link, Sneak Link issues a cookie that grants access to a protected service. No IP whitelisting r
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
