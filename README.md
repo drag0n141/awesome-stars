@@ -610,6 +610,7 @@
 
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scenario where you 
+- [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -754,7 +755,7 @@
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [statsig-io/statuspage](https://github.com/statsig-io/statuspage) - A simple, zero-dependency, pure js/html status page based on GitHub Pages and Actions.
 - [Makeshift/nginx-retry-proxy](https://github.com/Makeshift/nginx-retry-proxy) - A customisable backup proxy server that helps Nginx retry connections to upstreams.
-- [Mika-/torrent-control](https://github.com/Mika-/torrent-control) - Firefox extension for adding torrents to remote clients.
+- [mika-si/torrent-control](https://github.com/mika-si/torrent-control) - Firefox extension for adding torrents to remote clients.
 - [leoherzog/TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑 A website to inspect and edit what's in your Torrent file or Magnet link
 - [stoatchat/self-hosted](https://github.com/stoatchat/self-hosted) - Deploy Stoat on your own infrastructure!
 - [FauxTuner/faux-tuner](https://github.com/FauxTuner/faux-tuner) - A virtual tuner card and EPG guide for online live TV sources like PlutoTV and Locast. Designed to work with Plex Media Server's Live TV / DVR feature.
@@ -880,7 +881,6 @@
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - A powerful WireGuard client for Windows with advanced split tunneling and an intuitive, user-friendly interface.
 - [gravelfreeman/royalts-catppuccin](https://github.com/gravelfreeman/royalts-catppuccin) - 🖥️ Soothing pastel theme for Royal TS
 - [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
-- [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [MicaApps/Tempest](https://github.com/MicaApps/Tempest) - 
