@@ -305,6 +305,8 @@
 
 ## Go 
 
+- [ishioni/dexd](https://github.com/ishioni/dexd) - external-dns but for docker!
+- [Noooste/garage-ui](https://github.com/Noooste/garage-ui) - Garage Admin UI with OIDC and team access control
 - [clyso/chorus](https://github.com/clyso/chorus) - s3 multi provider data lifecycle management
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
