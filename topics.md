@@ -810,6 +810,8 @@
 
 ## docker 
 
+- [ishioni/dexd](https://github.com/ishioni/dexd) - external-dns but for docker!
+- [Noooste/garage-ui](https://github.com/Noooste/garage-ui) - Garage Admin UI with OIDC and team access control
 - [Disane87/scrape-dojo](https://github.com/Disane87/scrape-dojo) - 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
@@ -3715,6 +3717,7 @@
 
 ## ui 
 
+- [Noooste/garage-ui](https://github.com/Noooste/garage-ui) - Garage Admin UI with OIDC and team access control
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [home-operations/external-dns-unifi-webhook](https://github.com/home-operations/external-dns-unifi-webhook) - External-DNS Webhook to manage UniFi DNS Records
 - [whyvra/tunnel](https://github.com/whyvra/tunnel) - The secure manager for your WireGuard clients
