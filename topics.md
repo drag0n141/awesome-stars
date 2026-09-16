@@ -1515,6 +1515,7 @@
 
 ## home-assistant 
 
+- [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for ESPHome and Home Assistant - local SIP phones, HA softphone/router, phonebook, softphone accounts and optional trunk calls
 - [UHaFnir/m3-cards](https://github.com/UHaFnir/m3-cards) - Material 3–inspired Lovelace cards for Home Assistant — 38 cards, built natively with Lit, no button-card/card-mod dependency
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus and Zendure batteries in Home Assistant.
