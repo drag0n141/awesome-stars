@@ -239,6 +239,7 @@
 
 ## Dart 
 
+- [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 - [Nandanrmenon/nahcon](https://github.com/Nandanrmenon/nahcon) - Jellyfin Client for watching Movies and TV Shows (Made with Flutter 💙)
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
@@ -597,9 +598,10 @@
 
 ## HCL 
 
+- [dsluo/homelab](https://github.com/dsluo/homelab) - the kubernetes part of my homelab
 - [Jdavid77/home-cluster](https://github.com/Jdavid77/home-cluster) - Home-Ops using Talos, Flux and Renovate
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
-- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K3s cluster driven by Talos
+- [Alexsaphir/Talos-Flux](https://github.com/Alexsaphir/Talos-Flux) - K8s cluster driven by Talos
 - [timtorChen/homelab](https://github.com/timtorChen/homelab) - 🏡 My homelab
 - [cbc02009/k8s-home-ops](https://github.com/cbc02009/k8s-home-ops) - 
 - [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
@@ -657,7 +659,6 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel) - Third party/community managed controller software for the PCPanel (getpcpanel.com) devices.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -1026,6 +1027,9 @@
 
 ## Python 
 
+- [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
+- [jxlarrea/voice-satellite-card-llm-tools](https://github.com/jxlarrea/voice-satellite-card-llm-tools) - LLM tools for Home Assistant that extends Voice Satellite with weather, financial, image and video search capabilities. Provides tools that conversation agents (OpenAI, Google Generative AI, Anthropic
+- [skye-harris/hass_local_openai_llm](https://github.com/skye-harris/hass_local_openai_llm) - Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)
 - [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for ESPHome and Home Assistant - local SIP phones, HA softphone/router, phonebook, softphone accounts and optional trunk calls
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 36 free threat feeds
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
@@ -1057,6 +1061,7 @@
 - [cloin/semaphore-mcp](https://github.com/cloin/semaphore-mcp) - MCP for SemaphoreUI
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
 - [Pukabyte/autosync](https://github.com/Pukabyte/autosync) - Autoscan meets Syncarr.
 - [daya0576/nightwatcher](https://github.com/daya0576/nightwatcher) - Web-based IP camera viewer for fast, simple streaming in any browser 🦇
@@ -1089,7 +1094,7 @@
 - [nitred/nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [ajb3932/immich-partner-sharing](https://github.com/ajb3932/immich-partner-sharing) - 
-- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Catches failed 3D prints on your own hardware, pauses the printer and sends you a snapshot alert. Runs in your browser with nothing to install, in Docker, or as a macOS or Windows app. Free and open s
+- [oliverbravery/PrintGuard](https://github.com/oliverbravery/PrintGuard) - Catches failed 3D prints on your own hardware, pauses the printer and sends you a snapshot alert. Runs in Docker, or as a macOS or Windows app. Free and open source, and no frame ever leaves your netw
 - [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -1380,7 +1385,6 @@
 ## Shell 
 
 - [lemker/unifi-os-server](https://github.com/lemker/unifi-os-server) - Run UniFi OS Server in Docker or Kubernetes
-- [dsluo/homelab](https://github.com/dsluo/homelab) - the kubernetes part of my homelab
 - [Ferdinand99/home-assistant-newt-addon](https://github.com/Ferdinand99/home-assistant-newt-addon) - A Home Assistant add-on to run the Newt container seamlessly. Easily configure PANGOLIN_ENDPOINT, NEWT_ID, and NEWT_SECRET via the Home Assistant UI. Supports automatic startup and restart.
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
@@ -1579,7 +1583,6 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server.
@@ -1679,6 +1682,7 @@
 - [bacher09/pwgen-for-bios](https://github.com/bacher09/pwgen-for-bios) - Password generator for BIOS
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [MrBrax/LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - An automatic livestream recorder
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [Ealenn/AdGuard-Home-List](https://github.com/Ealenn/AdGuard-Home-List) - Varied and carefully selected filter lists and consolidates for use in AdGuard Home.
