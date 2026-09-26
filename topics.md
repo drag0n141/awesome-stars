@@ -256,7 +256,7 @@
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -847,7 +847,7 @@
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
 - [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scenario where you 
@@ -1224,7 +1224,7 @@
 - [clyso/chorus](https://github.com/clyso/chorus) - s3 multi provider data lifecycle management
 - [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [rfwatson/octoplex](https://github.com/rfwatson/octoplex) - 🐙 Octoplex is a Docker-native live video restreamer.
 - [fosrl/gerbil](https://github.com/fosrl/gerbil) - A simple WireGuard interface management server for Pangolin
@@ -1795,7 +1795,7 @@
 - [m00nwtchr/homelab-cluster](https://github.com/m00nwtchr/homelab-cluster) - Mirror of https://git.m00nlit.dev/m00n/homelab-cluster
 - [lucas-dclrcq/homelabitty](https://github.com/lucas-dclrcq/homelabitty) - 
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastru
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -2152,7 +2152,7 @@
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Access-control layer for Plex Media Server. Approve or block devices, enforce per-user schedules and IP rules, cap concurrent streams, and stop sessions that break the rules.
 - [0xfurai/peekaping](https://github.com/0xfurai/peekaping) - Open Source Uptime Kuma Alternative
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [jacksgt/alert-operator](https://github.com/jacksgt/alert-operator) - The missing piece for the kube-prometheus stack: manage Alerts and Silences from Kubernetes
@@ -2528,7 +2528,7 @@
 - [unifi-utilities/unifi-common](https://github.com/unifi-utilities/unifi-common) - UniFi Common - on_boot.d
 - [rabbit-aaron/paperless-smtp](https://github.com/rabbit-aaron/paperless-smtp) - 
 - [Jdavid77/home-cluster](https://github.com/Jdavid77/home-cluster) - Home-Ops using Talos, Flux and Renovate
-- [mbuesch/letmein](https://github.com/mbuesch/letmein) - Authenticated port/firewall knocking - In Rust
+- [mbuesch/letmein](https://github.com/mbuesch/letmein) - Authenticated port/firewall knocking - Safe Rust
 - [autobrr/omegabrr](https://github.com/autobrr/omegabrr) - Omegabrr transforms monitored shows, movies, books and music from arrs into autobrr filters. It also supports adding titles from custom lists to autobrr filters.
 - [henrywhitaker3/homelab](https://github.com/henrywhitaker3/homelab) - 
 - [henrywhitaker3/crunchy-users](https://github.com/henrywhitaker3/crunchy-users) - 
@@ -3269,6 +3269,7 @@
 
 ## rust 
 
+- [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
@@ -3426,7 +3427,7 @@
 - [joryirving/home-ops](https://github.com/joryirving/home-ops) - Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
@@ -3714,7 +3715,7 @@
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
 - [HydroshieldMKII/Guardian](https://github.com/HydroshieldMKII/Guardian) - Access-control layer for Plex Media Server. Approve or block devices, enforce per-user schedules and IP rules, cap concurrent streams, and stop sessions that break the rules.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
