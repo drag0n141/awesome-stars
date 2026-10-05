@@ -1025,7 +1025,7 @@
 - [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
 - [jxlarrea/voice-satellite-card-llm-tools](https://github.com/jxlarrea/voice-satellite-card-llm-tools) - LLM tools for Home Assistant that extends Voice Satellite with weather, financial, image and video search capabilities. Provides tools that conversation agents (OpenAI, Google Generative AI, Anthropic
 - [skye-harris/hass_local_openai_llm](https://github.com/skye-harris/hass_local_openai_llm) - Home Assistant LLM integration for local OpenAI-compatible services (llamacpp, vllm, etc)
-- [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for ESPHome and Home Assistant - local SIP phones, HA softphone/router, phonebook, softphone accounts and optional trunk calls
+- [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations.
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 32 free threat feeds
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
 - [ViperRNMC/marstek_venus_modbus](https://github.com/ViperRNMC/marstek_venus_modbus) - 
@@ -1110,7 +1110,6 @@
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
-- [heavybullets8/heavy-ops](https://github.com/heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [kennymc-c/ucr2-integration-requests](https://github.com/kennymc-c/ucr2-integration-requests) - A network multi tool integration for Unfolded Circle remote devices
 - [waveform80/tvrip](https://github.com/waveform80/tvrip) - A HandBrake wrapper which eases conversion of TV series
 - [a1ex4/ownfoil](https://github.com/a1ex4/ownfoil) - Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.
@@ -1395,6 +1394,7 @@
 - [markusressel/zfs-inplace-rebalancing](https://github.com/markusressel/zfs-inplace-rebalancing) - Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.
 - [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+- [heavybullets8/heavy-ops](https://github.com/heavybullets8/heavy-ops) - Home operations repository for a single-node Kubernetes cluster on Talos Linux, managed with Flux, SOPS, and GitHub Actions.
 - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS
 - [unifi-utilities/unifi-common](https://github.com/unifi-utilities/unifi-common) - UniFi Common - on_boot.d
 - [peacey/split-vpn](https://github.com/peacey/split-vpn) - A split tunnel VPN script for Unifi OS routers (UDM, UXG, UDR) with policy based routing.
@@ -1539,7 +1539,6 @@
 
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [discohaus/discopanel](https://github.com/discohaus/discopanel) - A lightweight modded minecraft server hosting suite and management web app.
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [ofkm/svelocker-ui](https://github.com/ofkm/svelocker-ui) - A Simple and Modern Docker Registry UI built with Typescript, and SvelteKit
 - [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
@@ -1610,6 +1609,7 @@
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
 - [autobrr/netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React.
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [jamcalli/Pulsarr](https://github.com/jamcalli/Pulsarr) - Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance supp
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
