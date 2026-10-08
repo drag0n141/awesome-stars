@@ -824,6 +824,7 @@
 
 ## docker 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 32 free threat feeds
 - [ishioni/dexd](https://github.com/ishioni/dexd) - external-dns but for docker!
 - [Noooste/garage-ui](https://github.com/Noooste/garage-ui) - Garage Admin UI with OIDC and team access control
@@ -848,7 +849,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
 - [Sloth-on-meth/DoorOpener](https://github.com/Sloth-on-meth/DoorOpener) - A sleek web portal for triggering any Home Assistant action (like opening a building door), protected by secure PIN authentication. Perfect for apartment buildings, offices, or any scenario where you 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1188,6 +1189,7 @@
 
 ## games 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [herrherrmann/awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) - :joystick: Awesome games for local multiplayer sessions or LAN parties.
@@ -1288,6 +1290,7 @@
 
 ## golang 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [obbyworld/obby](https://github.com/obbyworld/obby) - Modern IRC Client for the web, desktop and mobile.
@@ -1415,7 +1418,6 @@
 
 - [nextcloud/user_oidc](https://github.com/nextcloud/user_oidc) - OIDC connect user backend for Nextcloud
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
-- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
@@ -1786,6 +1788,7 @@
 
 ## kubernetes 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [vrozaksen/home-ops](https://github.com/vrozaksen/home-ops) - Another Kubernetes repo — because one more won’t hurt.
@@ -2139,6 +2142,7 @@
 
 ## minecraft 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [Aelysium-Group/rustyconnector-minecraft](https://github.com/Aelysium-Group/rustyconnector-minecraft) - A player and server connection manager for Velocity based Minecraft Networks!
 - [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
@@ -3204,6 +3208,7 @@
 
 ## react 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [donetick/donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -3396,6 +3401,7 @@
 
 ## self-hosted 
 
+- [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [jez500/pricebuddy](https://github.com/jez500/pricebuddy) - A self hostable app that tracks prices and sends you notifications when prices match your preferences
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted, privacy-first location timeline platform: an open-source alternative to Google Timeline with automatic trip detection, Immich integration, and rich analytics.
@@ -3434,7 +3440,7 @@
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple.
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
@@ -3674,7 +3680,7 @@
 
 ## terminal 
 
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
