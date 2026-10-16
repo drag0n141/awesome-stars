@@ -1533,6 +1533,7 @@
 
 ## home-assistant 
 
+- [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [gibz104/SpoolmanSync](https://github.com/gibz104/SpoolmanSync) - Automatic filament tracking for Bambu Lab printers with Spoolman via Home Assistant. Web UI for spool assignment, QR scanning, and usage tracking. Bundled HA option w/ no YAML required!
 - [Trooped/QuickBars](https://github.com/Trooped/QuickBars) - The Official QuickBars for Home Assistant Repository
 - [Mincka/spotcast](https://github.com/Mincka/spotcast) - Maintained fork. Start and transfer Spotify playback on idle Chromecast and Connect devices, on top of the official Home Assistant Spotify integration.
@@ -2034,7 +2035,7 @@
 ## llm 
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -2119,7 +2120,7 @@
 
 ## mcp 
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
@@ -2361,6 +2362,7 @@
 
 ## others 
 
+- [artistro08/MagicBuds](https://github.com/artistro08/MagicBuds) - A Windows 11 tray app that controls Pixel Buds Pro 2 from a native WinUI flyout.
 - [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB) - A centralized place to store information about 3D printing filaments and their manufacturers
 - [ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups) - 
 - [Yarasarda/bambu-spoolman-bridge](https://github.com/Yarasarda/bambu-spoolman-bridge) - Automatic third-party filament tracking bridge for Bambu Lab 3D printers and Spoolman (Local / Cloud-Safe)
