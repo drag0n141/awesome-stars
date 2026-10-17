@@ -86,7 +86,6 @@
 ## C 
 
 - [OpenKNX/OAM-WeatherWN90LP](https://github.com/OpenKNX/OAM-WeatherWN90LP) - OpenKNX Applikation Wetterstation WN90LP
-- [lyssadev/Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module) - AmneziaWG Linux kernel module
 - [SoftEtherVPN/SoftEtherVPN_Stable](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable) - Cross-platform multi-protocol VPN software. This repository is officially managed by Daiyuu Nobori, the founder of the project. Pull requests should be sent to the master repository at https://github.
@@ -118,6 +117,7 @@
 
 ## C# # 
 
+- [artistro08/MagicBuds](https://github.com/artistro08/MagicBuds) - A Windows 11 tray app that controls Pixel Buds Pro 2 from a native WinUI flyout.
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform.
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
@@ -657,7 +657,6 @@
 - [kvaster/iptv-proxy](https://github.com/kvaster/iptv-proxy) - Simple iptv restreamer
 - [AdoptOpenJDK/IcedTea-Web](https://github.com/AdoptOpenJDK/IcedTea-Web) - The new home for IcedTea-Web
 - [x0b/rcx](https://github.com/x0b/rcx) - Rclone for Android
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [paukiatwee/budgetapp](https://github.com/paukiatwee/budgetapp) - Open source personal budgeting application
 - [daneren2005/Subsonic](https://github.com/daneren2005/Subsonic) - Home of the DSub Android client fork
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -724,7 +723,6 @@
 - [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [joaomgcd/Tasker-Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [Fmstrat/plex-cluster](https://github.com/Fmstrat/plex-cluster) - Synchronizes the watched and timeline status between any number of Plex servers all using standard Plex APIs.
@@ -891,6 +889,7 @@
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - A text repo to feature-track WireGuard mesh software
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [bitgapp/Cursr](https://github.com/bitgapp/Cursr) - KVM - Share Mouse & Keyboard between multiple computers. Custom borders and more!
+- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
@@ -1020,6 +1019,7 @@
 
 ## Python 
 
+- [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB) - A centralized place to store information about 3D printing filaments and their manufacturers
 - [ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups) - 
 - [Yarasarda/bambu-spoolman-bridge](https://github.com/Yarasarda/bambu-spoolman-bridge) - Automatic third-party filament tracking bridge for Bambu Lab 3D printers and Spoolman (Local / Cloud-Safe)
@@ -1210,6 +1210,7 @@
 - [valknight/DoesTheDogWatchPlex](https://github.com/valknight/DoesTheDogWatchPlex) - DoesTheDogDie.com + Plex Integration
 - [speijnik/plex-watched-sync](https://github.com/speijnik/plex-watched-sync) - Simple tool to synchronize the watched status from one Plex server to another
 - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
@@ -1447,7 +1448,6 @@
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [DerDanilo/proxmox-stuff](https://github.com/DerDanilo/proxmox-stuff) - This is a collection of stuff that I wrote for Proxmox.
 - [razzius/fish-functions](https://github.com/razzius/fish-functions) - Useful fish functions
-- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and nginx
@@ -1581,7 +1581,7 @@
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
@@ -1718,6 +1718,7 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [rolandosborne/IndiView](https://github.com/rolandosborne/IndiView) - Take back control of your data with IndiView, an app for self-hosted digital identities on CoreDB nodes. Designed for Android and iOS, supports messaging and personalized content feeds.
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [ElonH/RcloneNg](https://github.com/ElonH/RcloneNg) - An angular web application for rclone
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1754,7 +1755,6 @@
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [GeorgeGedox/HomerGX](https://github.com/GeorgeGedox/HomerGX) - A custom fork of Homer, improved and with a new design.
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## YAML 
