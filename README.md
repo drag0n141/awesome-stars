@@ -8,6 +8,7 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -82,6 +83,10 @@
 - [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
+## Blade 
+
+- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
 
 ## C 
 
@@ -238,7 +243,7 @@
 ## Dart 
 
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
-- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
 - [Nandanrmenon/nahcon](https://github.com/Nandanrmenon/nahcon) - Jellyfin Client for watching Movies and TV Shows (Made with Flutter 💙)
 - [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager) - 💊 Application to use ReVanced on Android
 - [phantomate/Untare](https://github.com/phantomate/Untare) - Flutter app for tandoor recipes
@@ -312,7 +317,7 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - smart charging ☀️🚘
 - [alash3al/stash](https://github.com/alash3al/stash) - Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [freeformz/paperless-ngx-mcp](https://github.com/freeformz/paperless-ngx-mcp) - MCP server for Paperless-ngx document management
@@ -327,7 +332,7 @@
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [siderolabs/booter](https://github.com/siderolabs/booter) - A tool to easily boot Talos machines using PXE
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [home-operations/tuppr](https://github.com/home-operations/tuppr) - Kubernetes controller to upgrade Talos and Kubernetes
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
@@ -565,6 +570,7 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [fionera/TeamDriveManager](https://github.com/fionera/TeamDriveManager) - Rewrite of the PHP version. Harder, Better, Faster, Stronger
 - [l3uddz/mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite
@@ -613,6 +619,7 @@
 
 ## HTML 
 
+- [Sturmi77/heatpump-flow-card](https://github.com/Sturmi77/heatpump-flow-card) - Animated hydraulic schematic card for heat pumps in Home Assistant – power sources, diverter valve, tanks, heating circuit. Zero-config presets for Lambda, Viessmann, Vaillant, Bosch/Buderus (EMS-ESP)
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
@@ -976,8 +983,6 @@
 - [devfake/flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
 - [awesometic/docker-h5ai](https://github.com/awesometic/docker-h5ai) - Lightweight h5ai 0.30.0 container with Nginx 1.21 & PHP 8 based on Alpine Linux.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -1020,6 +1025,7 @@
 
 ## Python 
 
+- [holjab/AutoMorph](https://github.com/holjab/AutoMorph) - A self-hosted tool for automatically patching and distributing Android packages, built on Morphe Desktop.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB) - A centralized place to store information about 3D printing filaments and their manufacturers
 - [ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups) - 
@@ -1035,7 +1041,7 @@
 - [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus and Zendure batteries in Home Assistant.
 - [tomquist/AstraMeter](https://github.com/tomquist/AstraMeter) - This project emulates Smart Meter devices for Marstek storages such as the B2500, Marstek Jupiter and Marstek Venus energy storage system while allowing integration with almost any smart meters.
 - [MaStr/batcontrol](https://github.com/MaStr/batcontrol) - Helps to control your battery to get an advantage with dynamic grid pricing
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [ARAS-Workspace/phantom-wg](https://github.com/ARAS-Workspace/phantom-wg) - Phantom-WG is a modular tool for setting up and managing WireGuard VPN infrastructure on your own server. Beyond basic VPN management, it provides censorship-resistant connections, multi-layer encrypt
 - [eXPerience83/DKNCloud-HASS](https://github.com/eXPerience83/DKNCloud-HASS) - Airzone Cloud Daikin plugin for Home Assistant
 - [Adya84/ha-world-cup-2026](https://github.com/Adya84/ha-world-cup-2026) - ⚽ Home Assistant World Cup 2026 integration with live fixtures, results, standings, statistics, predictions and a ready-to-import dashboard.
@@ -1140,6 +1146,7 @@
 - [shenxn/ha-dyson](https://github.com/shenxn/ha-dyson) - HomeAssitant custom integration for dyson
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
+- [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [axeII/home-ops](https://github.com/axeII/home-ops) - A repository for HomeOps where I perform Infrastructure as Code (IaC) and GitOps practices.
 - [onedr0p/JBOPS](https://github.com/onedr0p/JBOPS) - Just a Bunch Of Plex Scripts
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
@@ -1415,7 +1422,6 @@
 - [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
 - [elfhosted/containers](https://github.com/elfhosted/containers) - 
 - [Stormcargo/k8s-gitops](https://github.com/Stormcargo/k8s-gitops) - Home kubernetes cluster managed with flux and ansible
-- [gucio1200/home-infra](https://github.com/gucio1200/home-infra) - 
 - [erenfro/homelab-flux](https://github.com/erenfro/homelab-flux) - Home Lab With Flux
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
