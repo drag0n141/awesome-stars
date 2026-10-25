@@ -619,7 +619,7 @@
 
 ## HTML 
 
-- [Sturmi77/heatpump-flow-card](https://github.com/Sturmi77/heatpump-flow-card) - Animated hydraulic schematic card for heat pumps in Home Assistant – power sources, diverter valve, tanks, heating circuit. Zero-config presets for Lambda, Viessmann, Vaillant, Bosch/Buderus (EMS-ESP)
+- [Sturmi77/heatpump-hydraulic-card](https://github.com/Sturmi77/heatpump-hydraulic-card) - Animated hydraulic schematic card for heat pumps in Home Assistant – power sources, diverter valve, tanks, heating circuit. Zero-config presets for Lambda, Viessmann, Vaillant, Bosch/Buderus (EMS-ESP)
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
