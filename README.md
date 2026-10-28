@@ -122,9 +122,11 @@
 
 ## C# # 
 
+- [knx-ai/knx-ets-mcp](https://github.com/knx-ai/knx-ets-mcp) - MCP Server for KNX ETS 5/6 via ETS Addin
 - [artistro08/MagicBuds](https://github.com/artistro08/MagicBuds) - A Windows 11 tray app that controls Pixel Buds Pro 2 from a native WinUI flyout.
 - [qooode/nzbdavex](https://github.com/qooode/nzbdavex) - 
 - [hass-agent/HASS.Agent](https://github.com/hass-agent/HASS.Agent) - Unofficial development project for the HASS.Agent platform.
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Listenarrs/Listenarr](https://github.com/Listenarrs/Listenarr) - Listenarr automates audiobook collection management similar to Sonarr or Radarr, but for audiobooks. It can search, download, and organize your library automatically using metadata from Audible and ot
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [GermanCoding/SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
@@ -644,6 +646,8 @@
 
 ## Java 
 
+- [jasonwu1994/Gboard-patches](https://github.com/jasonwu1994/Gboard-patches) - Morphe patches for Gboard with practical upgrades for global users and Taiwan-focused enhancements.
+- [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.
 - [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
@@ -675,6 +679,7 @@
 
 ## JavaScript 
 
+- [fscorrupt/wichtlag](https://github.com/fscorrupt/wichtlag) - Selbstgehostete Wichtel-App ohne E-Mail-Zwang. Rein linkbasiert, mit Admin-Geheimnis, Ausschlussregeln, Wunschzetteln und automatischem Löschen nach 14 Tagen.
 - [jayjojayson/power-flux-card](https://github.com/jayjojayson/power-flux-card) - ⚡ Power Flow Card - display your animated Power Flow in HA
 - [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
@@ -682,7 +687,6 @@
 - [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
 - [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
 - [JangaJones/pve-notebuddy](https://github.com/JangaJones/pve-notebuddy) - Generate pretty Proxmox Guest Notes with a simple web based UI
-- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Rdiger-36/HaspelSync](https://github.com/Rdiger-36/HaspelSync) - This project lets you track your filament consumption from your Bambu Lab printer in Spoolman very accurately (down to 0.1 g) and supports all spools from any manufacturer.
 - [saihgupr/HomeAssistantVersionControl](https://github.com/saihgupr/HomeAssistantVersionControl) - Automatic backup, history tracking, and instant restore for your Home Assistant configuration.
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
@@ -984,7 +988,7 @@
 - [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
-- [awesometic/docker-h5ai](https://github.com/awesometic/docker-h5ai) - Lightweight h5ai 0.30.0 container with Nginx 1.21 & PHP 8 based on Alpine Linux.
+- [awesometic/docker-h5ai](https://github.com/awesometic/docker-h5ai) - Lightweight Alpine-based h5ai container with Nginx, PHP-FPM, and multi-architecture support.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [rcmcdonald91/pfSense-pkg-WireGuard](https://github.com/rcmcdonald91/pfSense-pkg-WireGuard) - This is a port of the original WireGuard UI bits as implemented by Netgate in pfSense 2.5.0 to a package suitable for rapid iteration and more frequent updating on future releases of pfSense.
@@ -1025,6 +1029,7 @@
 
 ## Python 
 
+- [yashrajrocxx/Mophe-AutoBuilds](https://github.com/yashrajrocxx/Mophe-AutoBuilds) - Dedicated list of most daily used apps with custom patches with simple homepage to download
 - [holjab/AutoMorph](https://github.com/holjab/AutoMorph) - A self-hosted tool for automatically patching and distributing Android packages, built on Morphe Desktop.
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [Donkie/SpoolmanDB](https://github.com/Donkie/SpoolmanDB) - A centralized place to store information about 3D printing filaments and their manufacturers
@@ -1284,6 +1289,7 @@
 - [igv/FSRCNN-TensorFlow](https://github.com/igv/FSRCNN-TensorFlow) - An implementation of the Fast Super-Resolution Convolutional Neural Network in TensorFlow
 - [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+- [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1530,7 +1536,6 @@
 - [Makeshift/Marauder](https://github.com/Makeshift/Marauder) - A fully dockerized Media downloading solution utilising Google Drive as an unlimited disk backend
 - [TheRealAlexV/proxmox-vzbackup-rclone](https://github.com/TheRealAlexV/proxmox-vzbackup-rclone) - This is a vzbackup hook script that backups up your proxmox vm's, container's and pve config's to remote storage using proxmox's native vzbackup tool and rclone.
 - [methatronc/checker](https://github.com/methatronc/checker) - Receive notifications on your gotify/discord server when a running image is updated on the Docker registry.
-- [projetssd/ssdv2](https://github.com/projetssd/ssdv2) - Script Seedbox Docker - local ou rclone avec sécurité Oauth, Authelia, Cloudlfare, Radarr, Sonarr, Plex ....
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions
@@ -1583,7 +1588,7 @@
 - [dietrichmax/colota-forwarder](https://github.com/dietrichmax/colota-forwarder) - Multi-target forwarder for the Colota app. Fans location updates out to Home Assistant, Dawarich, Traccar, Reitti, and friends.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Skyfay/DBackup](https://github.com/Skyfay/DBackup) - Self-hosted backup automation for databases and files. Supports MySQL, PostgreSQL, MongoDB, MSSQL, Redis, Valkey, MariaDB, SQLite & Firebird, plus full directory backups with incremental snapshots. En
-- [saihgupr/frigate-events-card](https://github.com/saihgupr/frigate-events-card) - A simple Lovelace card for displaying recent Frigate detection events in a horizontal gallery
+- [saihgupr/frigate-events-card](https://github.com/saihgupr/frigate-events-card) - Lovelace card for Frigate with recent events, WebRTC live view, timeline playback, and temporary masks
 - [dietrichmax/colota](https://github.com/dietrichmax/colota) - Colota - Android GPS Location tracker
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
 - [2GT-Media-Group-LLC/mikrotik-manager](https://github.com/2GT-Media-Group-LLC/mikrotik-manager) - A self-hosted, full-stack network management platform for MikroTik devices. Monitor, configure, and manage your entire MikroTik infrastructure — routers, switches, and wireless access points — from a 
