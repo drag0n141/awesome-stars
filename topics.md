@@ -631,6 +631,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 
 ## cloud 
 
@@ -840,6 +841,7 @@
 
 ## docker 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [gibz104/SpoolmanSync](https://github.com/gibz104/SpoolmanSync) - Automatic filament tracking for Bambu Lab printers with Spoolman via Home Assistant. Web UI for spool assignment, QR scanning, and usage tracking. Bundled HA option w/ no YAML required!
 - [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React + Vite.
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.
@@ -1092,6 +1094,7 @@
 - [clechasseur/pathcopycopy](https://github.com/clechasseur/pathcopycopy) - Copy file paths from Windows explorer's contextual menu
 - [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 
 ## downloader 
 
@@ -1572,7 +1575,7 @@
 - [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations.
 - [UHaFnir/m3-cards](https://github.com/UHaFnir/m3-cards) - Material 3–inspired Lovelace cards for Home Assistant — 38 cards, built natively with Lit, no button-card/card-mod dependency
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
-- [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus and Zendure batteries in Home Assistant.
+- [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus, Zendure, Anker Solix, Sessy, Hoymiles batteries in Home Assistant.
 - [jayjojayson/power-flux-card](https://github.com/jayjojayson/power-flux-card) - ⚡ Power Flow Card - display your animated Power Flow in HA
 - [cgonfer/velair](https://github.com/cgonfer/velair) - Climate automation that adapts to your life.
 - [wgumaa/Adaptive-Cover-Controller](https://github.com/wgumaa/Adaptive-Cover-Controller) - An adaptive Home Assistant blueprint for intelligent sun protection of curtains, blinds and shutters using sun position, schedules, occupancy and optional weather conditions.
@@ -1704,7 +1707,7 @@
 
 - [Trooped/QuickBars](https://github.com/Trooped/QuickBars) - The Official QuickBars for Home Assistant Repository
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
-- [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus and Zendure batteries in Home Assistant.
+- [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus, Zendure, Anker Solix, Sessy, Hoymiles batteries in Home Assistant.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
@@ -2295,6 +2298,7 @@
 
 ## nodejs 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
@@ -2396,6 +2400,7 @@
 
 ## others 
 
+- [toniebox-reverse-engineering/tonies-json](https://github.com/toniebox-reverse-engineering/tonies-json) - Database of (all) Tonies and its metadata to identify it
 - [NickM-27/VoiceAssistant](https://github.com/NickM-27/VoiceAssistant) - A collection of my current config and optimizations for running HomeAssistant voice assistant
 - [kerniger/leapmotor-ha](https://github.com/kerniger/leapmotor-ha) - Unofficial Home Assistant integration for Leapmotor vehicles
 - [ProtossBlaster/leapmotor-mate](https://github.com/ProtossBlaster/leapmotor-mate) - Trip tracking, charge logging and remote control for Leapmotor vehicles (B05/B10/C10/T03 — battery-electric and REEV range-extender) — Home Assistant add-on or standalone Docker. A self-hosted TeslaMa
@@ -3003,7 +3008,6 @@
 - [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
 - [giwty/switch-library-manager](https://github.com/giwty/switch-library-manager) - Complete solution to manage, organize and keep your local switch backup game library up to date . Cross platform, supports all game formats.
 - [clinton-hall/GetScripts](https://github.com/clinton-hall/GetScripts) - A Collection of NZBGet Post-Process Scripts
-- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [sirk123au/ArrTools](https://github.com/sirk123au/ArrTools) - A collection of tools for Radarr, Sonarr & Lidarr
 
 ## p2p 
@@ -3101,6 +3105,7 @@
 
 ## privacy 
 
+- [msaifuddin/unifi-blocklist](https://github.com/msaifuddin/unifi-blocklist) - Free category-based DNS filtering for UniFi gateways (UCG, UDM, UDR): HaGeZi and other open-source blocklists inside UniFi's own content filter, filling the CyberSecure Enhanced categories, replacing 
 - [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-t
 - [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - A local voice assistant for Home Assistant on old Amazon Echoes, with no Amazon software left on them: our own Linux userspace (emOS), our own audio pipeline, and a wake word that runs on the Echo, so
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
@@ -3448,6 +3453,7 @@
 
 ## self-hosted 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React + Vite.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [jez500/pricebuddy](https://github.com/jez500/pricebuddy) - A self hostable app that tracks prices and sends you notifications when prices match your preferences
@@ -3602,6 +3608,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 
 ## server 
 
@@ -3772,6 +3779,7 @@
 
 ## typescript 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [Disane87/scrape-dojo](https://github.com/Disane87/scrape-dojo) - 🥷 Master the art of web scraping with JSON-powered workflows  Define scrapes declaratively · Template everything · Run and monitor in style
 - [jeremiaa/magic-frame](https://github.com/jeremiaa/magic-frame) - Self-hosted home display — part photo frame, part family board, part Home Assistant dashboard. Drag-&-drop, live sync, Immich wallpapers. No cloud.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
@@ -3889,6 +3897,7 @@
 
 ## vue 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
@@ -4011,6 +4020,7 @@
 
 ## windows-11 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
