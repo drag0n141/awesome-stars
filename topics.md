@@ -139,6 +139,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -255,7 +256,7 @@
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Self-hosted scanned document processor with AI-powered naming. Receives scans via FTP, SFTP, SCP, SMB or a watched folder, reads them with a local Ollama vision model, gives each file a dated, desc
@@ -370,7 +371,6 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -595,7 +595,7 @@
 
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
 ## claude-code 
 
@@ -673,7 +673,6 @@
 ## cpp 
 
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
 ## crawler 
@@ -947,7 +946,6 @@
 - [theneedyguy/streamslurp](https://github.com/theneedyguy/streamslurp) - A docker container for auto-downloading twitch vods.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [youegraillot/lidarr-on-steroids](https://github.com/youegraillot/lidarr-on-steroids) - Lidarr with some muscles thanks to deemix
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [shawly/docker-nut](https://github.com/shawly/docker-nut) - Docker container for https://github.com/blawar/NUT. "latest" & "v3" tags use stable release v3.3. "edge" tag uses latest master source code.
 - [Seji64/SniDust](https://github.com/Seji64/SniDust) - SmartDNS Proxy to hide your GeoLocation. Based on DnsDist and nginx
@@ -1559,6 +1557,7 @@
 
 ## home-assistant 
 
+- [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome
 - [thlucas1/homeassistantcomponent_spotifyplus](https://github.com/thlucas1/homeassistantcomponent_spotifyplus) - Home Assistant integration for Spotify Player control, services, and soundtouchplus integration support.
 - [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-t
 - [wilbowes/EchoMuse](https://github.com/wilbowes/EchoMuse) - A local voice assistant for Home Assistant on old Amazon Echoes, with no Amazon software left on them: our own Linux userspace (emOS), our own audio pipeline, and a wake word that runs on the Echo, so
@@ -1586,7 +1585,7 @@
 - [maxfok/nimbus-weather-card](https://github.com/maxfok/nimbus-weather-card) - Glassmorphic ethereal weather card - apple ios style
 - [pnbruckner/ha-composite-tracker](https://github.com/pnbruckner/ha-composite-tracker) - Home Assistant Composite Device Tracker
 - [analytix-energy-solutions/ticker](https://github.com/analytix-energy-solutions/ticker) - Smart notification management for Home Assistant. Centralized routing, user subscriptions, smart delivery.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [marcokreeft87/formulaone-card](https://github.com/marcokreeft87/formulaone-card) - Present the data of Formula One in a pretty way
@@ -2073,7 +2072,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping y
@@ -2159,7 +2158,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2168,6 +2167,18 @@
 - [apache/casbin-gateway](https://github.com/apache/casbin-gateway) - See what every AI coding agent on your machine is doing, and whether the API behind it is the one you paid for. Claude Code, Codex, Cursor, Gemini CLI and more: one endpoint for 44 model vendors, A–F 
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
+
+## mcp-server 
+
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 
@@ -2404,7 +2415,6 @@
 - [NickM-27/VoiceAssistant](https://github.com/NickM-27/VoiceAssistant) - A collection of my current config and optimizations for running HomeAssistant voice assistant
 - [kerniger/leapmotor-ha](https://github.com/kerniger/leapmotor-ha) - Unofficial Home Assistant integration for Leapmotor vehicles
 - [ProtossBlaster/leapmotor-mate](https://github.com/ProtossBlaster/leapmotor-mate) - Trip tracking, charge logging and remote control for Leapmotor vehicles (B05/B10/C10/T03 — battery-electric and REEV range-extender) — Home Assistant add-on or standalone Docker. A self-hosted TeslaMa
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers & Graph API for the UniFi suite of applications, Network, Protect, and Access
 - [yashrajrocxx/Mophe-AutoBuilds](https://github.com/yashrajrocxx/Mophe-AutoBuilds) - Dedicated list of most daily used apps with custom patches with simple homepage to download
 - [fscorrupt/wichtlag](https://github.com/fscorrupt/wichtlag) - Selbstgehostete Wichtel-App ohne E-Mail-Zwang. Rein linkbasiert, mit Admin-Geheimnis, Ausschlussregeln, Wunschzetteln und automatischem Löschen nach 14 Tagen.
 - [knx-ai/knx-ets-mcp](https://github.com/knx-ai/knx-ets-mcp) - MCP Server for KNX ETS 5/6 via ETS Addin
@@ -2559,7 +2569,6 @@
 - [fluxcd-community/helm-charts](https://github.com/fluxcd-community/helm-charts) - Community maintained Helm charts for Flux
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
 - [morph027/pve-iso-2-pxe](https://github.com/morph027/pve-iso-2-pxe) - Create PXE bootable Proxmox installation
-- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [dan-online/autopulse](https://github.com/dan-online/autopulse) - 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 - [Tensai75/nzb-monkey-go](https://github.com/Tensai75/nzb-monkey-go) - NZB Monkey Go - Golang version of the NZB Monkey with included NZB direct search
@@ -2722,6 +2731,7 @@
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [hoshsadiq/adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [aimaat/RemoteUpdate](https://github.com/aimaat/RemoteUpdate) - Install Windows Updates remotely with the help of the famous PSWindowsUpdate module
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
