@@ -90,6 +90,7 @@
 
 ## C 
 
+- [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome
 - [OpenKNX/OAM-WeatherWN90LP](https://github.com/OpenKNX/OAM-WeatherWN90LP) - OpenKNX Applikation Wetterstation WN90LP
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [amnezia-vpn/amneziawg-linux-kernel-module](https://github.com/amnezia-vpn/amneziawg-linux-kernel-module) - AmneziaWG Linux kernel module
@@ -317,7 +318,6 @@
 - [Noooste/garage-ui](https://github.com/Noooste/garage-ui) - Garage Admin UI with OIDC and team access control
 - [clyso/chorus](https://github.com/clyso/chorus) - s3 multi provider data lifecycle management
 - [garybowers/bootimus](https://github.com/garybowers/bootimus) - A Complete enhanced version of the PXE server supporting booting from ISOs written in Golang and Deployable via containers or binaries.
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [rajsinghtech/garage-operator](https://github.com/rajsinghtech/garage-operator) - A Kubernetes operator for managing Garage - a distributed S3-compatible object storage system designed for self-hosting.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - smart charging ☀️🚘
@@ -682,7 +682,6 @@
 
 - [fscorrupt/wichtlag](https://github.com/fscorrupt/wichtlag) - Selbstgehostete Wichtel-App ohne E-Mail-Zwang. Rein linkbasiert, mit Admin-Geheimnis, Ausschlussregeln, Wunschzetteln und automatischem Löschen nach 14 Tagen.
 - [jayjojayson/power-flux-card](https://github.com/jayjojayson/power-flux-card) - ⚡ Power Flow Card - display your animated Power Flow in HA
-- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) - https://github.com/DuarteSantos8/openGym
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
 - [onceuponatime78/ha-travelroute-card](https://github.com/onceuponatime78/ha-travelroute-card) - Custom Lovelace card for Home Assistant: visualise vehicle GPS travel history on an interactive map with road-accurate OSRM routing and park stop detection
 - [fgl27/SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - A Twitch web client that works on Android TVs and web base systems
@@ -809,7 +808,6 @@
 
 ## Just 
 
-- [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster...  and more! :sailboat:
 - [anthr76/infra](https://github.com/anthr76/infra) - My home or for-home infrastructure written as code defining GitOps principles for Kubernetes clusters.
 
 ## Kotlin 
@@ -1031,6 +1029,9 @@
 
 ## Python 
 
+- [joklee/ha_daikin_altherma4_modbus](https://github.com/joklee/ha_daikin_altherma4_modbus) - Home Assistant Integration for Daikin Altherma 4 with modbus
+- [HA-Update-Manager/ha-update-manager](https://github.com/HA-Update-Manager/ha-update-manager) - A smarter way to keep track of and manage updates within Home Assistant.
+- [toniebox-reverse-engineering/tonies-json](https://github.com/toniebox-reverse-engineering/tonies-json) - Database of (all) Tonies and its metadata to identify it
 - [kerniger/leapmotor-ha](https://github.com/kerniger/leapmotor-ha) - Unofficial Home Assistant integration for Leapmotor vehicles
 - [markoceri/leapconnect](https://github.com/markoceri/leapconnect) - Web application to control your leapmotor vehicle
 - [ProtossBlaster/leapmotor-mate](https://github.com/ProtossBlaster/leapmotor-mate) - Trip tracking, charge logging and remote control for Leapmotor vehicles (B05/B10/C10/T03 — battery-electric and REEV range-extender) — Home Assistant add-on or standalone Docker. A self-hosted TeslaMa
@@ -1052,7 +1053,7 @@
 - [wolffcatskyy/crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) - 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 32 free threat feeds
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor
 - [ViperRNMC/marstek_venus_modbus](https://github.com/ViperRNMC/marstek_venus_modbus) - 
-- [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus and Zendure batteries in Home Assistant.
+- [ffunes/Omnibattery](https://github.com/ffunes/Omnibattery) - Custom integration to monitor and control Marstek Venus, Zendure, Anker Solix, Sessy, Hoymiles batteries in Home Assistant.
 - [tomquist/AstraMeter](https://github.com/tomquist/AstraMeter) - This project emulates Smart Meter devices for Marstek storages such as the B2500, Marstek Jupiter and Marstek Venus energy storage system while allowing integration with almost any smart meters.
 - [MaStr/batcontrol](https://github.com/MaStr/batcontrol) - Helps to control your battery to get an advantage with dynamic grid pricing
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
@@ -1078,7 +1079,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [cloin/semaphore-mcp](https://github.com/cloin/semaphore-mcp) - MCP for SemaphoreUI
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [LukasGrebe/ha-addons](https://github.com/LukasGrebe/ha-addons) - Addons for Home Assistant
 - [BYTEDz/PCLink](https://github.com/BYTEDz/PCLink) - Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.
@@ -1336,6 +1337,7 @@
 
 - [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.
@@ -1412,6 +1414,7 @@
 
 ## Shell 
 
+- [msaifuddin/unifi-blocklist](https://github.com/msaifuddin/unifi-blocklist) - Free category-based DNS filtering for UniFi gateways (UCG, UDM, UDR): HaGeZi and other open-source blocklists inside UniFi's own content filter, filling the CyberSecure Enhanced categories, replacing 
 - [lemker/unifi-os-server](https://github.com/lemker/unifi-os-server) - Run UniFi OS Server in Docker or Kubernetes
 - [Ferdinand99/home-assistant-newt-addon](https://github.com/Ferdinand99/home-assistant-newt-addon) - A Home Assistant add-on to run the Newt container seamlessly. Easily configure PANGOLIN_ENDPOINT, NEWT_ID, and NEWT_SECRET via the Home Assistant UI. Supports automatic startup and restart.
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
@@ -1449,6 +1452,7 @@
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code. (Read-only Mirror)
 - [Euvaz/gitops-home](https://github.com/Euvaz/gitops-home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
+- [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster...  and more! :sailboat:
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
@@ -1761,6 +1765,7 @@
 
 ## Vue 
 
+- [hanzydev/Fileship](https://github.com/hanzydev/Fileship) - Your own ShareX server and file cloud: a native Windows app, File Explorer sync, AI search that runs on your server and a browser extension.
 - [NOXCIS/Wiregate](https://github.com/NOXCIS/Wiregate) - 🥷🏼  AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 - [Mawthuq-Software/Wireguard-Manager-GUI](https://github.com/Mawthuq-Software/Wireguard-Manager-GUI) - The front-end GUI for the wireguard manager and API.
 - [Lynx-Shortener/Lynx](https://github.com/Lynx-Shortener/Lynx) - A fullstack application using the MEVN stack to shorten your URLs.
