@@ -90,6 +90,7 @@
 
 ## C 
 
+- [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - 
 - [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome
 - [OpenKNX/OAM-WeatherWN90LP](https://github.com/OpenKNX/OAM-WeatherWN90LP) - OpenKNX Applikation Wetterstation WN90LP
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -630,7 +631,6 @@
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [olivomarco/my-ansible-linux-setup](https://github.com/olivomarco/my-ansible-linux-setup) - Simple, perfect setup of a Linux machine via Ansible
 - [harsh98trivedi/links](https://github.com/harsh98trivedi/links) - A Beautiful Jekyll Theme For Links
 - [ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
@@ -648,7 +648,6 @@
 ## Java 
 
 - [jasonwu1994/Gboard-patches](https://github.com/jasonwu1994/Gboard-patches) - Morphe patches for Gboard with practical upgrades for global users and Taiwan-focused enhancements.
-- [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.
 - [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter and instagram
 - [mamiiblt/instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
@@ -701,7 +700,6 @@
 - [LordBex/nzb-load](https://github.com/LordBex/nzb-load) - UserScript zum Laden von NZBLnk's
 - [book000/youtube-live-recorder](https://github.com/book000/youtube-live-recorder) - Record and download YouTube live videos. Works with Docker (Docker Compose).
 - [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again!
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card) - This lovelace card for Home Assistant displays the Octopus Energy rate prices per each 30 minute slot
 - [bokub/rgb-light-card](https://github.com/bokub/rgb-light-card) - 💡 A Home Assistant card for RGB lights
@@ -725,6 +723,7 @@
 - [Apollon77/ioBroker.tuya](https://github.com/Apollon77/ioBroker.tuya) - ioBroker adapter to connect to several small and cheap Wifi devices that care connected to the Tuya Cloud and mostly use the Smartlife App/Alexa-Skill
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
+- [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
@@ -813,6 +812,7 @@
 ## Kotlin 
 
 - [kota-zo/myspoti](https://github.com/kota-zo/myspoti) - Native Android client for Spotify, built with Jetpack Compose
+- [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [Trooped/QuickBars](https://github.com/Trooped/QuickBars) - The Official QuickBars for Home Assistant Repository
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
 - [pyamsoft/tetherfusenet](https://github.com/pyamsoft/tetherfusenet) - TetherFuseNet - Internet sharing without Root
@@ -1029,6 +1029,8 @@
 
 ## Python 
 
+- [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) - Talk to a Hermes Agent profile through Home Assistant Assist
+- [Ripthulhu/harmony-hub-root](https://github.com/Ripthulhu/harmony-hub-root) - Gets root access on a harmony hub and installs dropbear
 - [joklee/ha_daikin_altherma4_modbus](https://github.com/joklee/ha_daikin_altherma4_modbus) - Home Assistant Integration for Daikin Altherma 4 with modbus
 - [HA-Update-Manager/ha-update-manager](https://github.com/HA-Update-Manager/ha-update-manager) - A smarter way to keep track of and manage updates within Home Assistant.
 - [toniebox-reverse-engineering/tonies-json](https://github.com/toniebox-reverse-engineering/tonies-json) - Database of (all) Tonies and its metadata to identify it
@@ -1111,7 +1113,7 @@
 - [yungsnuzzy/conjurr](https://github.com/yungsnuzzy/conjurr) - Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next.
 - [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [dirkjanm/krbrelayx](https://github.com/dirkjanm/krbrelayx) - Kerberos relaying and unconstrained delegation abuse toolkit
-- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube for TV clients.
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your Ultimate IPTV & Stream Management Companion
 - [nitred/nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
@@ -1335,6 +1337,7 @@
 
 ## Rust 
 
+- [Zariel/cleanrr](https://github.com/Zariel/cleanrr) - 
 - [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
@@ -1655,6 +1658,7 @@
 - [clusterio/clusterio](https://github.com/clusterio/clusterio) - internet communication for factorio mods
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
