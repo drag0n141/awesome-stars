@@ -90,7 +90,6 @@
 
 ## C 
 
-- [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - 
 - [Gamer92000/echo-dot-assist](https://github.com/Gamer92000/echo-dot-assist) - Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voice satellites. Keeps Amazon's mic processing and wake word engine, replaces Alexa with a small C daemon speaking ESPHome
 - [OpenKNX/OAM-WeatherWN90LP](https://github.com/OpenKNX/OAM-WeatherWN90LP) - OpenKNX Applikation Wetterstation WN90LP
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -192,7 +191,7 @@
 - [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [fortheusers/hb-appstore](https://github.com/fortheusers/hb-appstore) - Homebrew App Store - GUI for downloading/managing homebrew apps
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [M2Team/NanaRun](https://github.com/M2Team/NanaRun) - Application runtime environment customization utility
@@ -246,6 +245,7 @@
 
 ## Dart 
 
+- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) - Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
 - [Nandanrmenon/nahcon](https://github.com/Nandanrmenon/nahcon) - Jellyfin Client for watching Movies and TV Shows (Made with Flutter 💙)
@@ -285,7 +285,7 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support
 - [patsissons/docker-plex-sync](https://github.com/patsissons/docker-plex-sync) - 
 
 ## EJS 
@@ -619,11 +619,12 @@
 - [FreekingDean/homelab](https://github.com/FreekingDean/homelab) - 
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [h3mmy/bloopySphere](https://github.com/h3mmy/bloopySphere) - My home cluster.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated self-hosting platform, from empty disks to running services with a single command
 
 ## HTML 
 
 - [Sturmi77/heatpump-hydraulic-card](https://github.com/Sturmi77/heatpump-hydraulic-card) - Animated hydraulic schematic card for heat pumps in Home Assistant – power sources, diverter valve, tanks, heating circuit. Zero-config presets for Lambda, Viessmann, Vaillant, Bosch/Buderus (EMS-ESP)
+- [dreadster3/home-ops](https://github.com/dreadster3/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [MorganKryze/JellyFlare](https://github.com/MorganKryze/JellyFlare) - Put announcements where your users will actually see them; a customisable banner at the top of Jellyfin, with rotating messages, scheduling, and link support.
 - [Pumba98/flux2-gitops](https://github.com/Pumba98/flux2-gitops) - Multi-cluster GitOps repository with Flux2, SOPS & Renovate
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
@@ -679,6 +680,7 @@
 
 ## JavaScript 
 
+- [schlambos/harmony-hub-control](https://github.com/schlambos/harmony-hub-control) - Local control for the Logitech Harmony Hub and its remotes, connected to Home Assistant in both directions. No Logitech app, account or cloud.
 - [fscorrupt/wichtlag](https://github.com/fscorrupt/wichtlag) - Selbstgehostete Wichtel-App ohne E-Mail-Zwang. Rein linkbasiert, mit Admin-Geheimnis, Ausschlussregeln, Wunschzetteln und automatischem Löschen nach 14 Tagen.
 - [jayjojayson/power-flux-card](https://github.com/jayjojayson/power-flux-card) - ⚡ Power Flow Card - display your animated Power Flow in HA
 - [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) - AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
@@ -811,7 +813,7 @@
 
 ## Kotlin 
 
-- [kota-zo/myspoti](https://github.com/kota-zo/myspoti) - Native Android client for Spotify, built with Jetpack Compose
+- [kota-zo/Orpheon](https://github.com/kota-zo/Orpheon) - Native Android client for Spotify, built with Jetpack Compose
 - [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [Trooped/QuickBars](https://github.com/Trooped/QuickBars) - The Official QuickBars for Home Assistant Repository
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
@@ -1029,6 +1031,10 @@
 
 ## Python 
 
+- [sylvertom/kiosk-satellite-dashboard](https://github.com/sylvertom/kiosk-satellite-dashboard) - Home Assistant dashboard for Echo Show and Echo Spot running Kiosk Satellite. Plain HTML, CSS and JavaScript.
+- [jmcollin78/solar_optimizer](https://github.com/jmcollin78/solar_optimizer) - The Solar Optimizer integration for Home Assistant starts and stops your equipments depending on the Solar net production
+- [AlexSantini10/ventwise](https://github.com/AlexSantini10/ventwise) - Weather-aware window ventilation and indoor-comfort recommendations for Home Assistant.
+- [snarky-snark/home-assistant-variables](https://github.com/snarky-snark/home-assistant-variables) - A custom Home Assistant component for declaring and setting generic variable entities dynamically.
 - [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) - Talk to a Hermes Agent profile through Home Assistant Assist
 - [Ripthulhu/harmony-hub-root](https://github.com/Ripthulhu/harmony-hub-root) - Gets root access on a harmony hub and installs dropbear
 - [joklee/ha_daikin_altherma4_modbus](https://github.com/joklee/ha_daikin_altherma4_modbus) - Home Assistant Integration for Daikin Altherma 4 with modbus
@@ -1067,7 +1073,6 @@
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [dreadster3/home-ops](https://github.com/dreadster3/home-ops) - HomeOps driven by Kubernetes and GitOps using Flux
 - [krissen/polleninformation](https://github.com/krissen/polleninformation) - Integration for homeassistant, creating sensors based on polleninformation.eu
 - [pnbruckner/ha-composite-tracker](https://github.com/pnbruckner/ha-composite-tracker) - Home Assistant Composite Device Tracker
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1337,6 +1342,7 @@
 
 ## Rust 
 
+- [rleeon/hoard](https://github.com/rleeon/hoard) - Free Automatic, versioned game save backup and sync for Windows, Linux, macOS, SteamOS, Brazzite.... Auto-detects 22,000+ games and any emulator. Use Hoard Cloud, or self-host with no Hoard One accoun
 - [Zariel/cleanrr](https://github.com/Zariel/cleanrr) - 
 - [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
@@ -1590,6 +1596,7 @@
 
 ## TypeScript 
 
+- [PartBuddy/partbuddy](https://github.com/PartBuddy/partbuddy) - Free desktop app for designing FDM 3D-print parts with an AI assistant in real CAD
 - [gibz104/SpoolmanSync](https://github.com/gibz104/SpoolmanSync) - Automatic filament tracking for Bambu Lab printers with Spoolman via Home Assistant. Web UI for spool assignment, QR scanning, and usage tracking. Bundled HA option w/ no YAML required!
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [UHaFnir/m3-cards](https://github.com/UHaFnir/m3-cards) - Material 3–inspired Lovelace cards for Home Assistant — 38 cards, built natively with Lit, no button-card/card-mod dependency
@@ -1611,7 +1618,7 @@
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [adn8naiagent/F1ReplayTiming](https://github.com/adn8naiagent/F1ReplayTiming) - Visualisation of real-time track data and telemetry synced to F1 replays.
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - MCP server that lets Claude, ChatGPT, Cursor and other AI assistants operate n8n: debug, edit, validate, test and build workflows on any n8n instance
 - [SuFxGIT/scoutarr](https://github.com/SuFxGIT/scoutarr) - Automate media upgrades in Radarr, Sonarr, Lidarr, and Readarr with smart filtering, scheduling, and a modern web UI.
 - [ohmzi/Immaculaterr](https://github.com/ohmzi/Immaculaterr) - Plex autopilot: curated recommendations, collections, and library cleanup (optional Radarr/Sonarr integration).
 - [GabeDuarteM/blocky-ui](https://github.com/GabeDuarteM/blocky-ui) - A modern web interface for managing and controlling your Blocky DNS server.
