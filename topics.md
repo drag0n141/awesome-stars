@@ -1559,6 +1559,7 @@
 
 ## home-assistant 
 
+- [sylvertom/kiosk-satellite-dashboard](https://github.com/sylvertom/kiosk-satellite-dashboard) - Home Assistant dashboard for Echo Show and Echo Spot running Kiosk Satellite. Plain HTML, CSS and JavaScript.
 - [jmcollin78/solar_optimizer](https://github.com/jmcollin78/solar_optimizer) - The Solar Optimizer integration for Home Assistant starts and stops your equipments depending on the Solar net production
 - [AlexSantini10/ventwise](https://github.com/AlexSantini10/ventwise) - Weather-aware window ventilation and indoor-comfort recommendations for Home Assistant.
 - [HA-Update-Manager/ha-update-manager](https://github.com/HA-Update-Manager/ha-update-manager) - A smarter way to keep track of and manage updates within Home Assistant.
@@ -2418,6 +2419,7 @@
 
 ## others 
 
+- [pickysysadmin/logitech-harmony-ir-archive](https://github.com/pickysysadmin/logitech-harmony-ir-archive) - An archive of every IR code and protocol format used by Logitech Harmony Remotes/Hubs
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [snarky-snark/home-assistant-variables](https://github.com/snarky-snark/home-assistant-variables) - A custom Home Assistant component for declaring and setting generic variable entities dynamically.
 - [Zariel/cleanrr](https://github.com/Zariel/cleanrr) - 
