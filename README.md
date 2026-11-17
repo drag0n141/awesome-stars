@@ -313,6 +313,9 @@
 
 ## Go 
 
+- [andig/controlbox](https://github.com/andig/controlbox) - 
+- [vollautomat/eebus-go](https://github.com/vollautomat/eebus-go) - EEBUS protocol implementation in go
+- [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server) - Self-hosted media streaming server with a Go backend, React web UI, Docker deployment, transcoding, and Jellyfin-compatible APIs.
 - [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-t
 - [Syntax3rror404/kubedactyl](https://github.com/Syntax3rror404/kubedactyl) - The missing game server web management interface for Kubernetes. Runs Pterodactyl and Pelican eggs as pods, one container, no database. Go + React + Vite.
 - [ishioni/dexd](https://github.com/ishioni/dexd) - external-dns but for docker!
@@ -551,7 +554,6 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-- [qdm12/srv](https://github.com/qdm12/srv) - srv is a small Go application to server static files over HTTP
 - [zorchenhimer/MoviePolls](https://github.com/zorchenhimer/MoviePolls) - Voting to decide on a movie to watch with MovieNight
 - [qdm12/dns](https://github.com/qdm12/dns) - Docker DNS server on steroids to access DNS-over-TLS from Cloudflare, Google, Quad9, Quadrant or CleanBrowsing
 - [sentriz/socr](https://github.com/sentriz/socr) - screenshot OCR server
@@ -980,7 +982,7 @@
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [pacoorozco/ssham](https://github.com/pacoorozco/ssham) - SSH Access Manager
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [ChanceM/pfSense-pkg-zerotier](https://github.com/ChanceM/pfSense-pkg-zerotier) - pfSense package to support zerotier.
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
@@ -1183,6 +1185,7 @@
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
 - [h-wb/home-ops](https://github.com/h-wb/home-ops) - Gitop driven Homelab with Kubernetes and Flux
 - [jack-broadway/vyos-modular](https://github.com/jack-broadway/vyos-modular) - A build system for vyos that allows you to import local/external modules to customize the build
+- [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster...  and more! :sailboat:
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
 - [samip5/k8s-cluster](https://github.com/samip5/k8s-cluster) - GitOps/Flux2 managed full-stack Kubernetes clusters
 - [auricom/home-ops](https://github.com/auricom/home-ops) - My home Kubernetes (talos) cluster managed by GitOps (Flux2) and serviced with RenovateBot
@@ -1343,9 +1346,10 @@
 
 ## Rust 
 
+- [JakubWawrzola/deskmate](https://github.com/JakubWawrzola/deskmate) - Your computers in Home Assistant: a desktop app for Windows and Linux, a Windows service, a Linux daemon and a Stream Deck plugin, over its own encrypted integration (no MQTT broker needed). x64 and A
 - [rleeon/hoard](https://github.com/rleeon/hoard) - Free Automatic, versioned game save backup and sync for Windows, Linux, macOS, SteamOS, Brazzite.... Auto-detects 22,000+ games and any emulator. Use Hoard Cloud, or self-host with no Hoard One accoun
 - [Zariel/cleanrr](https://github.com/Zariel/cleanrr) - 
-- [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+- [plxnative/plx-native](https://github.com/plxnative/plx-native) - Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
@@ -1462,7 +1466,6 @@
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code. (Read-only Mirror)
 - [Euvaz/gitops-home](https://github.com/Euvaz/gitops-home) - Self-hosted K8s cluster backed by Talos Linux, Flux and SOPS.
 - [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers
-- [Diaoul/home-ops](https://github.com/Diaoul/home-ops) - My GitOps-managed home Kubernetes cluster...  and more! :sailboat:
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [carpenike/k8s-gitops](https://github.com/carpenike/k8s-gitops) - My k8s cluster built with talos and managed by Flux-v2
@@ -1784,7 +1787,7 @@
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -1821,7 +1824,7 @@
 - [gabe565/charts](https://github.com/gabe565/charts) - ☸️ A collection of Helm charts, based on the bjw-s common library chart.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [ishioni/homelab-ops](https://github.com/ishioni/homelab-ops) - Family-friendly HomeOps driven by Kubernetes and GitOps using Flux
-- [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
+- [kashalls/infrastructure](https://github.com/kashalls/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 - [aumer-amr/labv2](https://github.com/aumer-amr/labv2) - My HomeOps running on Kubernetes
 - [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [qlonik/musical-parakeet](https://github.com/qlonik/musical-parakeet) - 
