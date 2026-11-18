@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [gnacho/netpulse](https://github.com/gnacho/netpulse) - PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend,
 - [andig/controlbox](https://github.com/andig/controlbox) - 
 - [vollautomat/eebus-go](https://github.com/vollautomat/eebus-go) - EEBUS protocol implementation in go
 - [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server) - Self-hosted media streaming server with a Go backend, React web UI, Docker deployment, transcoding, and Jellyfin-compatible APIs.
@@ -384,6 +385,7 @@
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [pelotech/nidhogg](https://github.com/pelotech/nidhogg) - Kubernetes Node taints based on Daemonset Pods
 - [teocns/kubectl-finalize](https://github.com/teocns/kubectl-finalize) - Finalize Kubernetes resources that are stuck in a Terminating state
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
@@ -816,7 +818,7 @@
 
 ## Kotlin 
 
-- [kota-zo/Orpheon](https://github.com/kota-zo/Orpheon) - Native Android client for Spotify, built with Jetpack Compose
+- [kota-zo/Orpheon](https://github.com/kota-zo/Orpheon) - 
 - [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) - Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 - [Trooped/QuickBars](https://github.com/Trooped/QuickBars) - The Official QuickBars for Home Assistant Repository
 - [brosssh/morphe-patches](https://github.com/brosssh/morphe-patches) - 🧩 Distraction free Instagram + few patches for apps I care about
@@ -1034,6 +1036,8 @@
 
 ## Python 
 
+- [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
+- [webdjoe/pyvesync](https://github.com/webdjoe/pyvesync) - pyvesync is a python library to manage Etekcity & Levoit smart devices
 - [sylvertom/kiosk-satellite-dashboard](https://github.com/sylvertom/kiosk-satellite-dashboard) - Home Assistant dashboard for Echo Show and Echo Spot running Kiosk Satellite. Plain HTML, CSS and JavaScript.
 - [jmcollin78/solar_optimizer](https://github.com/jmcollin78/solar_optimizer) - The Solar Optimizer integration for Home Assistant starts and stops your equipments depending on the Solar net production
 - [AlexSantini10/ventwise](https://github.com/AlexSantini10/ventwise) - Weather-aware window ventilation and indoor-comfort recommendations for Home Assistant.
@@ -1667,9 +1671,8 @@
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [clusterio/clusterio](https://github.com/clusterio/clusterio) - internet communication for factorio mods
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
-- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - AI companion for Paperless-ngx: automatically titles, tags and files your documents, reads bad scans with local OCR (PaddleOCR, CPU/GPU) and answers questions about your whole archive with cited sourc
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [Hampelmen/nzb-sources](https://github.com/Hampelmen/nzb-sources) - 
